@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article. Its journal reference will be added when it is published."
+title: "WaveFiLM-Net: Wavelet-Conditioned Spatial Feature-Wise Modulation of Frozen Features for Lung CT Image Classification"
+type: software
+license: MIT
+version: 0.2.0
+# repository-code and date-released are added when the public repository is created and tagged.
+keywords:
+  - lung cancer
+  - grouped cross-validation
+  - wavelet transform
+  - feature-wise linear modulation
+  - frozen backbone
+  - data leakage
+authors:
+  - family-names: "Cömert"
+    given-names: "Zafer"
+    affiliation: "Department of Software Engineering, Faculty of Computer and Information Sciences, Samsun University, Samsun, Türkiye"
+    orcid: "https://orcid.org/0000-0001-5256-7648"
+  - family-names: "Çoban"
+    given-names: "Sarp"
+    affiliation: "Department of Software Engineering, Faculty of Computer and Information Sciences, Samsun University, Samsun, Türkiye"
+    orcid: "https://orcid.org/0000-0002-1078-3227"
+  - family-names: "Karaoğlan"
+    given-names: "Kürşat Mustafa"
+    affiliation: "Department of Computer Engineering, Faculty of Computer and Information Sciences, Karabük University, Karabük, Türkiye"
+    orcid: "https://orcid.org/0000-0001-9830-7622"
+  - family-names: "Toğaçar"
+    given-names: "Mesut"
+    affiliation: "Department of Management Information Systems, Faculty of Economics and Administrative Sciences, Fırat University, Elazığ, Türkiye"
+    orcid: "https://orcid.org/0000-0002-8264-3899"
+preferred-citation:
+  type: article
+  title: "WaveFiLM-Net: Wavelet-Conditioned Spatial Feature-Wise Modulation of Frozen Features for Lung CT Image Classification"
+  authors:
+    - family-names: "Cömert"
+      given-names: "Zafer"
+    - family-names: "Çoban"
+      given-names: "Sarp"
+    - family-names: "Karaoğlan"
+      given-names: "Kürşat Mustafa"
+    - family-names: "Toğaçar"
+      given-names: "Mesut"

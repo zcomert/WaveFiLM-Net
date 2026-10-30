@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+# training outputs of scripts/run_fold.py and scripts/nested_audit.py
+runs/
+nested/
+*.pt
+*.pth
+# images are not redistributed
+images/
+data/
+.DS_Store
+Thumbs.db

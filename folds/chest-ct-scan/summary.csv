@@ -1,0 +1,6 @@
+dataset,fold,n_train,n_valid,n_test,test_LUAD,test_LCLC,test_LUSC,test_Normal
+chest-ct-scan,1,690,111,199,68,38,52,41
+chest-ct-scan,2,690,111,199,68,37,52,42
+chest-ct-scan,3,680,114,206,67,37,52,50
+chest-ct-scan,4,691,111,198,67,38,52,41
+chest-ct-scan,5,691,111,198,68,37,52,41

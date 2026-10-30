@@ -1,0 +1,33 @@
+{
+ "protocol": "R05-NCV-P1",
+ "models": [
+  {
+   "model": "nested_selected",
+   "macro_f1_percent": 88.43177835806254,
+   "seed_scores": [
+    0.889913545631549,
+    0.8837834887482406,
+    0.8792563163620866
+   ]
+  },
+  {
+   "model": "lp",
+   "macro_f1_percent": 78.85593867242514,
+   "seed_scores": [
+    0.7852684592937094,
+    0.8027752724795172,
+    0.7776344283995277
+   ]
+  },
+  {
+   "model": "gf_head",
+   "macro_f1_percent": 80.77119387567477,
+   "seed_scores": [
+    0.8228421503461814,
+    0.7984303568512593,
+    0.8018633090728021
+   ]
+  }
+ ],
+ "scope": "Retrospective nested-selected procedure, not independent validation of locked WaveFiLM-Net"
+}

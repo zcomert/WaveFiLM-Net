@@ -1,0 +1,6 @@
+dataset,fold,n_train,n_valid,n_test,test_LUAD,test_LUSC,test_Normal
+kaggle-ct,1,562,89,161,67,52,42
+kaggle-ct,2,562,89,161,68,52,41
+kaggle-ct,3,551,92,169,67,52,50
+kaggle-ct,4,562,89,161,68,52,41
+kaggle-ct,5,562,90,160,67,52,41

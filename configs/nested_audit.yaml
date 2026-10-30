@@ -1,0 +1,39 @@
+# Retrospective nested selection audit (manuscript Sections 2.5 and 3.6), harmonized collection.
+# Inside each outer training partition, backbone, prior, subband, fusion, and head are selected stage by stage
+# on three inner grouped folds over seeds 1-3. All outer selections are locked before any outer test prediction.
+collection: harmonized-dataset
+outer_folds: [1, 2, 3, 4, 5]
+inner_folds: 3
+split_seed: 20261024          # inner folds of outer fold k use split_seed + k
+early_stopping_folds: 7       # the first of seven grouped splits of each inner training pool is its inner validation
+seeds: [1, 2, 3]
+selection: highest seed-mean pooled inner macro-F1
+tie_break: fewer trainable parameters, then candidate id
+backbones: [vgg-16, vgg-19, resnet-101, densenet-169, densenet-201, mobilenet, inception-v3, efficient-b7,
+            convnext-small, convnext-base, convnext-large]
+stages:                       # each stage also keeps its current reference as the candidate retain_reference
+  prior:
+    - {id: binary_prior, patch: {prior: binary}}
+    - {id: soft_prior, patch: {prior: soft}}
+    - {id: residual_prior, patch: {prior: residual}}
+    - {id: prior_film, patch: {prior: film}}
+    - {id: blob_prior, patch: {prior: blob_residual}}
+    - {id: ridge_blob_prior, patch: {prior: ridge_blob_residual}}
+  subband:
+    - {id: pooling_bands, patch: {subband: pooling_bands}}
+    - {id: fixed_haar, patch: {subband: fixed_haar}}
+    - {id: learned_haar, patch: {subband: dhsr}}
+    - {id: learned_pooling, patch: {subband: learned_pooling}}
+    - {id: no_subband, patch: {subband: no_subband}}
+  fusion:
+    - {id: softmax_gate, patch: {fusion: softmax_gate}}
+    - {id: sigmoid_gate, patch: {fusion: sigmoid_gate}}
+    - {id: scalar_gate, patch: {fusion: scalar_gate}}
+    - {id: spatial_two_way, patch: {fusion: two_way}}
+    - {id: spatial_film, patch: {fusion: sff}}
+  head:
+    - {id: context_pool, patch: {pooling: context}}
+    - {id: separate_prior_stream, patch: {prior_stream: true}}
+outer_comparators:            # trained on the selected backbone of each outer fold
+  lp: {}
+  gf_head: {prior: threshold_mask, subband: pooling_bands, fusion: softmax_gate}

@@ -1,0 +1,1253 @@
+relpath,label,phash,group
+train/LCLC/chest-ct-scan_000002_9c2e491b.png,LCLC,d5e92604e9db9661,0
+train/LCLC/chest-ct-scan_000003 (4)_08b31c86.png,LCLC,d11e26b12dcec693,1
+train/LCLC/chest-ct-scan_000009 (4)_f5d1a546.png,LCLC,995e66b168c5b51a,2
+train/LCLC/chest-ct-scan_000016 (3)_0c5bfdc4.png,LCLC,991767e0789db146,3
+train/LCLC/chest-ct-scan_000017_25d8aada.png,LCLC,dd0722b97d44a1b3,4
+train/LCLC/chest-ct-scan_000018 (2)_6078bb17.png,LCLC,911a2ee5f992963c,5
+train/LCLC/chest-ct-scan_000019 (3)_a9c87242.png,LCLC,996f6691394cc633,6
+train/LCLC/chest-ct-scan_000019 (4)_3baa8c47.png,LCLC,996e6691394ec633,6
+train/LCLC/chest-ct-scan_000021_efb89e2b.png,LCLC,9893636c3e997932,7
+train/LCLC/chest-ct-scan_000023 (2)_e3b00ebe.png,LCLC,913a6ec5b11ad66c,8
+train/LCLC/chest-ct-scan_000024 (2)_8f1ed570.png,LCLC,d42c2bd3d44f833c,9
+train/LCLC/chest-ct-scan_000026 (2)_41f3bcb2.png,LCLC,d82f26b07dc6c433,10
+train/LCLC/chest-ct-scan_000026_06209b25.png,LCLC,9893476c7e992933,11
+train/LCLC/chest-ct-scan_000027_e2563d72.png,LCLC,99de662179cec511,12
+train/LCLC/chest-ct-scan_000031 (2)_18290625.png,LCLC,d40a2ba5fc73c31c,13
+train/LCLC/chest-ct-scan_000032_7ecfb074.png,LCLC,9c13436c2fd43cb6,14
+train/LCLC/chest-ct-scan_000033 (3)_07f383b7.png,LCLC,991e66e178c561d6,15
+train/LCLC/chest-ct-scan_000033 (4)_36e75b60.png,LCLC,991e66f87a8521d6,16
+train/LCLC/chest-ct-scan_000034 (2)_c552805e.png,LCLC,d16a26b5b942c63d,17
+train/LCLC/chest-ct-scan_000039 (3)_9c3f82e1.png,LCLC,811c76b339cdc69a,18
+train/LCLC/chest-ct-scan_000040 (2)_53813a62.png,LCLC,d4d82b27d4d84b47,19
+train/LCLC/chest-ct-scan_000041 (3)_e2599102.png,LCLC,991e67e17897a146,20
+train/LCLC/chest-ct-scan_000041_f2487c9a.png,LCLC,995e46a939d56433,21
+train/LCLC/chest-ct-scan_000042 (2)_e3e889e0.png,LCLC,994666b83947c73a,22
+train/LCLC/chest-ct-scan_000043 (2)_b8ea8389.png,LCLC,d46f2b94d44b8b34,23
+train/LCLC/chest-ct-scan_000047 (2)_9a7bd431.png,LCLC,94166ee9e9969629,24
+train/LCLC/chest-ct-scan_000051_3affe2db.png,LCLC,994767bc7a012177,25
+train/LCLC/chest-ct-scan_000055 (3)_5b9f7e4c.png,LCLC,996e66912946d63b,6
+train/LCLC/chest-ct-scan_000055_a24d2a6d.png,LCLC,981653696f903ce7,26
+train/LCLC/chest-ct-scan_000056 (3)_c959cd4a.png,LCLC,991e66e1780de1d6,15
+train/LCLC/chest-ct-scan_000056 (4)_2dcae8c5.png,LCLC,894e66f3381de172,27
+train/LCLC/chest-ct-scan_000057 (3)_3d4509b1.png,LCLC,994d66b3394cc693,28
+train/LCLC/chest-ct-scan_000057 (4)_5f9dc090.png,LCLC,994d66b3394cc693,28
+train/LCLC/chest-ct-scan_000057_502fe9f2.png,LCLC,9c16436d6b943cf4,29
+train/LCLC/chest-ct-scan_000062 (2)_3445eafe.png,LCLC,981267ed3ab62939,30
+train/LCLC/chest-ct-scan_000062 (3)_4713620f.png,LCLC,c0363dc96ab46957,31
+train/LCLC/chest-ct-scan_000062_d742440c.png,LCLC,995646e87a952177,32
+train/LCLC/chest-ct-scan_000063_64a52d86.png,LCLC,995247ac3ad169b6,33
+train/LCLC/chest-ct-scan_000065 (2)_c77bfaf7.png,LCLC,957a2a85e9769658,34
+train/LCLC/chest-ct-scan_000066 (2)_b945c13e.png,LCLC,981267ed1a94ed63,35
+train/LCLC/chest-ct-scan_000066_e5ad9284.png,LCLC,9c1643696f943c37,36
+train/LCLC/chest-ct-scan_000068 (3)_45fdbeea.png,LCLC,991e26f278cd6156,37
+train/LCLC/chest-ct-scan_000068 (4)_4b5d282e.png,LCLC,991e66e178c5b196,15
+train/LCLC/chest-ct-scan_000071 (2)_dbc346c8.png,LCLC,d16a26b579c68639,38
+train/LCLC/chest-ct-scan_000072 (2)_b6bf2a4b.png,LCLC,990366ec3993c56d,39
+train/LCLC/chest-ct-scan_000077_8dfb8694.png,LCLC,9c1b636c3f9138b2,40
+train/LCLC/chest-ct-scan_000078 (3)_1f5dc6d1.png,LCLC,c11e3ee96a9638c3,41
+train/LCLC/chest-ct-scan_000081_875ad361.png,LCLC,995646a83a9561f7,32
+train/LCLC/chest-ct-scan_000084 (2)_e4d8be2f.png,LCLC,990366fc39b0f447,42
+train/LCLC/chest-ct-scan_000084_4b73827d.png,LCLC,995e46ad39d46193,43
+train/LCLC/chest-ct-scan_000093 (4)_3f7c7ef4.png,LCLC,916e66b129c4b79a,44
+train/LCLC/chest-ct-scan_000094 (2)_62dad9d4.png,LCLC,9d2262bd3dc2e03b,45
+train/LCLC/chest-ct-scan_000094 (3)_9900bab1.png,LCLC,915b66b069ce9633,46
+train/LCLC/chest-ct-scan_000094 (4)_68774496.png,LCLC,917c6eb129ccc633,47
+train/LCLC/chest-ct-scan_000095 (2)_c929dd2f.png,LCLC,d93366ec3d90f007,48
+train/LCLC/chest-ct-scan_000095 (4)_baec0be3.png,LCLC,981e67e97a8721c6,49
+train/LCLC/chest-ct-scan_000095_35ce0b24.png,LCLC,d94b22b07dc7c48b,50
+train/LCLC/chest-ct-scan_000097 (2)_c8feb4c2.png,LCLC,997a660539dec711,51
+train/LCLC/chest-ct-scan_000097_1aded82e.png,LCLC,9c5b63ac3f503c92,52
+train/LCLC/chest-ct-scan_000098 (4)_74baeeb2.png,LCLC,992e669129c6d73a,6
+train/LCLC/chest-ct-scan_000104 (2)_d4614f30.png,LCLC,99b3666d389a8569,53
+train/LCLC/chest-ct-scan_000104_efeaddab.png,LCLC,994b46bd399461d3,54
+train/LCLC/chest-ct-scan_000105 (2)_ccd38cb1.png,LCLC,915f66a1b9578638,55
+train/LCLC/chest-ct-scan_000105_db8c6f07.png,LCLC,c1161fe967943cf0,56
+train/LCLC/chest-ct-scan_000106 (2)_8e135b3c.png,LCLC,993966441f93e46d,57
+train/LCLC/chest-ct-scan_000106_aaaad73d.png,LCLC,dd2222bd7dc0318f,58
+train/LCLC/chest-ct-scan_000108 (2)_f54a1802.png,LCLC,81da6621b9d6c679,59
+train/LCLC/chest-ct-scan_000108_163f6631.png,LCLC,91c97e16297996c6,60
+train/LCLC/chest-ct-scan_000108_73e82ef2.png,LCLC,995e062979b46d93,61
+train/LCLC/chest-ct-scan_000109_8b168508.png,LCLC,c02e1fd57a8a2bb4,62
+train/LCLC/chest-ct-scan_000110 (2)_80ef797d.png,LCLC,992666f87a85a556,63
+train/LCLC/chest-ct-scan_000110_63a4976e.png,LCLC,c6a617197af268c5,64
+train/LCLC/chest-ct-scan_000111 (2)_d48b4eed.png,LCLC,994766981ba1ebc6,65
+train/LCLC/chest-ct-scan_000111_24f9a892.png,LCLC,917b662569dec660,66
+train/LCLC/chest-ct-scan_000111_c73e1ef2.png,LCLC,99b3664c389ba565,67
+train/LCLC/chest-ct-scan_000113 (2)_1b1f075c.png,LCLC,901e6fe33a1c95c3,68
+train/LCLC/chest-ct-scan_000113 (2)_a9eeb357.png,LCLC,91fb66062969d6c5,69
+train/LCLC/chest-ct-scan_000113_aabd8d04.png,LCLC,995a662479d6c713,70
+train/LCLC/chest-ct-scan_000113_ca3721e7.png,LCLC,91326ee57a1891e7,71
+train/LCLC/chest-ct-scan_000114_e4872a17.png,LCLC,999266cd699a3c69,72
+train/LCLC/chest-ct-scan_000115 (2)_e33b2716.png,LCLC,c1933e6d69963439,73
+train/LCLC/chest-ct-scan_000115 (3)_d55abdb7.png,LCLC,c1163de94a9639d3,74
+train/LCLC/chest-ct-scan_000116_34a23559.png,LCLC,990267bc7a9129e7,75
+train/LCLC/chest-ct-scan_000116_ae3632fa.png,LCLC,91336ec6787b8165,76
+train/LCLC/chest-ct-scan_000118_0c7cd06e.png,LCLC,949c2b66f43993c6,77
+train/LCLC/chest-ct-scan_000120_71abc820.png,LCLC,913f6e9079498727,78
+train/LCLC/chest-ct-scan_000120_bc85b072.png,LCLC,994b66b47e45a163,79
+train/LCLC/chest-ct-scan_000122_3a706cba.png,LCLC,d19a26e5691e3c69,80
+train/LCLC/chest-ct-scan_000123_97707b54.png,LCLC,993b66c6385a256d,81
+train/LCLC/chest-ct-scan_000124 (2)_1fb41e16.png,LCLC,999c66e3386e6171,82
+train/LCLC/chest-ct-scan_000126_d54936d6.png,LCLC,991366ec3b91e946,83
+train/LCLC/chest-ct-scan_000127 (2)_32d7063b.png,LCLC,813a7ec529edc632,84
+train/LCLC/chest-ct-scan_000128_ee8da688.png,LCLC,919c6e66f1798686,85
+train/LCLC/chest-ct-scan_000130_5a51e4cf.png,LCLC,919b6e6679798684,86
+train/LCLC/chest-ct-scan_000131 (2)_fcbdf954.png,LCLC,91d87e2629e99696,87
+train/LCLC/chest-ct-scan_000133 (2)_dabaa9b3.png,LCLC,989e676178963179,88
+train/LCLC/chest-ct-scan_000133_b1c4d439.png,LCLC,998766e63939c561,89
+train/LCLC/chest-ct-scan_000138 (2)_c35b7340.png,LCLC,d19a37656b463c38,90
+train/LCLC/chest-ct-scan_000141_d1c8bb09.png,LCLC,99d966163978c565,91
+train/LCLC/chest-ct-scan_000143_8c0610a1.png,LCLC,d0336fcc3893c267,92
+train/LCLC/chest-ct-scan_000147 (2)_074708de.png,LCLC,c1163fc96ac63563,93
+train/LCLC/chest-ct-scan_000148 (2)_b119ad89.png,LCLC,999a27656a1e3569,94
+train/LCLC/chest-ct-scan_000148_833d1971.png,LCLC,997a662539dec701,51
+train/LCLC/chest-ct-scan_000149_a421c206.png,LCLC,d893224e3d3bc0f5,95
+train/LCLC/chest-ct-scan_000150_6e460796.png,LCLC,d01e2fe1691f903b,96
+train/LCLC/chest-ct-scan_000150_94fc64a1.png,LCLC,91bb6ec7601899e5,97
+train/LCLC/chest-ct-scan_000154 (2)_0df0baa8.png,LCLC,919c6693396cc733,98
+train/LCLC/chest-ct-scan_000154_3edc5383.png,LCLC,d00e2bf06f89943f,99
+train/LCLC/chest-ct-scan_000154_45178a42.png,LCLC,913b6ec661999366,100
+train/LCLC/chest-ct-scan_000155_867df625.png,LCLC,99bd669678784561,101
+train/LCLC/chest-ct-scan_000159 (2)_c433df31.png,LCLC,d13b66d678698165,102
+train/LCLC/chest-ct-scan_000159_2a2e7043.png,LCLC,d16626b97946853b,103
+train/LCLC/chest-ct-scan_000159_9a920fd2.png,LCLC,993166da794e85b1,104
+train/LCLC/chest-ct-scan_000160_158bd90b.png,LCLC,81d87e2721e8d697,105
+train/LCLC/chest-ct-scan_000162_9b549df8.png,LCLC,999b67e7381a0569,106
+train/LCLC/chest-ct-scan_000169_8b5b0cd1.png,LCLC,95d86e26e1699696,107
+train/LCLC/chest-ct-scan_000169_cd122ae8.png,LCLC,d46d2b92dc6b870c,108
+train/LCLC/chest-ct-scan_000170_e021ea26.png,LCLC,81d97e062179de96,109
+train/LCLC/chest-ct-scan_000171_a958681d.png,LCLC,91f966073978c565,91
+train/LCLC/chest-ct-scan_000172 (2)_787e1801.png,LCLC,91b966c6783a856d,110
+train/LCLC/chest-ct-scan_000172_c72ede96.png,LCLC,d0a327dc3d0ac4f5,111
+train/LCLC/chest-ct-scan_000173 (2)_db9f93f4.png,LCLC,81bd7e52296dc692,112
+train/LCLC/chest-ct-scan_000173_52e90b56.png,LCLC,990366fc3983c47e,113
+train/LCLC/chest-ct-scan_000173_616acf86.png,LCLC,d0b32bcc3c39c2f4,114
+train/LCLC/chest-ct-scan_000174_4344e258.png,LCLC,91bd6ed23978c425,115
+train/LCLC/chest-ct-scan_di1_47eda852.png,LCLC,c85317ac6ec2783b,116
+train/LCLC/chest-ct-scan_l1_f66f99cd.png,LCLC,c873172c6ec2783b,116
+train/LCLC/chest-ct-scan_l3_7ed10556.png,LCLC,891b76e4291ad5cd,117
+train/LCLC/chest-ct-scan_l4_8ec2cff6.png,LCLC,d81b66e4393b2571,118
+train/LCLC/chest-ct-scan_l5_c7deb4e0.png,LCLC,c97936e44b872c78,119
+train/LCLC/chest-ct-scan_l6_8d1cfb0f.png,LCLC,891b76e46a16c5cd,120
+train/LUAD/chest-ct-scan_000005 (3)_63c09ff0.png,LUAD,994e66b97944c533,121
+train/LUAD/chest-ct-scan_000005 (9)_a49a4557.png,LUAD,9cb8274768ee9631,122
+train/LUAD/chest-ct-scan_000009 (3)_f8c56e26.png,LUAD,981a676d3b9270b3,123
+train/LUAD/chest-ct-scan_000009 (7)_dde91915.png,LUAD,c94e36f16d1690cb,124
+train/LUAD/chest-ct-scan_000013 (4)_867a7159.png,LUAD,913a6e6531d66939,125
+train/LUAD/chest-ct-scan_000013 (8)_a1c05852.png,LUAD,d812376d6bd03c93,126
+train/LUAD/chest-ct-scan_000014 (7)_4780d3f5.png,LUAD,c1363fe93a9261a6,127
+train/LUAD/chest-ct-scan_000015 (10)_f0ef4142.png,LUAD,9913667c7aa129c7,128
+train/LUAD/chest-ct-scan_000016 (9)_eafa9352.png,LUAD,993a76c5688aa579,129
+train/LUAD/chest-ct-scan_000019 (5)_57d606c8.png,LUAD,c91a36e57813c1ee,130
+train/LUAD/chest-ct-scan_000020 (10)_02e03fe2.png,LUAD,d44b2bb47c83c64e,131
+train/LUAD/chest-ct-scan_000020 (5)_58eee390.png,LUAD,c0793fa46ed3114b,132
+train/LUAD/chest-ct-scan_000020 (6)_42390dc7.png,LUAD,883e56f139ce4475,133
+train/LUAD/chest-ct-scan_000021 (3)_cc5a0ff8.png,LUAD,991766e83991f18e,134
+train/LUAD/chest-ct-scan_000021 (4)_7661040d.png,LUAD,9c7663093c9e38e9,135
+train/LUAD/chest-ct-scan_000021 (5)_10dd1708.png,LUAD,d0ec2b13aceed341,136
+train/LUAD/chest-ct-scan_000021 (6)_06ea6dce.png,LUAD,891e46f07acd39e2,137
+train/LUAD/chest-ct-scan_000021 (8)_9bd5bfee.png,LUAD,9d0b62f46ac73899,138
+train/LUAD/chest-ct-scan_000022 (10)_44bd74b6.png,LUAD,d42b2bfc7cc2822b,139
+train/LUAD/chest-ct-scan_000022 (2)_2b4f20aa.png,LUAD,d87227c4381b97bc,140
+train/LUAD/chest-ct-scan_000022 (8)_5f07d43a.png,LUAD,dd0f26f078c124f3,141
+train/LUAD/chest-ct-scan_000022 (9)_cc027ab8.png,LUAD,d82b6780389bb579,142
+train/LUAD/chest-ct-scan_000022_349a53d1.png,LUAD,d4ea6b14bcebc214,143
+train/LUAD/chest-ct-scan_000023 (10)_ef8c24b5.png,LUAD,9993676c3e92318b,144
+train/LUAD/chest-ct-scan_000023 (5)_63cba3c3.png,LUAD,cc2e33e96c16872b,145
+train/LUAD/chest-ct-scan_000023 (7)_699dd990.png,LUAD,811b7ee43913c799,146
+train/LUAD/chest-ct-scan_000023 (9)_300b02c7.png,LUAD,dc38270778ce9639,147
+train/LUAD/chest-ct-scan_000024 (10)_7c60bea6.png,LUAD,891766fc7885b196,148
+train/LUAD/chest-ct-scan_000024 (7)_994f60d9.png,LUAD,c91e36e9691435e3,149
+train/LUAD/chest-ct-scan_000024_1337c02d.png,LUAD,d16e269139c6d479,150
+train/LUAD/chest-ct-scan_000025 (6)_bdb6ed99.png,LUAD,c18c2b333c6fc3d4,151
+train/LUAD/chest-ct-scan_000026 (10)_850732d2.png,LUAD,9837676d3a902dc3,152
+train/LUAD/chest-ct-scan_000026 (3)_510db792.png,LUAD,d90322fd3d92d02f,153
+train/LUAD/chest-ct-scan_000027 (4)_6400eabd.png,LUAD,9c6663193c9e70e9,135
+train/LUAD/chest-ct-scan_000027 (6)_20e2e359.png,LUAD,c11a3e65669939b6,154
+train/LUAD/chest-ct-scan_000029 (4)_048d8003.png,LUAD,dc3663693c9e6069,155
+train/LUAD/chest-ct-scan_000029 (5)_20852f52.png,LUAD,d91a26e57813c56e,130
+train/LUAD/chest-ct-scan_000030 (4)_d003c5b3.png,LUAD,98f6675938ce0479,156
+train/LUAD/chest-ct-scan_000031 (3)_2f2ddc01.png,LUAD,994e663139ecc4d3,157
+train/LUAD/chest-ct-scan_000032 (8)_7b273c6b.png,LUAD,991e16b979c72493,158
+train/LUAD/chest-ct-scan_000035 (4)_17b7197c.png,LUAD,d82727d03c8bc63d,159
+train/LUAD/chest-ct-scan_000035 (5)_42195d55.png,LUAD,c93a26ed3891e53a,160
+train/LUAD/chest-ct-scan_000035 (8)_778c1986.png,LUAD,c44e2bb17c53c68e,161
+train/LUAD/chest-ct-scan_000036 (6)_3636ea47.png,LUAD,819f46a1395ec4bd,162
+train/LUAD/chest-ct-scan_000036 (7)_ed974d7c.png,LUAD,c94e36b1695494eb,163
+train/LUAD/chest-ct-scan_000040 (3)_8b6d4c66.png,LUAD,994e66f97885b146,164
+train/LUAD/chest-ct-scan_000040 (5)_f74a8534.png,LUAD,cc7a33e56c1ad065,165
+train/LUAD/chest-ct-scan_000041 (2)_e602cb2a.png,LUAD,d82367d43893b46d,166
+train/LUAD/chest-ct-scan_000041 (7)_64f97959.png,LUAD,c95e36a1695434eb,163
+train/LUAD/chest-ct-scan_000041 (8)_2544ed10.png,LUAD,cc0e23f879c76433,167
+train/LUAD/chest-ct-scan_000044 (10)_09bfd8cf.png,LUAD,cc4e16f96996c51a,168
+train/LUAD/chest-ct-scan_000044 (9)_9b1c6a0e.png,LUAD,c16e3e6563923c69,169
+train/LUAD/chest-ct-scan_000046 (5)_92968afb.png,LUAD,cd1a32ed7c10c5e3,170
+train/LUAD/chest-ct-scan_000048 (8)_22bbb1ca.png,LUAD,991367ec6e8039d3,171
+train/LUAD/chest-ct-scan_000049 (5)_419edee4.png,LUAD,d46f2b90f44bc334,23
+train/LUAD/chest-ct-scan_000049 (9)_d0aa0d8a.png,LUAD,c14b3e346b923c79,172
+train/LUAD/chest-ct-scan_000050 (3)_abf44a4e.png,LUAD,991267ed3a947943,173
+train/LUAD/chest-ct-scan_000051 (4)_4696dc63.png,LUAD,9832632d3ad26dcb,174
+train/LUAD/chest-ct-scan_000052 (10)_9703d00b.png,LUAD,9890676d7a962c3b,175
+train/LUAD/chest-ct-scan_000054 (6)_3abbd445.png,LUAD,913a6ec5298ed279,176
+train/LUAD/chest-ct-scan_000054 (7)_6482753a.png,LUAD,c95c36ab69c4383b,177
+train/LUAD/chest-ct-scan_000054_3890c1f9.png,LUAD,d80b27f4189bd46d,178
+train/LUAD/chest-ct-scan_000055 (2)_a75992b8.png,LUAD,d1b32e446393387d,179
+train/LUAD/chest-ct-scan_000057 (2)_e6780627.png,LUAD,91686e96f97a8685,180
+train/LUAD/chest-ct-scan_000057_c4dee205.png,LUAD,982f6790ad8bd64c,181
+train/LUAD/chest-ct-scan_000058 (4)_b9a5c03c.png,LUAD,983a674538926deb,182
+train/LUAD/chest-ct-scan_000058 (5)_c1b1c945.png,LUAD,c47e3381ecd2d22d,183
+train/LUAD/chest-ct-scan_000065 (3)_54a02aaa.png,LUAD,991766f87881f1c6,184
+train/LUAD/chest-ct-scan_000066 (10)_e396e3c8.png,LUAD,816e56b96996c63a,185
+train/LUAD/chest-ct-scan_000066 (9)_2369bde8.png,LUAD,d978268778de8433,186
+train/LUAD/chest-ct-scan_000067_fb05d2f5.png,LUAD,94686b9738ebc61c,187
+train/LUAD/chest-ct-scan_000068 (10)_cabcfd9f.png,LUAD,9892676d3a943da3,188
+train/LUAD/chest-ct-scan_000068 (9)_0d16ee24.png,LUAD,d46a2781789e9739,189
+train/LUAD/chest-ct-scan_000069 (6)_d1f24764.png,LUAD,d92e06b139ce64b3,190
+train/LUAD/chest-ct-scan_000071 (3)_9cdb4579.png,LUAD,991f66f87845a156,191
+train/LUAD/chest-ct-scan_000072 (10)_c3196478.png,LUAD,90162f6d63d23cb3,192
+train/LUAD/chest-ct-scan_000075 (5)_77b502b5.png,LUAD,d91a26e5689ae167,193
+train/LUAD/chest-ct-scan_000077 (6)_3ba78068.png,LUAD,c92f46b039cee433,194
+train/LUAD/chest-ct-scan_000077 (9)_98108822.png,LUAD,cc3a23c5381eb5b9,195
+train/LUAD/chest-ct-scan_000078 (6)_08e6eef5.png,LUAD,890e46f97e8139e6,196
+train/LUAD/chest-ct-scan_000080 (10)_9cf53dbf.png,LUAD,d94626b979c6c41b,197
+train/LUAD/chest-ct-scan_000080 (6)_86e5e7c7.png,LUAD,dc0e23b16d4674b3,198
+train/LUAD/chest-ct-scan_000081 (2)_3c8a1db7.png,LUAD,993367c4781b872d,199
+train/LUAD/chest-ct-scan_000083 (3)_1bb30c94.png,LUAD,981667693a943de3,188
+train/LUAD/chest-ct-scan_000084 (3)_1eafe41a.png,LUAD,990f66f87805f166,200
+train/LUAD/chest-ct-scan_000084 (7)_2f0c8b9e.png,LUAD,991667697a9439c3,188
+train/LUAD/chest-ct-scan_000084_0efc23cb.png,LUAD,d16f26d03d83c669,201
+train/LUAD/chest-ct-scan_000085 (10)_b19a028e.png,LUAD,dc4623b979c6c42b,202
+train/LUAD/chest-ct-scan_000085 (4)_7a4de477.png,LUAD,986667d1388ec47b,203
+train/LUAD/chest-ct-scan_000086 (8)_463bd0af.png,LUAD,dc0e23f97c47e430,204
+train/LUAD/chest-ct-scan_000087 (4)_2e5128bf.png,LUAD,d83667f138ce0479,205
+train/LUAD/chest-ct-scan_000089 (8)_dc9e325e.png,LUAD,9813376d6ec039d3,206
+train/LUAD/chest-ct-scan_000091 (7)_02fdab30.png,LUAD,d91626e9339c39c3,207
+train/LUAD/chest-ct-scan_000091_6b4ac93a.png,LUAD,d87b2764389bc465,208
+train/LUAD/chest-ct-scan_000092 (10)_addaf09a.png,LUAD,dd0323fc3d90f08b,209
+train/LUAD/chest-ct-scan_000093 (10)_fc8daaaa.png,LUAD,d44b23f879c6c41b,210
+train/LUAD/chest-ct-scan_000093 (4)_897c3bec.png,LUAD,983a67453c92796b,182
+train/LUAD/chest-ct-scan_000093 (6)_b632fe4e.png,LUAD,dd0f22b06dd838e3,211
+train/LUAD/chest-ct-scan_000095_4cc9561a.png,LUAD,dc2f23d07c4fd230,212
+train/LUAD/chest-ct-scan_000097 (10)_f4b89533.png,LUAD,d44e23b16ccb964e,213
+train/LUAD/chest-ct-scan_000097 (2)_43979453.png,LUAD,91686e87b17acea4,214
+train/LUAD/chest-ct-scan_000098 (5)_4d8241da.png,LUAD,815e76a169d6872d,215
+train/LUAD/chest-ct-scan_000099 (7)_26deb6ec.png,LUAD,c11e36e96954b4e3,149
+train/LUAD/chest-ct-scan_000100 (10)_2b4022bd.png,LUAD,9892636d3f9234b9,216
+train/LUAD/chest-ct-scan_000102 (2)_a24bb22c.png,LUAD,d06f2f9038cbc734,217
+train/LUAD/chest-ct-scan_000102 (3)_bf35bf22.png,LUAD,d14a3ea56af83583,218
+train/LUAD/chest-ct-scan_000102_1c10263c.png,LUAD,d83b2764389bc475,208
+train/LUAD/chest-ct-scan_000103 (9)_793d8ae6.png,LUAD,cc6b6384289bb579,219
+train/LUAD/chest-ct-scan_000104 (4)_f99d20b9.png,LUAD,9c3663793cce3069,220
+train/LUAD/chest-ct-scan_000105 (3)_d7ebefb0.png,LUAD,981767ed3a94b903,221
+train/LUAD/chest-ct-scan_000105_00bfb320.png,LUAD,d86b27b4389bc465,208
+train/LUAD/chest-ct-scan_000106 (8)_12546f6e.png,LUAD,944b633c3bcc3cb1,222
+train/LUAD/chest-ct-scan_000107 (9)_c4c517e9.png,LUAD,cc783785789e8731,223
+train/LUAD/chest-ct-scan_000108 (3)_12b88365.png,LUAD,d833676c399264cb,224
+train/LUAD/chest-ct-scan_000108 (7)_7a1c8bb6.png,LUAD,989667693a942db3,188
+train/LUAD/chest-ct-scan_000109 (2)_2eee7cd9.png,LUAD,d1e56e4e383993c4,225
+train/LUAD/chest-ct-scan_000109 (4)_0e59818a.png,LUAD,d4d83b276d3992c4,226
+train/LUAD/chest-ct-scan_000109 (4)_628e0cda.png,LUAD,991666e93a9439e3,188
+train/LUAD/chest-ct-scan_000109 (5)_6a3414d0.png,LUAD,99986667697e9431,227
+train/LUAD/chest-ct-scan_000109 (8)_ca77ed2a.png,LUAD,996266d5391ba4ec,228
+train/LUAD/chest-ct-scan_000110 (7)_69c5c689.png,LUAD,c52f3ab06dd3c30c,229
+train/LUAD/chest-ct-scan_000112 (2)_7d5dc170.png,LUAD,cd5a23a53816a5bb,230
+train/LUAD/chest-ct-scan_000112 (2)_cff8be7e.png,LUAD,85f07e0f29789633,231
+train/LUAD/chest-ct-scan_000112 (9)_dfea107f.png,LUAD,9816676b3eb46983,232
+train/LUAD/chest-ct-scan_000113 (7)_2ad29c19.png,LUAD,c4dc3b236c7c92c6,226
+train/LUAD/chest-ct-scan_000113_cf84b373.png,LUAD,d44b6634b9cbc619,233
+train/LUAD/chest-ct-scan_000114_52029d12.png,LUAD,992f66e0390fc633,234
+train/LUAD/chest-ct-scan_000115 (5)_012daae2.png,LUAD,811e76a129ced63d,235
+train/LUAD/chest-ct-scan_000115 (9)_badbffe1.png,LUAD,d10b2ef46b783493,236
+train/LUAD/chest-ct-scan_000115_098aa5cf.png,LUAD,d0c42f3ab0b5cfc2,237
+train/LUAD/chest-ct-scan_000115_c096149c.png,LUAD,d04f27b03997c6c9,238
+train/LUAD/chest-ct-scan_000116 (5)_290976b5.png,LUAD,991666692e9479e3,188
+train/LUAD/chest-ct-scan_000116 (5)_d2a5ef5f.png,LUAD,d0e52f46383b9764,239
+train/LUAD/chest-ct-scan_000116 (7)_f2dad207.png,LUAD,d4dc33276d7890e4,240
+train/LUAD/chest-ct-scan_000116 (9)_4243fa1f.png,LUAD,c5f22b0f3cf4c2c8,241
+train/LUAD/chest-ct-scan_000116 (9)_cec47a7c.png,LUAD,919a466d6b963963,242
+train/LUAD/chest-ct-scan_000117 (4)_3700988a.png,LUAD,d0e02f1fb5789ac4,243
+train/LUAD/chest-ct-scan_000117_3cda80fa.png,LUAD,c0d93f26663999f0,244
+train/LUAD/chest-ct-scan_000117_79294b96.png,LUAD,d0392ec64b99f466,245
+train/LUAD/chest-ct-scan_000118 (4)_6cbef51b.png,LUAD,c91e36e9699439c3,149
+train/LUAD/chest-ct-scan_000118 (5)_2fd3d1b8.png,LUAD,c1c93e36696f5438,246
+train/LUAD/chest-ct-scan_000118 (7)_fad300b9.png,LUAD,949a6b656cd36839,247
+train/LUAD/chest-ct-scan_000119 (4)_812b29c7.png,LUAD,c91e36e9695431e3,149
+train/LUAD/chest-ct-scan_000119 (4)_e5508517.png,LUAD,91a56e5f31988e65,248
+train/LUAD/chest-ct-scan_000119 (5)_b35194cb.png,LUAD,d90e32b92fd038e3,249
+train/LUAD/chest-ct-scan_000119 (5)_d55eedec.png,LUAD,c1cd3e36696f1431,246
+train/LUAD/chest-ct-scan_000119 (6)_99c248a3.png,LUAD,81997e6669da7161,250
+train/LUAD/chest-ct-scan_000120_6aedb636.png,LUAD,91d96e4639389735,251
+train/LUAD/chest-ct-scan_000121 (10)_2314dbb4.png,LUAD,d13a3e65429629bb,252
+train/LUAD/chest-ct-scan_000121 (6)_485637cf.png,LUAD,c3cf3f346068c1b5,253
+train/LUAD/chest-ct-scan_000121 (7)_c1d502c2.png,LUAD,d1b13e64619b1c6d,254
+train/LUAD/chest-ct-scan_000121 (9)_495690ac.png,LUAD,d04e3b952e72358d,255
+train/LUAD/chest-ct-scan_000121_db98571f.png,LUAD,d0f52f4a343dc3c2,256
+train/LUAD/chest-ct-scan_000121_f3b66a94.png,LUAD,d86d2792792b8665,257
+train/LUAD/chest-ct-scan_000122 (4)_d8461b9c.png,LUAD,81817e5e69693597,258
+train/LUAD/chest-ct-scan_000122_33c2b684.png,LUAD,d0d92f263839d3e4,259
+train/LUAD/chest-ct-scan_000123 (6)_c541e7df.png,LUAD,c1d83e072d78d6c6,260
+train/LUAD/chest-ct-scan_000123 (9)_c2da4477.png,LUAD,999b27666c0b3179,261
+train/LUAD/chest-ct-scan_000125 (2)_4fb4344f.png,LUAD,85a17e5e17e3988c,262
+train/LUAD/chest-ct-scan_000125 (4)_bb9ca84b.png,LUAD,91a16e5e7561989e,263
+train/LUAD/chest-ct-scan_000125 (6)_c3d82e2c.png,LUAD,919b7e6f69621431,264
+train/LUAD/chest-ct-scan_000126 (6)_f9413aa5.png,LUAD,919b7ee6681b1171,265
+train/LUAD/chest-ct-scan_000127 (5)_ebbf6439.png,LUAD,919b2e647139c3e3,266
+train/LUAD/chest-ct-scan_000128 (5)_0f6635a0.png,LUAD,81d87e172978d687,267
+train/LUAD/chest-ct-scan_000129 (5)_8e3f37d9.png,LUAD,c0d93f266d79922c,268
+train/LUAD/chest-ct-scan_000129_05695920.png,LUAD,91c56e5af135c6c2,269
+train/LUAD/chest-ct-scan_000130 (6)_39728498.png,LUAD,80c06b373cb8fad3,270
+train/LUAD/chest-ct-scan_000131 (2)_7bc634cd.png,LUAD,91e36e5c719a8565,271
+train/LUAD/chest-ct-scan_000132 (2)_d610dfd2.png,LUAD,c06f3f90708fcb61,272
+train/LUAD/chest-ct-scan_000132 (8)_4e298c30.png,LUAD,9199766669da7161,250
+train/LUAD/chest-ct-scan_000132_eb24e358.png,LUAD,d0856f4a3c3dc3d2,273
+train/LUAD/chest-ct-scan_000134 (9)_616af79d.png,LUAD,81bc7ed729684665,274
+train/LUAD/chest-ct-scan_000134_c2f72bae.png,LUAD,d0a52fda3c2dc3d0,275
+train/LUAD/chest-ct-scan_000135 (5)_fec87f3a.png,LUAD,d09b2ee4703983f3,276
+train/LUAD/chest-ct-scan_000136 (8)_609dba39.png,LUAD,d1dd2e46793954c4,277
+train/LUAD/chest-ct-scan_000138 (9)_900d7318.png,LUAD,949a63643edb6c34,278
+train/LUAD/chest-ct-scan_000139 (5)_f01afcf5.png,LUAD,d16e2eb1716c8633,279
+train/LUAD/chest-ct-scan_000139 (6)_3bdc47b1.png,LUAD,90b16f4e3c99c365,280
+train/LUAD/chest-ct-scan_000139 (8)_3a34f87f.png,LUAD,81917e5e2169de96,281
+train/LUAD/chest-ct-scan_000139 (9)_4d4e88ad.png,LUAD,81da3eb7616b9684,282
+train/LUAD/chest-ct-scan_000139_46e5f9d4.png,LUAD,d0c72f3e9034cbc3,283
+train/LUAD/chest-ct-scan_000140_1906ba22.png,LUAD,c56c3a93c496d36c,284
+train/LUAD/chest-ct-scan_000141 (2)_207e2d96.png,LUAD,87cc7a5727399164,285
+train/LUAD/chest-ct-scan_000142_e9d9822f.png,LUAD,d0d927467c39d364,286
+train/LUAD/chest-ct-scan_000143 (5)_1824bb29.png,LUAD,d4272b997c06c65b,287
+train/LUAD/chest-ct-scan_000143 (6)_7460ba68.png,LUAD,85e17e5e31a19ac6,288
+train/LUAD/chest-ct-scan_000144 (2)_8174b1c8.png,LUAD,85e57e1e21a19ec6,288
+train/LUAD/chest-ct-scan_000144 (5)_b554c650.png,LUAD,d16e2e91796c8693,279
+train/LUAD/chest-ct-scan_000145 (9)_61b146eb.png,LUAD,c44e3bb37969c624,289
+train/LUAD/chest-ct-scan_000146 (3)_efe84391.png,LUAD,d1c56e0e78391f86,290
+train/LUAD/chest-ct-scan_000148 (3)_554f49b6.png,LUAD,91c36e4c313b96e5,291
+train/LUAD/chest-ct-scan_000151 (5)_9d35d9b9.png,LUAD,d0c56f4e783913b4,292
+train/LUAD/chest-ct-scan_000155 (4)_8c42195c.png,LUAD,d4d83b276c7c92c4,226
+train/LUAD/chest-ct-scan_000156 (4)_61a56651.png,LUAD,81cd7ed639784961,293
+train/LUAD/chest-ct-scan_000157 (5)_3097c4ab.png,LUAD,c1cd7e3669695431,246
+train/LUAD/chest-ct-scan_000157 (6)_a5caa5f6.png,LUAD,949a63643adb6c3c,278
+train/LUAD/chest-ct-scan_000158 (3)_ba10b364.png,LUAD,9c1b63ac3fd128b2,40
+train/LUAD/chest-ct-scan_000158 (5)_52ed4d49.png,LUAD,dc7823e77c19c264,294
+train/LUAD/chest-ct-scan_000158 (6)_1a80cd50.png,LUAD,81cd3e166b6a5c35,295
+train/LUAD/chest-ct-scan_000160 (6)_623ca2ac.png,LUAD,81b87e472169de96,296
+train/LUAD/chest-ct-scan_000161 (5)_7a9c66d0.png,LUAD,91996666799a1979,297
+train/LUAD/chest-ct-scan_000163 (3)_cb7a469d.png,LUAD,9cdf03686cb79622,298
+train/LUAD/chest-ct-scan_000163 (7)_82fbfd4a.png,LUAD,dc9b32646dc33839,299
+train/LUAD/chest-ct-scan_000164 (5)_30dff04e.png,LUAD,919a666578da3963,300
+train/LUAD/chest-ct-scan_000165 (6)_8bc1f4f9.png,LUAD,858f7e56212938d7,301
+train/LUAD/chest-ct-scan_000166 (2)_a68ac2df.png,LUAD,95267ed9611f8626,302
+train/LUAD/chest-ct-scan_000166 (3)_c7e71b34.png,LUAD,81935e5e29785d65,303
+train/LUAD/chest-ct-scan_000166 (4)_1110e1d7.png,LUAD,91e96616396cc6d3,304
+train/LUAD/chest-ct-scan_000167 (3)_efdd7f2c.png,LUAD,819b7e4e29794565,305
+train/LUAD/chest-ct-scan_000167 (8)_494ed7c9.png,LUAD,d49b02646fc33c3d,306
+train/LUAD/chest-ct-scan_000168 (3)_8447ac42.png,LUAD,d10f2ef0780f836e,307
+train/LUAD/chest-ct-scan_000171 (5)_48b1a284.png,LUAD,c19a3e6d696a9439,308
+train/LUAD/chest-ct-scan_000171_d1703e12.png,LUAD,dcdd23023c3dd3b0,309
+train/LUAD/chest-ct-scan_000172 (3)_504ee0ad.png,LUAD,81fc7603297cd6c6,310
+train/LUAD/chest-ct-scan_000173 (5)_2ef5a70d.png,LUAD,99997667696a1439,227
+train/LUAD/chest-ct-scan_000173 (7)_d610c653.png,LUAD,d0c72f3c3de1603c,311
+train/LUAD/chest-ct-scan_000174 (4)_267c9d04.png,LUAD,94986b2731b96ec6,312
+train/LUAD/chest-ct-scan_000176 (2)_ba077c86.png,LUAD,91276e68799387a6,313
+train/LUAD/chest-ct-scan_000177 (4)_764ba42a.png,LUAD,90834f3c3ec76c39,314
+train/LUAD/chest-ct-scan_000177_83e615a2.png,LUAD,c0942f4bd0b4cfcb,315
+train/LUAD/chest-ct-scan_ad10_9d219bc0.png,LUAD,99da46653a9e6171,316
+train/LUAD/chest-ct-scan_ad11_e916c259.png,LUAD,d16f06c4791b84fc,317
+train/LUAD/chest-ct-scan_ad12_c44f7763.png,LUAD,dd52426e0b8d39b3,318
+train/LUAD/chest-ct-scan_ad13_bb1bf107.png,LUAD,d93526300ece78eb,319
+train/LUAD/chest-ct-scan_ad14_241c7963.png,LUAD,916257f96894c57a,320
+train/LUAD/chest-ct-scan_ad16_d642c659.png,LUAD,9933543b0ed869e6,321
+train/LUAD/chest-ct-scan_ad17_9db96404.png,LUAD,992f46b079c6e50b,322
+train/LUAD/chest-ct-scan_ad18_65e86079.png,LUAD,9d11466e4bcd3933,323
+train/LUAD/chest-ct-scan_ad19_4756f652.png,LUAD,fb7e0491119e66e1,324
+train/LUAD/chest-ct-scan_ad1_031a8273.png,LUAD,997b46a07956e42b,325
+train/LUAD/chest-ct-scan_ad22_e676a598.png,LUAD,991346ec7a8961b7,326
+train/LUAD/chest-ct-scan_ad2_41e56eae.png,LUAD,ec2842f53f0bc4ec,327
+train/LUAD/chest-ct-scan_ad3_2642d674.png,LUAD,99da46257ace2971,328
+train/LUAD/chest-ct-scan_ad4_a857f462.png,LUAD,99b656696894c55e,329
+train/LUAD/chest-ct-scan_ad5_26f7f778.png,LUAD,9a12656d6a903d77,330
+train/LUAD/chest-ct-scan_ad7_d181ab66.png,LUAD,993346a9785e85ea,331
+train/LUSC/chest-ct-scan_000002 (4)_82f6a3ef.png,LUSC,995866252fd630f9,332
+train/LUSC/chest-ct-scan_000002 (6)_31fccb38.png,LUSC,dc2863d41a8b6d3b,333
+train/LUSC/chest-ct-scan_000004 (5)_32c58704.png,LUSC,98b2674d2d86743b,334
+train/LUSC/chest-ct-scan_000006 (4)_cfa70704.png,LUSC,9d4862b76dd430ab,335
+train/LUSC/chest-ct-scan_000006_5e5f0f3e.png,LUSC,d45a2a2579d6d24b,336
+train/LUSC/chest-ct-scan_000007_274385db.png,LUSC,8c6e66b939c6c439,337
+train/LUSC/chest-ct-scan_000009 (2)_6d24868d.png,LUSC,dccb233078c78799,338
+train/LUSC/chest-ct-scan_000010 (6)_b3b8394a.png,LUSC,d07a2f85289bc774,339
+train/LUSC/chest-ct-scan_000016 (3)_8933c272.png,LUSC,990f66f03ad93127,340
+train/LUSC/chest-ct-scan_000018 (6)_b288bad1.png,LUSC,dc2b27dc3993a438,341
+train/LUSC/chest-ct-scan_000024 (5)_ae3869d2.png,LUSC,9832474d78c639bb,342
+train/LUSC/chest-ct-scan_000024 (7)_8dbdef81.png,LUSC,9832676d38d6319b,342
+train/LUSC/chest-ct-scan_000029 (4)_558fb848.png,LUSC,9d6862bf6d9038c3,343
+train/LUSC/chest-ct-scan_000030 (2)_08bfc176.png,LUSC,d85a272d3dd21c39,344
+train/LUSC/chest-ct-scan_000030 (5)_53aff683.png,LUSC,9832674d789631bb,342
+train/LUSC/chest-ct-scan_000030 (7)_f59425f1.png,LUSC,d836274d3cda30b9,345
+train/LUSC/chest-ct-scan_000033_20ad5930.png,LUSC,dc4e23b93946c43b,202
+train/LUSC/chest-ct-scan_000035 (5)_502435cc.png,LUSC,c06b0f943e6370f6,346
+train/LUSC/chest-ct-scan_000035_5f47ac70.png,LUSC,9d4e72b96986c60b,347
+train/LUSC/chest-ct-scan_000036 (4)_db61ea3c.png,LUSC,d45a47ec3893c06f,348
+train/LUSC/chest-ct-scan_000037 (2)_fb9c7929.png,LUSC,d1532e2c79d21c3d,349
+train/LUSC/chest-ct-scan_000038 (2)_5784908b.png,LUSC,d82b63ec3e9270c9,350
+train/LUSC/chest-ct-scan_000038 (5)_2f43d462.png,LUSC,997266a978d621cb,351
+train/LUSC/chest-ct-scan_000038 (7)_1dc1acb2.png,LUSC,d87a27a578d2852b,352
+train/LUSC/chest-ct-scan_000041 (4)_000585d5.png,LUSC,9d4a622d3f903ce3,353
+train/LUSC/chest-ct-scan_000043 (3)_c14ebd65.png,LUSC,940e63f93ec46993,354
+train/LUSC/chest-ct-scan_000043_a654ab63.png,LUSC,995e66b978c5a192,355
+train/LUSC/chest-ct-scan_000044 (2)_bfd1c999.png,LUSC,d80f27f0788391db,356
+train/LUSC/chest-ct-scan_000046 (4)_5f3b7e92.png,LUSC,9d4a622d2fd23cc3,353
+train/LUSC/chest-ct-scan_000046 (5)_55828550.png,LUSC,d86627a578da8569,357
+train/LUSC/chest-ct-scan_000046 (7)_4d6a997e.png,LUSC,d86627a5789a856d,357
+train/LUSC/chest-ct-scan_000048 (5)_2523ad51.png,LUSC,9832674d78d6313b,342
+train/LUSC/chest-ct-scan_000048_aa9d27b7.png,LUSC,d5ca2a2479fc868b,358
+train/LUSC/chest-ct-scan_000049 (3)_b38bd8ef.png,LUSC,980667797eb029c7,359
+train/LUSC/chest-ct-scan_000050 (2)_c81fa2d3.png,LUSC,985b67e53c92506d,360
+train/LUSC/chest-ct-scan_000050 (6)_1255cc62.png,LUSC,846e7f95289ac665,361
+train/LUSC/chest-ct-scan_000051 (3)_8f48aa26.png,LUSC,d1162fe9629c29e3,362
+train/LUSC/chest-ct-scan_000052 (4)_19b1dfcc.png,LUSC,dc6a23853dd6b01b,363
+train/LUSC/chest-ct-scan_000053 (6)_1e5293c1.png,LUSC,d82a27cd7993a4f0,364
+train/LUSC/chest-ct-scan_000053_3f9c0cdf.png,LUSC,986667393ac47993,365
+train/LUSC/chest-ct-scan_000054 (3)_c9a7f874.png,LUSC,d1ca2e35e9ea8619,366
+train/LUSC/chest-ct-scan_000054_29f3f460.png,LUSC,dc4b23f16cc6911b,367
+train/LUSC/chest-ct-scan_000055 (2)_7e687b66.png,LUSC,919a6661f9ae8699,368
+train/LUSC/chest-ct-scan_000055 (3)_cf2ee31a.png,LUSC,d93e06b139c6949b,369
+train/LUSC/chest-ct-scan_000057 (3)_85101d7d.png,LUSC,d43a2bb53cc3d22c,370
+train/LUSC/chest-ct-scan_000057 (4)_c4bf0914.png,LUSC,d40b43f4bc83c66d,371
+train/LUSC/chest-ct-scan_000057 (5)_c9fcb1da.png,LUSC,99e66605797e6431,372
+train/LUSC/chest-ct-scan_000057 (6)_af09df2e.png,LUSC,cc63639c09b0f55b,373
+train/LUSC/chest-ct-scan_000058 (5)_3ddbbedf.png,LUSC,9966678d38da3193,374
+train/LUSC/chest-ct-scan_000058 (7)_fdc779bf.png,LUSC,9972668d38ce31b3,375
+train/LUSC/chest-ct-scan_000058_d02658fd.png,LUSC,981267ed3c92716b,376
+train/LUSC/chest-ct-scan_000060 (2)_0ba1c586.png,LUSC,c15b2ead63923cc3,377
+train/LUSC/chest-ct-scan_000062 (5)_4cb7f3b7.png,LUSC,98b067cd3a46393b,378
+train/LUSC/chest-ct-scan_000063 (6)_f0ff50d9.png,LUSC,917e66a13ac7a51a,379
+train/LUSC/chest-ct-scan_000063_f40b4ae9.png,LUSC,c11a136d3e7a65d2,380
+train/LUSC/chest-ct-scan_000065 (5)_ad42336b.png,LUSC,98fc47493a962c3b,381
+train/LUSC/chest-ct-scan_000065 (7)_75d743b0.png,LUSC,987e47693a862c3b,381
+train/LUSC/chest-ct-scan_000066 (2)_f1591f21.png,LUSC,985b67ed3892a06b,382
+train/LUSC/chest-ct-scan_000066_e0d906b5.png,LUSC,895e76b13966c61c,383
+train/LUSC/chest-ct-scan_000067 (2)_4cf1adfa.png,LUSC,94cf673038c7c699,384
+train/LUSC/chest-ct-scan_000067 (3)_e212becc.png,LUSC,980766fc2fd031c7,385
+train/LUSC/chest-ct-scan_000067 (7)_c0c2ae3d.png,LUSC,dc72672d39963489,386
+train/LUSC/chest-ct-scan_000069 (2)_59b738e1.png,LUSC,915266ad7a9639c3,387
+train/LUSC/chest-ct-scan_000070 (2)_00e46802.png,LUSC,d82f27f4788e8531,388
+train/LUSC/chest-ct-scan_000070_afe3f52d.png,LUSC,991e26f169c681bb,389
+train/LUSC/chest-ct-scan_000071 (3)_494a7a10.png,LUSC,988663693ed07d2b,390
+train/LUSC/chest-ct-scan_000073 (6)_ca630c86.png,LUSC,d07a67a539d2c469,391
+train/LUSC/chest-ct-scan_000074 (6)_9c9f31f2.png,LUSC,d46e2b9168db9664,392
+train/LUSC/chest-ct-scan_000074 (7)_6acf90f4.png,LUSC,98b2674d3cd630b9,393
+train/LUSC/chest-ct-scan_000075_83b8d75c.png,LUSC,dd5a262179cec25a,394
+train/LUSC/chest-ct-scan_000077 (2)_eb45c600.png,LUSC,905a2fad6e9031d7,395
+train/LUSC/chest-ct-scan_000077 (4)_30d7e23f.png,LUSC,995a662d3b963871,396
+train/LUSC/chest-ct-scan_000077 (5)_6410b61d.png,LUSC,c46e0bbc3bc87493,397
+train/LUSC/chest-ct-scan_000078 (7)_89286621.png,LUSC,9c3c67413992f47c,398
+train/LUSC/chest-ct-scan_000079 (5)_19c058c3.png,LUSC,c46343e43c1bd33e,399
+train/LUSC/chest-ct-scan_000079 (7)_ca098f88.png,LUSC,c17a2685387ac6fc,400
+train/LUSC/chest-ct-scan_000079_a9664cfe.png,LUSC,91c3663c3cc7c939,401
+train/LUSC/chest-ct-scan_000081 (6)_8b58df89.png,LUSC,d12e26f93b86645a,402
+train/LUSC/chest-ct-scan_000081_189e6891.png,LUSC,d95e263179c6c61a,403
+train/LUSC/chest-ct-scan_000082 (3)_2a37b24b.png,LUSC,981367fc7e403963,404
+train/LUSC/chest-ct-scan_000082 (4)_e3f7ae74.png,LUSC,94ee43056cbb9672,405
+train/LUSC/chest-ct-scan_000083 (5)_b2345c5e.png,LUSC,997e26a17912c29f,406
+train/LUSC/chest-ct-scan_000083 (7)_a4f1dafc.png,LUSC,d46a2b843cdbc72c,407
+train/LUSC/chest-ct-scan_000084 (3)_0961f9e7.png,LUSC,901e63693fc63ca3,408
+train/LUSC/chest-ct-scan_000085_95dac7dc.png,LUSC,991266e5789a317b,409
+train/LUSC/chest-ct-scan_000088_55b2a03a.png,LUSC,9812676d3a963cd3,175
+train/LUSC/chest-ct-scan_000090 (6)_0420ccc1.png,LUSC,dc3b63e41992a42f,410
+train/LUSC/chest-ct-scan_000091 (5)_b9ef323e.png,LUSC,947a0f8538dac72d,411
+train/LUSC/chest-ct-scan_000093_5be3fe02.png,LUSC,9892676d3a96343b,175
+train/LUSC/chest-ct-scan_000094 (3)_7ef1f0a8.png,LUSC,9816676b7e94294b,412
+train/LUSC/chest-ct-scan_000094_20ba3da0.png,LUSC,991e66e9788521db,413
+train/LUSC/chest-ct-scan_000096_79132f37.png,LUSC,991666e978c521db,413
+train/LUSC/chest-ct-scan_000101 (3)_ce1ccc53.png,LUSC,d90e26f17d4354a3,414
+train/LUSC/chest-ct-scan_000103_28fede42.png,LUSC,981267697a963cd3,175
+train/LUSC/chest-ct-scan_000106 (4)_afd2c216.png,LUSC,994e066878b7cc9e,415
+train/LUSC/chest-ct-scan_000106 (5)_e7b99643.png,LUSC,c14e3ec123b66c79,416
+train/LUSC/chest-ct-scan_000106 (7)_a3c6e61e.png,LUSC,c12e3ee133966c4b,417
+train/LUSC/chest-ct-scan_000108 (3)_89d5e89c.png,LUSC,914e7eb169c6861b,418
+train/LUSC/chest-ct-scan_000110 (2)_f8a49813.png,LUSC,91d96ea629699731,419
+train/LUSC/chest-ct-scan_000110 (6)_a5207d42.png,LUSC,995866af6dd430c3,420
+train/LUSC/chest-ct-scan_000111_16f7da50.png,LUSC,919a6e676d3a1631,421
+train/LUSC/chest-ct-scan_000114 (2)_18378e07.png,LUSC,91db7e2c65c39838,422
+train/LUSC/chest-ct-scan_000114 (3)_dfb93d70.png,LUSC,d4e22b0530fad7e4,423
+train/LUSC/chest-ct-scan_000115 (2)_0996dbf8.png,LUSC,dc4b23b43d92d06d,424
+train/LUSC/chest-ct-scan_000115 (4)_d493110b.png,LUSC,dcad2344381bb53d,425
+train/LUSC/chest-ct-scan_000115 (5)_68a7a77a.png,LUSC,9cda67653c1a127c,426
+train/LUSC/chest-ct-scan_000115 (5)_d16ce29b.png,LUSC,cc2323d41999f477,427
+train/LUSC/chest-ct-scan_000116 (2)_719564fd.png,LUSC,984a27ed799278c3,428
+train/LUSC/chest-ct-scan_000116 (5)_a5581ab7.png,LUSC,94996b476c6b9334,429
+train/LUSC/chest-ct-scan_000117 (3)_7acb862f.png,LUSC,c5e8760729391f95,430
+train/LUSC/chest-ct-scan_000117 (4)_8ce284c0.png,LUSC,d4ee2b053c5bc784,431
+train/LUSC/chest-ct-scan_000117 (6)_d92e5a79.png,LUSC,8c66538d7c96b05b,432
+train/LUSC/chest-ct-scan_000118 (4)_07be4446.png,LUSC,817a7e8721ba9665,433
+train/LUSC/chest-ct-scan_000119 (4)_976815ad.png,LUSC,90eb675438bb8565,434
+train/LUSC/chest-ct-scan_000119 (5)_d393d85b.png,LUSC,986767981a956d96,435
+train/LUSC/chest-ct-scan_000119_0b5ccc86.png,LUSC,91936e676d381761,436
+train/LUSC/chest-ct-scan_000120 (2)_d4f56879.png,LUSC,99986667697a9439,227
+train/LUSC/chest-ct-scan_000120 (2)_f60de85b.png,LUSC,d85a67ad3c927429,437
+train/LUSC/chest-ct-scan_000120 (4)_78c1022a.png,LUSC,98fe67076878d684,438
+train/LUSC/chest-ct-scan_000120 (5)_d278af8e.png,LUSC,98da67e53c921479,439
+train/LUSC/chest-ct-scan_000120 (6)_33225a0e.png,LUSC,9d5a62253fd23c31,440
+train/LUSC/chest-ct-scan_000121 (5)_7c5973f2.png,LUSC,d89b23656c3b127c,441
+train/LUSC/chest-ct-scan_000122 (3)_cd8d2fdd.png,LUSC,d10f22b03d6bc69e,442
+train/LUSC/chest-ct-scan_000122 (6)_23863bce.png,LUSC,d1d96e0631794ed4,443
+train/LUSC/chest-ct-scan_000124 (4)_0ca01acd.png,LUSC,dceb2744381ba43d,444
+train/LUSC/chest-ct-scan_000124 (5)_d8215359.png,LUSC,d4cd2b537c7c0634,445
+train/LUSC/chest-ct-scan_000125_f4a2c383.png,LUSC,9199767679684571,446
+train/LUSC/chest-ct-scan_000126 (4)_cc3d40f6.png,LUSC,81f27ec7613b9624,447
+train/LUSC/chest-ct-scan_000127 (2)_2d06d222.png,LUSC,996967973d6d1430,448
+train/LUSC/chest-ct-scan_000127 (6)_9b29d9b6.png,LUSC,91bd66d639694525,449
+train/LUSC/chest-ct-scan_000129 (2)_7d047773.png,LUSC,c0ce3eb5684b11b7,450
+train/LUSC/chest-ct-scan_000129 (6)_76f3d649.png,LUSC,d1dc660739794734,451
+train/LUSC/chest-ct-scan_000132 (4)_df1cfc16.png,LUSC,d0a16746389b6c7d,452
+train/LUSC/chest-ct-scan_000134 (5)_81b40d3e.png,LUSC,90ed6f12793987c2,453
+train/LUSC/chest-ct-scan_000135 (4)_5e9c6f95.png,LUSC,d1e86e85393a9665,454
+train/LUSC/chest-ct-scan_000135_23fe0752.png,LUSC,d5d83e3661691696,455
+train/LUSC/chest-ct-scan_000136 (4)_49fa872c.png,LUSC,d0e9674638bb8565,434
+train/LUSC/chest-ct-scan_000137 (3)_f4f6717d.png,LUSC,c4e06b0f3538da97,456
+train/LUSC/chest-ct-scan_000137_2f2ef0cd.png,LUSC,989867672d3f1634,457
+train/LUSC/chest-ct-scan_000139 (4)_6c51d6f4.png,LUSC,d8e86744393b8735,458
+train/LUSC/chest-ct-scan_000139 (5)_da696fc8.png,LUSC,808d7f5670399787,459
+train/LUSC/chest-ct-scan_000139 (6)_b31382f0.png,LUSC,99bd47c6788a7131,460
+train/LUSC/chest-ct-scan_000141 (2)_8fb31c89.png,LUSC,94e46b1f2c789333,461
+train/LUSC/chest-ct-scan_000141 (4)_9175294a.png,LUSC,c4a76f5c38932c3c,462
+train/LUSC/chest-ct-scan_000142 (6)_fa9e4d4f.png,LUSC,d1d96e0639794ad4,443
+train/LUSC/chest-ct-scan_000144 (5)_bb1962b7.png,LUSC,c1ad3f52783c83c3,463
+train/LUSC/chest-ct-scan_000145 (6)_c00f753d.png,LUSC,d9bc26c639694475,464
+train/LUSC/chest-ct-scan_000146 (6)_0c567030.png,LUSC,9c9647693b966469,465
+train/LUSC/chest-ct-scan_000148 (4)_a2745a4b.png,LUSC,d4e36344389b6c3d,466
+train/LUSC/chest-ct-scan_000149 (4)_0a488fa3.png,LUSC,d1ee6e05393a9625,454
+train/LUSC/chest-ct-scan_000151 (6)_435dbc27.png,LUSC,d1d92e0631696bd6,467
+train/LUSC/chest-ct-scan_000151_095feceb.png,LUSC,989867676d3b143c,457
+train/LUSC/chest-ct-scan_000153 (3)_8fbdeef7.png,LUSC,c1d83e052bde6c65,468
+train/LUSC/chest-ct-scan_000153 (4)_3c3e5cd5.png,LUSC,c4e73b5c78922c2d,469
+train/LUSC/chest-ct-scan_000153_68e8b45a.png,LUSC,c1cc561739796ce4,470
+train/LUSC/chest-ct-scan_000154 (2)_69e985e0.png,LUSC,999a6665693a9479,227
+train/LUSC/chest-ct-scan_000154 (3)_e93caa48.png,LUSC,c5687b953c7a6132,471
+train/LUSC/chest-ct-scan_000154 (4)_ec5ba38c.png,LUSC,91f86e45797a8625,472
+train/LUSC/chest-ct-scan_000155 (3)_bbb92c76.png,LUSC,99d1664769785e31,473
+train/LUSC/chest-ct-scan_000155_428c4087.png,LUSC,c1e33e9c69cb1435,474
+train/LUSC/chest-ct-scan_000156 (2)_1335499c.png,LUSC,91c47e1f29689637,475
+train/LUSC/chest-ct-scan_000157 (6)_96c1e28a.png,LUSC,d9bd46d239694625,476
+train/LUSC/chest-ct-scan_000158 (4)_80b8f7fe.png,LUSC,dce827443c3b933c,477
+train/LUSC/chest-ct-scan_000158 (6)_040cd8c1.png,LUSC,90963e696bc63c39,478
+train/LUSC/chest-ct-scan_000160 (4)_97b4b030.png,LUSC,d0eb6744389b2c3d,466
+train/LUSC/chest-ct-scan_000162_0ac60702.png,LUSC,989a67656d3e3434,479
+train/LUSC/chest-ct-scan_000163 (4)_fa254ade.png,LUSC,c0a32f5c7b932c3c,480
+train/LUSC/chest-ct-scan_000163 (5)_0cef1f5d.png,LUSC,d8db63e53c3a1234,481
+train/LUSC/chest-ct-scan_000163 (6)_8858ada1.png,LUSC,91923e6d6bc61479,482
+train/LUSC/chest-ct-scan_000164 (5)_11b42e50.png,LUSC,d4cc6b133c7c46c6,483
+train/LUSC/chest-ct-scan_000166 (4)_4d21e38d.png,LUSC,c1673af068cf0cb6,484
+train/LUSC/chest-ct-scan_000168 (2)_94f64b70.png,LUSC,991a666d2f923c71,485
+train/LUSC/chest-ct-scan_000169 (6)_782fd155.png,LUSC,919e6e5339694794,486
+train/LUSC/chest-ct-scan_000170 (2)_1bea3c83.png,LUSC,95e46e1f29789623,487
+train/LUSC/chest-ct-scan_000172 (6)_87177ade.png,LUSC,909e43693f966c39,488
+train/LUSC/chest-ct-scan_000174 (3)_4ce14651.png,LUSC,c1e83f852ade7c30,489
+train/LUSC/chest-ct-scan_000177 (3)_be39b4c1.png,LUSC,d5e86e0725791a96,490
+train/LUSC/chest-ct-scan_sq3_1dc9b669.png,LUSC,9c1263e93e94387b,491
+train/LUSC/chest-ct-scan_sq5_cee60128.png,LUSC,99b866e53b02ac3d,492
+train/Normal/chest-ct-scan_003828_02_01_174_4bc2a448.png,Normal,c182167d6bcab83d,493
+train/Normal/chest-ct-scan_004007_01_01_519_fd4816b2.png,Normal,85687a96a5c9d762,494
+train/Normal/chest-ct-scan_004162_01_01_150_0973576f.png,Normal,dc73022d2f943cd3,495
+train/Normal/chest-ct-scan_10 (2) - Copy_3bb65fbd.png,Normal,c11357382dc4d5d7,496
+train/Normal/chest-ct-scan_10 - Copy (3)_e578f2fe.png,Normal,c11357382dc4d5d7,496
+train/Normal/chest-ct-scan_10 - Copy - Copy_90a71bb8.png,Normal,c19356782dc4d597,496
+train/Normal/chest-ct-scan_11 - Copy (2) - Copy_71361a65.png,Normal,9b1264ed6f963831,497
+train/Normal/chest-ct-scan_11 - Copy - Copy_d1ddeb98.png,Normal,9b1264ed6f963831,497
+train/Normal/chest-ct-scan_12 (2) - Copy_5d01f1d8.png,Normal,9b1344ed6e963c51,497
+train/Normal/chest-ct-scan_13 (2) - Copy_ccac6c93.png,Normal,9b13646f57cc3291,498
+train/Normal/chest-ct-scan_13 - Copy (2) - Copy_b2098508.png,Normal,db06217f07b87689,499
+train/Normal/chest-ct-scan_13 - Copy (3)_41ceed92.png,Normal,991366ec3b88b993,500
+train/Normal/chest-ct-scan_16 (2) - Copy_f25a7592.png,Normal,d093177c2dc4d497,501
+train/Normal/chest-ct-scan_16 - Copy (2) - Copy_7d09ce02.png,Normal,9df0531b0e2c2de5,502
+train/Normal/chest-ct-scan_16 - Copy (3)_e85b1464.png,Normal,d093137c2dc4d4d7,501
+train/Normal/chest-ct-scan_16 - Copy - Copy_8638208f.png,Normal,d093177c2dc4d497,501
+train/Normal/chest-ct-scan_17 (2) - Copy_5c3a0012.png,Normal,989245656f983ece,503
+train/Normal/chest-ct-scan_17 - Copy (2) - Copy_aa66dcc0.png,Normal,9a92646d53dc466e,504
+train/Normal/chest-ct-scan_17 - Copy (3)_a93cc593.png,Normal,989245656f983ece,503
+train/Normal/chest-ct-scan_17 - Copy - Copy_3db37a31.png,Normal,9892456d6f903ece,503
+train/Normal/chest-ct-scan_19 (2) - Copy_9c4c2c67.png,Normal,9d3842ac6b553c3b,505
+train/Normal/chest-ct-scan_19 - Copy (2) - Copy_ad4323c4.png,Normal,9b7264ef46883933,506
+train/Normal/chest-ct-scan_19 - Copy (3)_330abc05.png,Normal,9d3842ac6b553c3b,505
+train/Normal/chest-ct-scan_19 - Copy - Copy_85241198.png,Normal,9d3842ac2f553c3b,505
+train/Normal/chest-ct-scan_2 (2) - Copy_f42e0b68.png,Normal,993366643a9a786b,507
+train/Normal/chest-ct-scan_20 (2) - Copy_8179f7af.png,Normal,999a62652f9a9c33,508
+train/Normal/chest-ct-scan_20 - Copy (2) - Copy_2ec68f22.png,Normal,999a62652f9a9c33,508
+train/Normal/chest-ct-scan_20 - Copy - Copy_e6898635.png,Normal,999a62652f9a9c33,508
+train/Normal/chest-ct-scan_21 - Copy (2) - Copy_5e7b5cf7.png,Normal,9b1344ed6e963871,497
+train/Normal/chest-ct-scan_22_78420f3f.png,Normal,d993126e2e8579b2,509
+train/Normal/chest-ct-scan_23_cd7e949f.png,Normal,9931666f1ad839e1,510
+train/Normal/chest-ct-scan_24 - Copy_c16ab822.png,Normal,991b46e46ada386b,511
+train/Normal/chest-ct-scan_24_4035eb3d.png,Normal,991b46e47ada3863,511
+train/Normal/chest-ct-scan_25_6a3bc30f.png,Normal,9b13642d439c2e7b,512
+train/Normal/chest-ct-scan_3 (2) - Copy_c2be3473.png,Normal,993b676d399070c3,513
+train/Normal/chest-ct-scan_3 - Copy (2) - Copy_94d3e4c0.png,Normal,9933676d399870c3,513
+train/Normal/chest-ct-scan_4 (2) - Copy_7715b6cf.png,Normal,9b1144ed6e963c71,497
+train/Normal/chest-ct-scan_4 - Copy (2) - Copy_19c96a11.png,Normal,9b1345ed6f963841,497
+train/Normal/chest-ct-scan_5 (2) - Copy_8bf2ae2b.png,Normal,dc4e23b1788e8573,514
+train/Normal/chest-ct-scan_6 - Copy (2) - Copy_97a3cbf7.png,Normal,999146646f9a3c2f,515
+train/Normal/chest-ct-scan_7 (2) - Copy_0b1a9ef5.png,Normal,d13b26e479cb9027,516
+train/Normal/chest-ct-scan_7 - Copy (2) - Copy_ba597804.png,Normal,991344ed7e983873,517
+train/Normal/chest-ct-scan_n6 (2) - Copy_cb40e96a.png,Normal,d93506bb6b44ec23,518
+train/Normal/chest-ct-scan_n7 (2) - Copy_54cd1602.png,Normal,be1253bd2dc47423,519
+train/Normal/chest-ct-scan_normal_10ac6f3d.png,Normal,9931662e3ad87963,520
+train/Normal/iq-othnccd_Normal case (10)_632dae83.png,Normal,911b6ee4319b9f84,521
+train/Normal/iq-othnccd_Normal case (100)_34a4ef78.png,Normal,d0982f6f2034dfc3,522
+train/Normal/iq-othnccd_Normal case (101)_c463cb2c.png,Normal,d0d22b6ba034cfcb,522
+train/Normal/iq-othnccd_Normal case (103)_57c59a8a.png,Normal,d0902b6fb034cfcb,522
+train/Normal/iq-othnccd_Normal case (104)_84901e19.png,Normal,d4922b6f3034cfc3,522
+train/Normal/iq-othnccd_Normal case (107)_22359ecd.png,Normal,90d06f2f7c343993,523
+train/Normal/iq-othnccd_Normal case (11)_53ac67b3.png,Normal,911b6ee4319b9f84,521
+train/Normal/iq-othnccd_Normal case (113)_31812d11.png,Normal,91661ee978878a7a,524
+train/Normal/iq-othnccd_Normal case (114)_a9a26471.png,Normal,91661ee97887817e,524
+train/Normal/iq-othnccd_Normal case (115)_89125da3.png,Normal,995e26f86897817a,525
+train/Normal/iq-othnccd_Normal case (116)_a92dae87.png,Normal,915a66e97893857a,526
+train/Normal/iq-othnccd_Normal case (117)_e244ba0f.png,Normal,915a66e97893857a,526
+train/Normal/iq-othnccd_Normal case (118)_d206db8e.png,Normal,915a66ed6893857a,526
+train/Normal/iq-othnccd_Normal case (119)_a05d6ba5.png,Normal,915a6eed6096857a,526
+train/Normal/iq-othnccd_Normal case (12)_12616b97.png,Normal,911b6ee4319b9f84,521
+train/Normal/iq-othnccd_Normal case (120)_7e29920d.png,Normal,915a6eed6096857a,526
+train/Normal/iq-othnccd_Normal case (121)_2f803f60.png,Normal,915a6eed6096857a,526
+train/Normal/iq-othnccd_Normal case (122)_5fd151cf.png,Normal,81375ee0298fd6d8,527
+train/Normal/iq-othnccd_Normal case (123)_ace133b2.png,Normal,81375ee02987d6da,527
+train/Normal/iq-othnccd_Normal case (124)_7de07d67.png,Normal,81375ee02957d69a,527
+train/Normal/iq-othnccd_Normal case (125)_fc0d1efb.png,Normal,81375ee02957d69a,527
+train/Normal/iq-othnccd_Normal case (126)_80ec2cb7.png,Normal,81375ee82947d69a,527
+train/Normal/iq-othnccd_Normal case (13)_326fc24e.png,Normal,911b6ee4219b9f85,521
+train/Normal/iq-othnccd_Normal case (131)_dbb15354.png,Normal,80633fa47459db93,528
+train/Normal/iq-othnccd_Normal case (132)_e0efb4f3.png,Normal,c04b2fa47459db93,528
+train/Normal/iq-othnccd_Normal case (133)_7862890f.png,Normal,905b6fa474599b83,529
+train/Normal/iq-othnccd_Normal case (135)_6ae494f0.png,Normal,d0632f94b4dacb0d,530
+train/Normal/iq-othnccd_Normal case (136)_d00c0f96.png,Normal,d0632f94b4dacb0d,530
+train/Normal/iq-othnccd_Normal case (137)_c99644c4.png,Normal,d0632f94b4dacb0d,530
+train/Normal/iq-othnccd_Normal case (138)_78fbbcf7.png,Normal,d0632f94b4dacb0d,530
+train/Normal/iq-othnccd_Normal case (139)_b290f964.png,Normal,c0632f94b4dacb8d,530
+train/Normal/iq-othnccd_Normal case (14)_1149ed10.png,Normal,916f6ee1a19e8698,531
+train/Normal/iq-othnccd_Normal case (142)_89d53dcb.png,Normal,80632bb4b4dacb8f,530
+train/Normal/iq-othnccd_Normal case (143)_daebe0d3.png,Normal,80633bb434dacb8f,530
+train/Normal/iq-othnccd_Normal case (144)_e0edd190.png,Normal,80633bb434cacbcf,530
+train/Normal/iq-othnccd_Normal case (145)_41838fa9.png,Normal,80673bb434cacbcb,530
+train/Normal/iq-othnccd_Normal case (146)_ed989aba.png,Normal,c4673bb034cacb8d,530
+train/Normal/iq-othnccd_Normal case (147)_38e559bf.png,Normal,c4673bb034dacb89,530
+train/Normal/iq-othnccd_Normal case (15)_728e9e42.png,Normal,91676ee1a19e9698,531
+train/Normal/iq-othnccd_Normal case (150)_f40ca8c1.png,Normal,c4672bb034dacb8b,530
+train/Normal/iq-othnccd_Normal case (153)_3dcc839e.png,Normal,84637bb434dacb83,530
+train/Normal/iq-othnccd_Normal case (154)_61dca1c7.png,Normal,84637bb434dacb83,530
+train/Normal/iq-othnccd_Normal case (155)_0eb9a1f9.png,Normal,84637bb434d8cb87,530
+train/Normal/iq-othnccd_Normal case (156)_6d81f630.png,Normal,c4673bb434d8cb83,530
+train/Normal/iq-othnccd_Normal case (157)_593b7b72.png,Normal,c0633bb434d8db87,530
+train/Normal/iq-othnccd_Normal case (158)_d88e69d2.png,Normal,d4950bba3969c0f5,532
+train/Normal/iq-othnccd_Normal case (16)_5619a994.png,Normal,91666ee121ded698,531
+train/Normal/iq-othnccd_Normal case (162)_43c29fd5.png,Normal,d4161afa696dc296,533
+train/Normal/iq-othnccd_Normal case (164)_295636ba.png,Normal,d4160afa696dc696,533
+train/Normal/iq-othnccd_Normal case (165)_da950c85.png,Normal,94145afa796dc2d4,533
+train/Normal/iq-othnccd_Normal case (166)_a0318344.png,Normal,94145bfa796dc0d4,533
+train/Normal/iq-othnccd_Normal case (167)_d7079511.png,Normal,d4151bfa3969c0f4,532
+train/Normal/iq-othnccd_Normal case (168)_5cea68cc.png,Normal,d1622e8fbc78c2c3,534
+train/Normal/iq-othnccd_Normal case (169)_bc9bd04b.png,Normal,d5632a8f3d389293,535
+train/Normal/iq-othnccd_Normal case (17)_2c995d8e.png,Normal,91666ee131dec698,531
+train/Normal/iq-othnccd_Normal case (171)_5f70e46e.png,Normal,d1730aa73d18d2d3,536
+train/Normal/iq-othnccd_Normal case (172)_e59e0581.png,Normal,d5730aef3d188293,537
+train/Normal/iq-othnccd_Normal case (173)_b504648e.png,Normal,d1330be77c1893d1,538
+train/Normal/iq-othnccd_Normal case (174)_066fee3a.png,Normal,813e7ee0296dc786,539
+train/Normal/iq-othnccd_Normal case (179)_ccc267f0.png,Normal,813f7ee02197961e,540
+train/Normal/iq-othnccd_Normal case (18)_8c7fa8fb.png,Normal,91666ee1719ec698,531
+train/Normal/iq-othnccd_Normal case (180)_5d9eb3d4.png,Normal,813f7ee021979696,540
+train/Normal/iq-othnccd_Normal case (182)_12361487.png,Normal,813f7ee021879796,540
+train/Normal/iq-othnccd_Normal case (184)_784097d8.png,Normal,813f7ee029859796,540
+train/Normal/iq-othnccd_Normal case (186)_0420245a.png,Normal,91137e6c692997c5,541
+train/Normal/iq-othnccd_Normal case (188)_079fae94.png,Normal,919b6e6d61319365,542
+train/Normal/iq-othnccd_Normal case (189)_99e891bd.png,Normal,919a6e6d61399365,542
+train/Normal/iq-othnccd_Normal case (19)_30d2f91c.png,Normal,91667ee1719e8698,531
+train/Normal/iq-othnccd_Normal case (190)_8b0da576.png,Normal,85377ae0618f96b2,543
+train/Normal/iq-othnccd_Normal case (191)_27c568bd.png,Normal,853f7ae0610f9696,543
+train/Normal/iq-othnccd_Normal case (192)_2aca3216.png,Normal,853f7ee0610d9696,543
+train/Normal/iq-othnccd_Normal case (193)_0e847c39.png,Normal,811f7ee8610dd696,543
+train/Normal/iq-othnccd_Normal case (195)_94d5875e.png,Normal,951f7ae0618dce92,544
+train/Normal/iq-othnccd_Normal case (196)_f4708997.png,Normal,951f7ae0618dce92,544
+train/Normal/iq-othnccd_Normal case (197)_641e8ff4.png,Normal,953a7ae021cdde92,545
+train/Normal/iq-othnccd_Normal case (198)_d550062f.png,Normal,953a7ae021cdde92,545
+train/Normal/iq-othnccd_Normal case (199)_2872cb95.png,Normal,919a7ee0296dc696,546
+train/Normal/iq-othnccd_Normal case (2)_c617abae.png,Normal,81377ee0219bd69c,547
+train/Normal/iq-othnccd_Normal case (20)_90c6a68f.png,Normal,91666ee171de8698,531
+train/Normal/iq-othnccd_Normal case (200)_ebf874f1.png,Normal,d01b2fe4743b92d4,548
+train/Normal/iq-othnccd_Normal case (201)_3cd129be.png,Normal,d01b2fe4743b92d4,548
+train/Normal/iq-othnccd_Normal case (202)_6d82b598.png,Normal,d01b2fe4743b92d4,548
+train/Normal/iq-othnccd_Normal case (203)_b2e11d65.png,Normal,d42b2bf0340fc2dd,549
+train/Normal/iq-othnccd_Normal case (204)_51041e3d.png,Normal,d4332bf0340fc2dd,549
+train/Normal/iq-othnccd_Normal case (206)_fb713ec5.png,Normal,d42e2bf0348bc2dd,549
+train/Normal/iq-othnccd_Normal case (207)_33d02c1a.png,Normal,d42f2bf0340bc2dd,549
+train/Normal/iq-othnccd_Normal case (208)_5c27f138.png,Normal,d42f2bf0340bc2dd,549
+train/Normal/iq-othnccd_Normal case (209)_c3e6b25b.png,Normal,d42f2bf0340fc2dc,549
+train/Normal/iq-othnccd_Normal case (213)_d183ae50.png,Normal,942b3ff0740bc2dc,550
+train/Normal/iq-othnccd_Normal case (214)_0b99186e.png,Normal,842f6ff0740bc2dc,550
+train/Normal/iq-othnccd_Normal case (215)_76f04c3a.png,Normal,d42b6bf0340bc2dd,549
+train/Normal/iq-othnccd_Normal case (216)_19052e20.png,Normal,d42f2bf0340bc2dd,549
+train/Normal/iq-othnccd_Normal case (217)_182b8b14.png,Normal,d43b2bf0340f82dd,549
+train/Normal/iq-othnccd_Normal case (218)_aebf7042.png,Normal,d43b2bf0340f82dd,549
+train/Normal/iq-othnccd_Normal case (221)_aaa53a9c.png,Normal,d11b22e47d3b9474,551
+train/Normal/iq-othnccd_Normal case (222)_26dad3a8.png,Normal,d09b23e47d3b9470,551
+train/Normal/iq-othnccd_Normal case (224)_8971293d.png,Normal,d44a0ba57d78c2ec,552
+train/Normal/iq-othnccd_Normal case (225)_9a179a57.png,Normal,d44a0ba57d7ac2e8,552
+train/Normal/iq-othnccd_Normal case (226)_7814f4ab.png,Normal,d44a2bad7d7882e8,552
+train/Normal/iq-othnccd_Normal case (227)_9a2941cb.png,Normal,d45a0bad7d7882e1,552
+train/Normal/iq-othnccd_Normal case (228)_751faeb0.png,Normal,d45a0bad7d38c0e3,552
+train/Normal/iq-othnccd_Normal case (231)_b021cf08.png,Normal,90675ea4b992c7e8,553
+train/Normal/iq-othnccd_Normal case (232)_872b19ee.png,Normal,90675ea5b99287e8,553
+train/Normal/iq-othnccd_Normal case (233)_8d7ce9be.png,Normal,91675ea4b99287e8,553
+train/Normal/iq-othnccd_Normal case (234)_23c226f9.png,Normal,91675ea4b99287e8,553
+train/Normal/iq-othnccd_Normal case (235)_2b820a66.png,Normal,91675ea4b99287e8,553
+train/Normal/iq-othnccd_Normal case (236)_1a629027.png,Normal,91675ea4b99287e8,553
+train/Normal/iq-othnccd_Normal case (237)_aba7267d.png,Normal,91675ea5b99287c8,553
+train/Normal/iq-othnccd_Normal case (238)_d8ca4c99.png,Normal,91675ea5399287ca,553
+train/Normal/iq-othnccd_Normal case (239)_5a1ad819.png,Normal,91675eac399287ca,553
+train/Normal/iq-othnccd_Normal case (24)_4204d7ad.png,Normal,91666ee1319ec798,531
+train/Normal/iq-othnccd_Normal case (240)_da7ba0e1.png,Normal,91675eac399287ca,553
+train/Normal/iq-othnccd_Normal case (241)_b0a7a9b2.png,Normal,91675eac399287ca,553
+train/Normal/iq-othnccd_Normal case (242)_a648e802.png,Normal,91671ead399c8783,553
+train/Normal/iq-othnccd_Normal case (243)_19d3fda4.png,Normal,91526eaf791895e1,554
+train/Normal/iq-othnccd_Normal case (244)_5bd3976f.png,Normal,91671ea4b992c7ca,553
+train/Normal/iq-othnccd_Normal case (245)_c831c585.png,Normal,91671ea53992c7ca,553
+train/Normal/iq-othnccd_Normal case (246)_c6e2eb56.png,Normal,91671eec399287ca,553
+train/Normal/iq-othnccd_Normal case (247)_6e299332.png,Normal,91670eec3992c7ca,553
+train/Normal/iq-othnccd_Normal case (248)_61fbd22e.png,Normal,91670ead3992c7ca,553
+train/Normal/iq-othnccd_Normal case (249)_049caf2d.png,Normal,d1670ead299287cb,553
+train/Normal/iq-othnccd_Normal case (250)_f5d44e14.png,Normal,d1670ead299287cb,553
+train/Normal/iq-othnccd_Normal case (251)_4dd8f7f4.png,Normal,91670ea53994c7cb,553
+train/Normal/iq-othnccd_Normal case (252)_c5c17f50.png,Normal,91670ea53994c7cb,553
+train/Normal/iq-othnccd_Normal case (253)_a11e2d47.png,Normal,81670ead399c87cb,553
+train/Normal/iq-othnccd_Normal case (254)_a88de740.png,Normal,90336fee301987c7,555
+train/Normal/iq-othnccd_Normal case (255)_8fe2dff2.png,Normal,91334eee201997d7,556
+train/Normal/iq-othnccd_Normal case (256)_fdc67631.png,Normal,91334eee201997d7,556
+train/Normal/iq-othnccd_Normal case (26)_6d9498fb.png,Normal,d0c86f2f3574dc30,557
+train/Normal/iq-othnccd_Normal case (261)_459faf61.png,Normal,91334eee3809d7d4,556
+train/Normal/iq-othnccd_Normal case (262)_966ff7f8.png,Normal,91334eee3809d7d4,556
+train/Normal/iq-othnccd_Normal case (263)_899642c8.png,Normal,91334eee3809d7d4,556
+train/Normal/iq-othnccd_Normal case (264)_6903ab39.png,Normal,91334eee3809d7d4,556
+train/Normal/iq-othnccd_Normal case (265)_0caeff5d.png,Normal,91334eee2909d7d4,556
+train/Normal/iq-othnccd_Normal case (268)_93722939.png,Normal,90374fee282dd6d0,556
+train/Normal/iq-othnccd_Normal case (269)_2db92e0f.png,Normal,90354ffb282cd6d1,558
+train/Normal/iq-othnccd_Normal case (270)_85f66aa8.png,Normal,91314eee3019d7d6,556
+train/Normal/iq-othnccd_Normal case (271)_9f4a2be3.png,Normal,91314eee3119d7d4,556
+train/Normal/iq-othnccd_Normal case (272)_4dfbc2d0.png,Normal,91214eee3839d7d4,556
+train/Normal/iq-othnccd_Normal case (273)_d09284c2.png,Normal,91334eee3829c7d4,556
+train/Normal/iq-othnccd_Normal case (275)_151d5d7f.png,Normal,90374fea292dd6d0,556
+train/Normal/iq-othnccd_Normal case (276)_54d0052f.png,Normal,90354ffb282cd6d1,558
+train/Normal/iq-othnccd_Normal case (277)_199bdf17.png,Normal,84345ffb282dd6d0,559
+train/Normal/iq-othnccd_Normal case (278)_a2adf998.png,Normal,84345feb2c2dd6d0,559
+train/Normal/iq-othnccd_Normal case (279)_c90ea522.png,Normal,919b2e66782d9371,560
+train/Normal/iq-othnccd_Normal case (28)_aa81b463.png,Normal,d0706b8f347c76d0,561
+train/Normal/iq-othnccd_Normal case (280)_0b6fbe4c.png,Normal,91336e58bd8dc3d0,562
+train/Normal/iq-othnccd_Normal case (283)_1787d143.png,Normal,d5330a7b7d2c82d1,563
+train/Normal/iq-othnccd_Normal case (284)_09a65d64.png,Normal,d5370a5b7d2c82d1,563
+train/Normal/iq-othnccd_Normal case (285)_4305b99f.png,Normal,d5370a5b7d2c82d1,563
+train/Normal/iq-othnccd_Normal case (286)_84e94245.png,Normal,d1350a7b7d2cc2d1,563
+train/Normal/iq-othnccd_Normal case (289)_f5d322ec.png,Normal,d5810a7f7d2cc2d1,563
+train/Normal/iq-othnccd_Normal case (290)_0ee6c18d.png,Normal,d5800afe7d2cc2f1,563
+train/Normal/iq-othnccd_Normal case (291)_ba824604.png,Normal,919f2e6a796d8231,564
+train/Normal/iq-othnccd_Normal case (292)_9924aa6d.png,Normal,d1900efb392cd2f1,565
+train/Normal/iq-othnccd_Normal case (293)_9de47cc8.png,Normal,919f6f66782882f1,566
+train/Normal/iq-othnccd_Normal case (294)_6aaadf39.png,Normal,d1a30e58fd8f82d1,567
+train/Normal/iq-othnccd_Normal case (295)_0d23217b.png,Normal,d5334a5b3d2cc2d1,563
+train/Normal/iq-othnccd_Normal case (296)_d1b4f2c9.png,Normal,d1850edb7d2cc2d1,568
+train/Normal/iq-othnccd_Normal case (301)_702e0042.png,Normal,911566f2396dc5b1,569
+train/Normal/iq-othnccd_Normal case (302)_8e28c154.png,Normal,911566f2396dc5b1,569
+train/Normal/iq-othnccd_Normal case (303)_cbd9a1cb.png,Normal,911576f2396dc531,569
+train/Normal/iq-othnccd_Normal case (304)_9837e98a.png,Normal,911566f6396dc531,569
+train/Normal/iq-othnccd_Normal case (305)_0226dee6.png,Normal,99996666797a9131,570
+train/Normal/iq-othnccd_Normal case (306)_a47fc7fb.png,Normal,99996666797a9131,570
+train/Normal/iq-othnccd_Normal case (307)_62d914b9.png,Normal,81155efa3969c6b4,571
+train/Normal/iq-othnccd_Normal case (308)_64d240c6.png,Normal,81155efa2969c6b5,571
+train/Normal/iq-othnccd_Normal case (309)_ced69d00.png,Normal,81155efa3929c6b5,571
+train/Normal/iq-othnccd_Normal case (31)_029b5931.png,Normal,d4d06b8f357c4c64,572
+train/Normal/iq-othnccd_Normal case (310)_2210cb19.png,Normal,81155efa3929c6b5,571
+train/Normal/iq-othnccd_Normal case (311)_de73cbad.png,Normal,81157efa2929c6b5,571
+train/Normal/iq-othnccd_Normal case (312)_41dd7f5e.png,Normal,81057efa296dc4b5,571
+train/Normal/iq-othnccd_Normal case (313)_1a618668.png,Normal,919166e63939d785,573
+train/Normal/iq-othnccd_Normal case (316)_93ec71af.png,Normal,91196e662d799785,574
+train/Normal/iq-othnccd_Normal case (317)_9fe22449.png,Normal,81675eb62919d78a,575
+train/Normal/iq-othnccd_Normal case (318)_e71f6ab5.png,Normal,81675eea7919c7c0,576
+train/Normal/iq-othnccd_Normal case (319)_ad5a0a40.png,Normal,81c176a67939d785,577
+train/Normal/iq-othnccd_Normal case (322)_e80c621b.png,Normal,81675ee66199c78a,575
+train/Normal/iq-othnccd_Normal case (323)_026e21c1.png,Normal,81675ee62999d788,575
+train/Normal/iq-othnccd_Normal case (324)_3e311eab.png,Normal,d13b2eec918b462d,578
+train/Normal/iq-othnccd_Normal case (325)_afbb4053.png,Normal,913b2eec919b462d,578
+train/Normal/iq-othnccd_Normal case (326)_a14c1b9f.png,Normal,913b2eec919b462d,578
+train/Normal/iq-othnccd_Normal case (328)_050971c0.png,Normal,d13b2eec918b4639,578
+train/Normal/iq-othnccd_Normal case (329)_4a6813fe.png,Normal,d13b2ee491cb4639,578
+train/Normal/iq-othnccd_Normal case (33)_846119b1.png,Normal,911b6ee669399165,579
+train/Normal/iq-othnccd_Normal case (330)_4216e3b0.png,Normal,d13b2ee491cb4639,578
+train/Normal/iq-othnccd_Normal case (331)_e4b88c6f.png,Normal,d13b2ee491cb4635,578
+train/Normal/iq-othnccd_Normal case (332)_47dfb36f.png,Normal,d13b2ee491cb4639,578
+train/Normal/iq-othnccd_Normal case (335)_b0e89849.png,Normal,913b2ee491cb463d,578
+train/Normal/iq-othnccd_Normal case (336)_ce11c870.png,Normal,946a2bf5f4924729,580
+train/Normal/iq-othnccd_Normal case (339)_da348009.png,Normal,d57a2ae5b1924669,580
+train/Normal/iq-othnccd_Normal case (34)_66aed68f.png,Normal,91196ee661799365,579
+train/Normal/iq-othnccd_Normal case (340)_0a982bbd.png,Normal,917a2ef5b9824669,581
+train/Normal/iq-othnccd_Normal case (341)_44d2ce4a.png,Normal,917a2ee5f9924629,581
+train/Normal/iq-othnccd_Normal case (342)_cf96719e.png,Normal,917a2ee5f9824639,581
+train/Normal/iq-othnccd_Normal case (343)_622f903e.png,Normal,957a2aedb182c639,582
+train/Normal/iq-othnccd_Normal case (344)_9db2c94a.png,Normal,815f56f86907857a,583
+train/Normal/iq-othnccd_Normal case (345)_9a6380af.png,Normal,816756e96887955b,584
+train/Normal/iq-othnccd_Normal case (349)_02b6311f.png,Normal,991246ed7a90a1df,585
+train/Normal/iq-othnccd_Normal case (35)_55f600c4.png,Normal,91196ee661799365,579
+train/Normal/iq-othnccd_Normal case (351)_deafae51.png,Normal,895656f96885a1de,586
+train/Normal/iq-othnccd_Normal case (352)_b7d0ee49.png,Normal,891656f96885e59e,586
+train/Normal/iq-othnccd_Normal case (353)_76e6a4f7.png,Normal,991656f96885e19e,586
+train/Normal/iq-othnccd_Normal case (354)_65024db1.png,Normal,994746f86885e19f,586
+train/Normal/iq-othnccd_Normal case (355)_d535dcd2.png,Normal,d11b2ee67928d171,587
+train/Normal/iq-othnccd_Normal case (356)_e88ecf61.png,Normal,919b6e666c38d171,588
+train/Normal/iq-othnccd_Normal case (357)_8f38f9b8.png,Normal,919b6e666d389171,588
+train/Normal/iq-othnccd_Normal case (359)_425be1f9.png,Normal,851e7af161c69699,589
+train/Normal/iq-othnccd_Normal case (36)_33caa6b9.png,Normal,91196ee661799365,579
+train/Normal/iq-othnccd_Normal case (360)_beb1f817.png,Normal,851e7af161c69699,589
+train/Normal/iq-othnccd_Normal case (361)_8a647f72.png,Normal,851e7af161c79698,589
+train/Normal/iq-othnccd_Normal case (362)_5f01872b.png,Normal,851e7ef161479698,589
+train/Normal/iq-othnccd_Normal case (363)_456194ee.png,Normal,c51e3ef161479698,589
+train/Normal/iq-othnccd_Normal case (364)_35c88655.png,Normal,c51e3ef161c78698,589
+train/Normal/iq-othnccd_Normal case (365)_8ca06ec1.png,Normal,c51e3ef161c6869a,589
+train/Normal/iq-othnccd_Normal case (366)_9c5ae05f.png,Normal,c51e3ef161c78698,589
+train/Normal/iq-othnccd_Normal case (367)_837c00d5.png,Normal,c51e3ef161c6869a,589
+train/Normal/iq-othnccd_Normal case (368)_73ac16e0.png,Normal,c51e3ef161c6869a,589
+train/Normal/iq-othnccd_Normal case (369)_31c7753b.png,Normal,c51e3ef161c6869a,589
+train/Normal/iq-othnccd_Normal case (370)_2ea041a7.png,Normal,c51f3ef16146869a,589
+train/Normal/iq-othnccd_Normal case (371)_aa2d9b41.png,Normal,851e7ef16146869b,589
+train/Normal/iq-othnccd_Normal case (372)_326a0aee.png,Normal,c11e7ef16146869b,589
+train/Normal/iq-othnccd_Normal case (373)_6c2bf578.png,Normal,851e7ef16146869b,589
+train/Normal/iq-othnccd_Normal case (374)_29f0eeba.png,Normal,851e7ef16146869b,589
+train/Normal/iq-othnccd_Normal case (375)_3d29a45d.png,Normal,851e7ef161668693,589
+train/Normal/iq-othnccd_Normal case (376)_c45ec1b4.png,Normal,811e7ef961668693,589
+train/Normal/iq-othnccd_Normal case (377)_d2dfedbd.png,Normal,811e7ef961668693,589
+train/Normal/iq-othnccd_Normal case (379)_58d04f69.png,Normal,811e7ef961668693,589
+train/Normal/iq-othnccd_Normal case (38)_b589b01c.png,Normal,91196ee679399165,579
+train/Normal/iq-othnccd_Normal case (380)_5024134c.png,Normal,811e7ef961668693,589
+train/Normal/iq-othnccd_Normal case (381)_2e8e78b2.png,Normal,811e7ef961668693,589
+train/Normal/iq-othnccd_Normal case (382)_9a1421d1.png,Normal,811e7ef961668693,589
+train/Normal/iq-othnccd_Normal case (383)_37ee4d8b.png,Normal,811e7ef961668693,589
+train/Normal/iq-othnccd_Normal case (386)_20097888.png,Normal,80736fa0b897c6cd,590
+train/Normal/iq-othnccd_Normal case (388)_1c44155c.png,Normal,85634eb439d3c6cc,591
+train/Normal/iq-othnccd_Normal case (389)_c0254510.png,Normal,81634eb439d3c6ce,591
+train/Normal/iq-othnccd_Normal case (390)_da3321b9.png,Normal,81634eb439d3c6ce,591
+train/Normal/iq-othnccd_Normal case (391)_0c24c94c.png,Normal,c0274fb43893c6cf,592
+train/Normal/iq-othnccd_Normal case (394)_3ae1c38d.png,Normal,c0234ff43d92c6cb,592
+train/Normal/iq-othnccd_Normal case (396)_5eb4ccea.png,Normal,c1734fe43d12c2cb,593
+train/Normal/iq-othnccd_Normal case (398)_45859733.png,Normal,c1634eec3d12c2db,593
+train/Normal/iq-othnccd_Normal case (399)_c7a3e4ce.png,Normal,95956eea2125cf86,594
+train/Normal/iq-othnccd_Normal case (40)_cd2f1b29.png,Normal,85275ef0618f9699,595
+train/Normal/iq-othnccd_Normal case (400)_5c11f38b.png,Normal,91996e6e61619f83,596
+train/Normal/iq-othnccd_Normal case (401)_4a1457a6.png,Normal,91996e6e61619f83,596
+train/Normal/iq-othnccd_Normal case (405)_8b2c646a.png,Normal,95176aeaa125ce96,597
+train/Normal/iq-othnccd_Normal case (41)_9236f161.png,Normal,85275ef0618f9699,595
+train/Normal/iq-othnccd_Normal case (44)_00192f61.png,Normal,81275efa690d869e,598
+train/Normal/iq-othnccd_Normal case (45)_c5de62e1.png,Normal,81275efa6949869e,598
+train/Normal/iq-othnccd_Normal case (48)_97cf8cad.png,Normal,911a6ee5319b95c6,521
+train/Normal/iq-othnccd_Normal case (49)_c7b64bea.png,Normal,911a6ee5719a95c6,521
+train/Normal/iq-othnccd_Normal case (50)_9b7d0174.png,Normal,c53e1ae16d869279,599
+train/Normal/iq-othnccd_Normal case (53)_54a5b593.png,Normal,c13e1ee16986927b,599
+train/Normal/iq-othnccd_Normal case (54)_651d031a.png,Normal,c13e1ee169869679,599
+train/Normal/iq-othnccd_Normal case (56)_bbf9f2f9.png,Normal,c13e5ee161c69639,599
+train/Normal/iq-othnccd_Normal case (57)_e4240e1d.png,Normal,c1767ee161c69638,599
+train/Normal/iq-othnccd_Normal case (59)_be0b94cb.png,Normal,91470efc791087eb,600
+train/Normal/iq-othnccd_Normal case (60)_e943b44f.png,Normal,91070e7e7919d5e1,601
+train/Normal/iq-othnccd_Normal case (61)_ea79f58a.png,Normal,91476e7c7918d561,602
+train/Normal/iq-othnccd_Normal case (62)_61a32681.png,Normal,95430aec699197ee,603
+train/Normal/iq-othnccd_Normal case (64)_7d24a80d.png,Normal,c1175eda2969d564,604
+train/Normal/iq-othnccd_Normal case (65)_94caa335.png,Normal,c1515ece29797525,605
+train/Normal/iq-othnccd_Normal case (66)_4a60e535.png,Normal,91915ece28797971,606
+train/Normal/iq-othnccd_Normal case (67)_cc0b444f.png,Normal,81935ee82129dfd3,607
+train/Normal/iq-othnccd_Normal case (7)_eb3160f8.png,Normal,843e7ae0219bd6dc,547
+train/Normal/iq-othnccd_Normal case (70)_66a41cde.png,Normal,81175ef82925d6d3,608
+train/Normal/iq-othnccd_Normal case (71)_31a4f795.png,Normal,81175ef8292dd696,608
+train/Normal/iq-othnccd_Normal case (72)_c73b5fcf.png,Normal,81975eca292dd6a3,609
+train/Normal/iq-othnccd_Normal case (73)_c0861592.png,Normal,81367ee0298e97b5,610
+train/Normal/iq-othnccd_Normal case (74)_eb0a480c.png,Normal,81367ea0698797b5,610
+train/Normal/iq-othnccd_Normal case (79)_9169c4d2.png,Normal,81177ee8684dc7a5,611
+train/Normal/iq-othnccd_Normal case (82)_e5820ab1.png,Normal,d14b0eb5691386ee,612
+train/Normal/iq-othnccd_Normal case (83)_3c1f927b.png,Normal,914b0eb5791386ee,612
+train/Normal/iq-othnccd_Normal case (84)_e6e80c3b.png,Normal,914a0ebd791386ee,612
+train/Normal/iq-othnccd_Normal case (85)_1dfe809b.png,Normal,914a0ebd791386ee,612
+train/Normal/iq-othnccd_Normal case (86)_dcd5c66f.png,Normal,914a0ebd791386ee,612
+train/Normal/iq-othnccd_Normal case (87)_69725dd9.png,Normal,914a0ebd7912c6ee,612
+train/Normal/iq-othnccd_Normal case (88)_16385e91.png,Normal,81167ef3292cc5e5,613
+train/Normal/iq-othnccd_Normal case (89)_f21bedf8.png,Normal,811e7ef3290ce565,613
+train/Normal/iq-othnccd_Normal case (9)_68712ab8.png,Normal,911b6ee4319b9f84,521
+train/Normal/iq-othnccd_Normal case (90)_794caa90.png,Normal,811f7ef2290cf165,613
+train/Normal/iq-othnccd_Normal case (91)_19fdf745.png,Normal,811f7ef22938d165,613
+train/Normal/iq-othnccd_Normal case (93)_b29aea4d.png,Normal,81365ef1690cc6f5,614
+train/Normal/iq-othnccd_Normal case (94)_3028a60c.png,Normal,81365ef1690cc6f5,614
+train/Normal/iq-othnccd_Normal case (96)_17d5e26c.png,Normal,81265ef9292cc7e5,613
+train/Normal/iq-othnccd_Normal case (99)_a8637dd4.png,Normal,d0903f6f6034cfc3,522
+valid/LCLC/chest-ct-scan_000009 (3)_3a8b7ef5.png,LCLC,995e66b12944d5ba,615
+valid/LCLC/chest-ct-scan_000010_2128d69e.png,LCLC,993267ec3a9069c7,616
+valid/LCLC/chest-ct-scan_000016 (4)_93bc77e5.png,LCLC,991e67e878b131c6,617
+valid/LCLC/chest-ct-scan_000020 (3)_279ef2ae.png,LCLC,894e76f1384ce572,618
+valid/LCLC/chest-ct-scan_000020 (4)_a17f7f45.png,LCLC,991e66f3784c6172,619
+valid/LCLC/chest-ct-scan_000039 (4)_33a42b36.png,LCLC,813d76b139cec631,620
+valid/LCLC/chest-ct-scan_000041 (4)_e4d3b116.png,LCLC,991667e978972156,20
+valid/LCLC/chest-ct-scan_000058 (4)_dfc16eb0.png,LCLC,991e66e12855f996,621
+valid/LCLC/chest-ct-scan_000059 (3)_75969ca8.png,LCLC,994e66b1784ca57a,622
+valid/LCLC/chest-ct-scan_000063 (2)_7782b427.png,LCLC,d99d2602797bc60d,623
+valid/LCLC/chest-ct-scan_000068_f0c6d1fd.png,LCLC,996f46b87ac461a3,624
+valid/LCLC/chest-ct-scan_000073 (2)_7a7218a6.png,LCLC,dc0823f7fc4e82b1,625
+valid/LCLC/chest-ct-scan_000076 (3)_b123f193.png,LCLC,d90e26f13d46d19a,626
+valid/LCLC/chest-ct-scan_000078 (4)_e65a0201.png,LCLC,c11636e96b963cc3,41
+valid/LCLC/chest-ct-scan_000080_7d4f42db.png,LCLC,d1fb260669b9c742,627
+valid/LCLC/chest-ct-scan_000095 (3)_2f925701.png,LCLC,981667e97897914e,628
+valid/LCLC/chest-ct-scan_000098 (3)_fb0372ce.png,LCLC,997e66b129c4a53a,629
+valid/LCLC/chest-ct-scan_000111 (2)_842e51af.png,LCLC,81d97e06297996c7,60
+valid/LCLC/chest-ct-scan_000112_309ff897.png,LCLC,d48d2b52fcacc3c2,630
+valid/LCLC/chest-ct-scan_000115_269b1a58.png,LCLC,9c13636c2f5878b6,631
+valid/LCLC/chest-ct-scan_000122_b7fd230f.png,LCLC,c11e37e16a9438f3,632
+valid/LCLC/chest-ct-scan_000128 (2)_545755f8.png,LCLC,d1983e676b721439,633
+valid/LCLC/chest-ct-scan_000128_863f4b6f.png,LCLC,911e66e1f993863c,634
+valid/LCLC/chest-ct-scan_000136 (2)_71e16232.png,LCLC,999c76d3396c4561,635
+valid/LCLC/chest-ct-scan_000137_21659f70.png,LCLC,901467eb3e9c49e3,636
+valid/LCLC/chest-ct-scan_000137_2697b325.png,LCLC,91b266457b9e9c61,637
+valid/LCLC/chest-ct-scan_000149_dd84c987.png,LCLC,992366fc3b81e156,638
+valid/LCLC/chest-ct-scan_000163_21f53463.png,LCLC,91b96e967968c525,639
+valid/LUAD/chest-ct-scan_000008 (10)_d6eee124.png,LUAD,c16e3a916de2d34c,640
+valid/LUAD/chest-ct-scan_000017 (6)_28d33631.png,LUAD,c82f27d0394fc6d4,641
+valid/LUAD/chest-ct-scan_000017 (8)_5ad7c248.png,LUAD,d44e2bb16cc3933c,642
+valid/LUAD/chest-ct-scan_000018 (5)_2894f8b0.png,LUAD,c15a3ee56bd39818,643
+valid/LUAD/chest-ct-scan_000029 (9)_6ff8aac5.png,LUAD,893a67c5288ea5f9,644
+valid/LUAD/chest-ct-scan_000040 (10)_58d722d9.png,LUAD,9892476d6e943cb3,645
+valid/LUAD/chest-ct-scan_000041 (4)_2518892d.png,LUAD,9c2e63413c9638fb,646
+valid/LUAD/chest-ct-scan_000048_c4d0cdbb.png,LUAD,dc2f23d03c4fd231,212
+valid/LUAD/chest-ct-scan_000050 (8)_47269a11.png,LUAD,881e36f879c52d93,647
+valid/LUAD/chest-ct-scan_000054 (5)_b73c0a54.png,LUAD,c91a36656b929c79,648
+valid/LUAD/chest-ct-scan_000056 (7)_96f76eec.png,LUAD,c91e36e9699438e3,149
+valid/LUAD/chest-ct-scan_000059 (7)_ecd652d0.png,LUAD,d91e26e96b943863,149
+valid/LUAD/chest-ct-scan_000061_080a926c.png,LUAD,dc6b23b47d43902d,649
+valid/LUAD/chest-ct-scan_000063 (3)_209aac63.png,LUAD,816676b139ccc733,650
+valid/LUAD/chest-ct-scan_000063 (7)_bc580811.png,LUAD,915e66e13986c63b,651
+valid/LUAD/chest-ct-scan_000067 (10)_3dc9629f.png,LUAD,994766fc78912593,652
+valid/LUAD/chest-ct-scan_000068 (3)_bdbeceac.png,LUAD,991666fc3a9171c6,653
+valid/LUAD/chest-ct-scan_000079 (6)_5895fcac.png,LUAD,991666697a9039e7,188
+valid/LUAD/chest-ct-scan_000083 (6)_d7dde44c.png,LUAD,892f56b1394e6473,654
+valid/LUAD/chest-ct-scan_000086 (3)_3068dd20.png,LUAD,994e66b978c5a532,355
+valid/LUAD/chest-ct-scan_000091 (3)_345a02d1.png,LUAD,991266ed3a92b13b,655
+valid/LUAD/chest-ct-scan_000095 (6)_cabb122b.png,LUAD,c11e3e65679838e3,656
+valid/LUAD/chest-ct-scan_000101 (7)_71a18152.png,LUAD,d54a26b53952c6cb,657
+valid/LUAD/chest-ct-scan_000102 (7)_8b30ca49.png,LUAD,c1163ee93a966137,658
+valid/LUAD/chest-ct-scan_000104 (10)_ae3f316b.png,LUAD,d04f2b942df2d08f,659
+valid/LUAD/chest-ct-scan_000105 (4)_dc44e0af.png,LUAD,d0262fd03c8fc675,660
+valid/LUAD/chest-ct-scan_000109 (3)_2a0080fc.png,LUAD,cd1a32e56d1ac0e7,661
+valid/LUAD/chest-ct-scan_000113 (3)_9520a259.png,LUAD,cd1a32a57c5287ab,662
+valid/LUAD/chest-ct-scan_000114 (10)_c3b3e901.png,LUAD,9caa63553e9628ab,663
+valid/LUAD/chest-ct-scan_000114_8226456a.png,LUAD,d0e52f0b743dc3c2,256
+valid/LUAD/chest-ct-scan_000115 (2)_aa0e09da.png,LUAD,d46f439438d3e52c,664
+valid/LUAD/chest-ct-scan_000115 (4)_016a6e41.png,LUAD,919a6e6f64785961,665
+valid/LUAD/chest-ct-scan_000116 (3)_8306aa99.png,LUAD,cd1a32ed7c10c5da,170
+valid/LUAD/chest-ct-scan_000116 (8)_152509d7.png,LUAD,d86927c4389bf42d,666
+valid/LUAD/chest-ct-scan_000117 (6)_97043890.png,LUAD,c55a32a46dd3962d,667
+valid/LUAD/chest-ct-scan_000117 (8)_fc7ad48f.png,LUAD,d4ce3bb02c21d3ce,668
+valid/LUAD/chest-ct-scan_000119 (6)_1283b385.png,LUAD,d4ce2331fcd2d30c,669
+valid/LUAD/chest-ct-scan_000124 (6)_3e1a5e5e.png,LUAD,91e17e1e15a19a9e,670
+valid/LUAD/chest-ct-scan_000133 (4)_f03c1495.png,LUAD,91c16e4e393993e5,671
+valid/LUAD/chest-ct-scan_000134 (2)_83b67b16.png,LUAD,c1cb3e346dab9831,672
+valid/LUAD/chest-ct-scan_000136 (2)_3871b668.png,LUAD,934b6e64609b9937,673
+valid/LUAD/chest-ct-scan_000137 (2)_87a6d881.png,LUAD,d26b2fb470cf1831,674
+valid/LUAD/chest-ct-scan_000137 (8)_5f538c6c.png,LUAD,81997e76696d1531,675
+valid/LUAD/chest-ct-scan_000138 (6)_865aefc4.png,LUAD,c4d83b036d7cd2c6,226
+valid/LUAD/chest-ct-scan_000148 (8)_bb2c4379.png,LUAD,90de6f23686cd383,676
+valid/LUAD/chest-ct-scan_000149 (4)_de3be5ed.png,LUAD,d1c52f0e78391b87,290
+valid/LUAD/chest-ct-scan_000160 (4)_90ba7564.png,LUAD,999b6664793a9361,677
+valid/LUAD/chest-ct-scan_000161 (4)_72e6f54c.png,LUAD,c1cd3e16696b4c35,295
+valid/LUAD/chest-ct-scan_ad6_fbca0caa.png,LUAD,d1f90684791b87ec,678
+valid/LUAD/chest-ct-scan_ad8_bdb3aa7a.png,LUAD,99f2564f6994856a,679
+valid/LUSC/chest-ct-scan_000003_f2f62e53.png,LUSC,895a76b179c6c60b,680
+valid/LUSC/chest-ct-scan_000004 (4)_90b6afce.png,LUSC,946f03856cbb9678,681
+valid/LUSC/chest-ct-scan_000013 (6)_26704db0.png,LUSC,d16e6695389aa569,682
+valid/LUSC/chest-ct-scan_000015 (7)_e6197537.png,LUSC,987a27ad78d6818b,683
+valid/LUSC/chest-ct-scan_000017 (4)_e85ccddf.png,LUSC,90471dec639931f3,684
+valid/LUSC/chest-ct-scan_000027 (2)_a87e84ec.png,LUSC,dc0b23f43c83d0dd,685
+valid/LUSC/chest-ct-scan_000028 (7)_70403631.png,LUSC,99ee6605697a97c0,686
+valid/LUSC/chest-ct-scan_000058 (3)_43a87440.png,LUSC,d93e26f0794125a7,687
+valid/LUSC/chest-ct-scan_000063 (3)_c9173444.png,LUSC,9c13636d3dc6446b,688
+valid/LUSC/chest-ct-scan_000064 (4)_ac296e29.png,LUSC,d40b0bf43c9bc36c,689
+valid/LUSC/chest-ct-scan_000067 (5)_db29cff6.png,LUSC,9c32634d3d967499,690
+valid/LUSC/chest-ct-scan_000083 (6)_9f6870ec.png,LUSC,9c7a63ad1ac06b33,691
+valid/LUSC/chest-ct-scan_000084 (5)_68830e57.png,LUSC,99726685795e3133,692
+valid/LUSC/chest-ct-scan_000084 (7)_14d0182e.png,LUSC,9966668178de21bb,693
+valid/LUSC/chest-ct-scan_000091 (7)_e47738d6.png,LUSC,d47e2b813cdbc324,694
+valid/LUSC/chest-ct-scan_000099 (2)_c56c45b8.png,LUSC,d41b23f4784e9633,695
+valid/LUSC/chest-ct-scan_000099 (3)_251e684b.png,LUSC,c53e2ac139dec61c,696
+valid/LUSC/chest-ct-scan_000100 (4)_d0d30f35.png,LUSC,9d6647a9798530d3,697
+valid/LUSC/chest-ct-scan_000104_7c7c63af.png,LUSC,989a67653c9e9079,698
+valid/LUSC/chest-ct-scan_000105 (5)_61751b7a.png,LUSC,d8f0270778de9631,699
+valid/LUSC/chest-ct-scan_000106 (3)_6ca418d0.png,LUSC,981f63ec3dd25829,700
+valid/LUSC/chest-ct-scan_000108 (6)_504d5bdb.png,LUSC,d1d12e463179ce96,701
+valid/LUSC/chest-ct-scan_000112_894c4f01.png,LUSC,819d7e7679684585,702
+valid/LUSC/chest-ct-scan_000114 (6)_b7c6b2c8.png,LUSC,d953666c63933cb0,703
+valid/LUSC/chest-ct-scan_000117 (2)_76594da0.png,LUSC,94e46b1f2d789233,461
+valid/LUSC/chest-ct-scan_000118 (4)_d68a5d33.png,LUSC,956b439d3e606936,704
+valid/LUSC/chest-ct-scan_000118 (5)_c70b2de2.png,LUSC,d06a2b952ccbd66c,705
+valid/LUSC/chest-ct-scan_000120 (3)_3f779c40.png,LUSC,d4d86a0725797a96,706
+valid/LUSC/chest-ct-scan_000122_b2ff9d6b.png,LUSC,9812676d3a9634db,175
+valid/LUSC/chest-ct-scan_000124_f5d1761c.png,LUSC,99997676787a0d21,707
+valid/LUSC/chest-ct-scan_000125 (2)_76aa3756.png,LUSC,999a666d6d931c38,708
+valid/LUSC/chest-ct-scan_000125 (6)_9297dc2d.png,LUSC,d9bd06d2396b4525,476
+valid/LUSC/chest-ct-scan_000127_14f620d1.png,LUSC,81997677796845a5,702
+valid/LUSC/chest-ct-scan_000133 (2)_89e9f19e.png,LUSC,999a666569b29479,227
+valid/LUSC/chest-ct-scan_000133 (3)_91558e80.png,LUSC,99f866072c7e4e31,709
+valid/LUSC/chest-ct-scan_000136 (6)_c2705e53.png,LUSC,c4e83e072969de96,710
+valid/LUSC/chest-ct-scan_000142 (5)_8fd552ff.png,LUSC,90ad6e5671399783,711
+valid/LUSC/chest-ct-scan_000162 (2)_def92b99.png,LUSC,99e9769729685531,712
+valid/LUSC/chest-ct-scan_000167 (2)_c25a9c65.png,LUSC,94ec63176c789734,713
+valid/Normal/chest-ct-scan_10 - Copy (2) - Copy_a56ebc90.png,Normal,c19356782cc4d5d7,496
+valid/Normal/chest-ct-scan_12 - Copy (3)_3e4e998e.png,Normal,9b1344ed6f963851,497
+valid/Normal/chest-ct-scan_12 - Copy - Copy_bd49a8ee.png,Normal,9b1144ed6b963c71,497
+valid/Normal/chest-ct-scan_13 - Copy - Copy_eb724336.png,Normal,991366ec3b88f983,500
+valid/Normal/chest-ct-scan_2 - Copy (2) - Copy_5d9efe4a.png,Normal,9936466d1ad969c6,714
+valid/Normal/chest-ct-scan_2 - Copy (3)_eeaefb0a.png,Normal,9936466d1ad969c6,714
+valid/Normal/chest-ct-scan_8 (2) - Copy_82b421dc.png,Normal,9992646d669e3e31,715
+valid/Normal/chest-ct-scan_8 - Copy (2) - Copy_2de594d8.png,Normal,99926465679e3e31,715
+valid/Normal/chest-ct-scan_8 - Copy (3)_c5bf9daa.png,Normal,98926565679e3e31,715
+valid/Normal/chest-ct-scan_n9 (2) - Copy_031539a7.png,Normal,99e966c67a122d39,716
+valid/Normal/iq-othnccd_Normal case (1)_83ffde0e.png,Normal,85377ae0219bd69c,547
+valid/Normal/iq-othnccd_Normal case (102)_c1951fd5.png,Normal,d0902b6fe034cfcb,522
+valid/Normal/iq-othnccd_Normal case (106)_5639cb8d.png,Normal,d0926b7f2034cfc3,522
+valid/Normal/iq-othnccd_Normal case (108)_1362a209.png,Normal,d0c02f2fb470db8b,717
+valid/Normal/iq-othnccd_Normal case (109)_a5ff3d38.png,Normal,d0c22f2fb470cb8b,717
+valid/Normal/iq-othnccd_Normal case (110)_5b440cbb.png,Normal,c0c22f2fb470cbcb,717
+valid/Normal/iq-othnccd_Normal case (111)_c20820f9.png,Normal,d0c22b2f3c74db83,718
+valid/Normal/iq-othnccd_Normal case (112)_4c4caa77.png,Normal,916e1ee97896887a,524
+valid/Normal/iq-othnccd_Normal case (127)_266a68b5.png,Normal,81375ee82947d69a,527
+valid/Normal/iq-othnccd_Normal case (128)_96226e4e.png,Normal,81375ee8294fd692,527
+valid/Normal/iq-othnccd_Normal case (129)_6e3522a3.png,Normal,81377ee8294dd692,527
+valid/Normal/iq-othnccd_Normal case (140)_a091dd7b.png,Normal,80632f94b4dacb8f,530
+valid/Normal/iq-othnccd_Normal case (141)_f8f7d3cc.png,Normal,80632f94b4dacb8f,530
+valid/Normal/iq-othnccd_Normal case (151)_4a1ccf4c.png,Normal,c4673bb034cacb8b,530
+valid/Normal/iq-othnccd_Normal case (152)_54c3932c.png,Normal,c4673bb034cecb83,530
+valid/Normal/iq-othnccd_Normal case (159)_f2c03ed1.png,Normal,94161afa756dc296,533
+valid/Normal/iq-othnccd_Normal case (160)_c628b9b9.png,Normal,94161afa756dc296,533
+valid/Normal/iq-othnccd_Normal case (170)_c5fc4965.png,Normal,d5630aa77d1892d3,536
+valid/Normal/iq-othnccd_Normal case (175)_89131c58.png,Normal,813b7ee0a18f9e34,719
+valid/Normal/iq-othnccd_Normal case (176)_08a4bb65.png,Normal,813b7ee0a18f9e34,719
+valid/Normal/iq-othnccd_Normal case (178)_95e49e61.png,Normal,813f7ee421979616,540
+valid/Normal/iq-othnccd_Normal case (183)_296ebcd7.png,Normal,813f7ee021879796,540
+valid/Normal/iq-othnccd_Normal case (185)_a784a0c4.png,Normal,81367ee829279796,720
+valid/Normal/iq-othnccd_Normal case (205)_b686aadd.png,Normal,d4332bf0340fc2dd,549
+valid/Normal/iq-othnccd_Normal case (210)_6ec8bf91.png,Normal,909b6fe4742b92d4,548
+valid/Normal/iq-othnccd_Normal case (211)_8bbdb216.png,Normal,c42f2bf0348bc2dd,549
+valid/Normal/iq-othnccd_Normal case (219)_736d9046.png,Normal,d4332bf0340fc2dd,549
+valid/Normal/iq-othnccd_Normal case (266)_4fe315cb.png,Normal,91334eee2829d7d4,556
+valid/Normal/iq-othnccd_Normal case (27)_4a0d71e0.png,Normal,d0706f8f343c72d1,561
+valid/Normal/iq-othnccd_Normal case (274)_2e381ae4.png,Normal,91374eee2829d6d4,556
+valid/Normal/iq-othnccd_Normal case (29)_b5efc47e.png,Normal,d0702f8f353c76d0,561
+valid/Normal/iq-othnccd_Normal case (297)_ad91c19a.png,Normal,81155efa296dc5b1,571
+valid/Normal/iq-othnccd_Normal case (298)_14e721a5.png,Normal,81155efa296dc5b1,571
+valid/Normal/iq-othnccd_Normal case (3)_d3685784.png,Normal,85377ee02193d69c,547
+valid/Normal/iq-othnccd_Normal case (30)_0632ea81.png,Normal,d0706b8f357c66d0,561
+valid/Normal/iq-othnccd_Normal case (314)_54e51de7.png,Normal,91116ee679399785,573
+valid/Normal/iq-othnccd_Normal case (315)_f25e8622.png,Normal,91116ee679399785,573
+valid/Normal/iq-othnccd_Normal case (321)_7e29abfb.png,Normal,81117ee67939d784,573
+valid/Normal/iq-othnccd_Normal case (327)_d393d014.png,Normal,913b2eec919b462d,578
+valid/Normal/iq-othnccd_Normal case (346)_0ddc8564.png,Normal,896716f96887915b,584
+valid/Normal/iq-othnccd_Normal case (347)_883e711e.png,Normal,896716f96885b11f,584
+valid/Normal/iq-othnccd_Normal case (358)_00e384a9.png,Normal,851e7af161c69699,589
+valid/Normal/iq-othnccd_Normal case (37)_785d3cab.png,Normal,81275efa6949c595,598
+valid/Normal/iq-othnccd_Normal case (385)_57d16242.png,Normal,d1236ee43d1ad0f1,721
+valid/Normal/iq-othnccd_Normal case (39)_f66c7e00.png,Normal,85275ef0e1879699,595
+valid/Normal/iq-othnccd_Normal case (395)_ccddb348.png,Normal,d0634ff43992c2cb,592
+valid/Normal/iq-othnccd_Normal case (4)_61785ed1.png,Normal,91377ee0311bc69c,547
+valid/Normal/iq-othnccd_Normal case (402)_435df503.png,Normal,95177aeaa125ce92,597
+valid/Normal/iq-othnccd_Normal case (5)_ce09a203.png,Normal,91376ee4311bc798,547
+valid/Normal/iq-othnccd_Normal case (52)_c03671b2.png,Normal,c13e1ee16986927b,599
+valid/Normal/iq-othnccd_Normal case (55)_47eca32f.png,Normal,c13e5ee161c69639,599
+valid/Normal/iq-othnccd_Normal case (6)_20ce0d34.png,Normal,843f7ae0219fd64c,547
+valid/Normal/iq-othnccd_Normal case (63)_8fb641c8.png,Normal,95470afc791187ea,600
+valid/Normal/iq-othnccd_Normal case (75)_9f3ea281.png,Normal,80367ee869c696b5,722
+valid/Normal/iq-othnccd_Normal case (78)_e6b65c48.png,Normal,81367ee8694c86b7,723
+valid/Normal/iq-othnccd_Normal case (8)_cac4a5eb.png,Normal,911b6ee4319b97c4,521
+valid/Normal/iq-othnccd_Normal case (95)_0e89cf1b.png,Normal,81365ef1690cc6f5,614
+valid/Normal/iq-othnccd_Normal case (97)_6c9ea492.png,Normal,81265ef3296cc5e5,613
+test/LCLC/chest-ct-scan_000003 (3)_eb9602d6.png,LCLC,815e7ea3394dc692,724
+test/LCLC/chest-ct-scan_000015_0eb0a4da.png,LCLC,995e46ad78d58453,725
+test/LCLC/chest-ct-scan_000027 (2)_33acde7e.png,LCLC,983267693a94e96b,726
+test/LCLC/chest-ct-scan_000031_8a449c53.png,LCLC,905a6fad6aa1383b,727
+test/LCLC/chest-ct-scan_000045_099f8205.png,LCLC,991e67b87a4521e6,728
+test/LCLC/chest-ct-scan_000046_a1be32c5.png,LCLC,945a6fa56ac1383b,727
+test/LCLC/chest-ct-scan_000055 (4)_b0fc1b63.png,LCLC,994c66b1394ec53b,729
+test/LCLC/chest-ct-scan_000058 (3)_a7ce715d.png,LCLC,991e66e178c5a956,15
+test/LCLC/chest-ct-scan_000059 (4)_56333983.png,LCLC,996e66b1784ca572,622
+test/LCLC/chest-ct-scan_000060_17280abc.png,LCLC,94134bec7ea16b34,730
+test/LCLC/chest-ct-scan_000062 (4)_b187446b.png,LCLC,80362deb5ab47b85,731
+test/LCLC/chest-ct-scan_000069_c8b37f08.png,LCLC,9c1b526d6f903ca6,732
+test/LCLC/chest-ct-scan_000076 (4)_f2ce13b4.png,LCLC,894e76f1384ec53a,618
+test/LCLC/chest-ct-scan_000089_ddd9eec8.png,LCLC,9912476c7e2972b5,733
+test/LCLC/chest-ct-scan_000093 (3)_379f452a.png,LCLC,916e669129c6d63b,6
+test/LCLC/chest-ct-scan_000110_85740375.png,LCLC,91276ed8390bc7e4,734
+test/LCLC/chest-ct-scan_000114_1b6ad62b.png,LCLC,9d1262ed3b962c69,735
+test/LCLC/chest-ct-scan_000118 (2)_1287f01c.png,LCLC,911a6ee5e993962c,5
+test/LCLC/chest-ct-scan_000126_506eabd5.png,LCLC,993366cc793ba161,736
+test/LCLC/chest-ct-scan_000130_e36a7877.png,LCLC,d12e26f1b987c638,737
+test/LCLC/chest-ct-scan_000131_796a3b7b.png,LCLC,984747fa7a856196,738
+test/LCLC/chest-ct-scan_000131_a3fc073a.png,LCLC,91256ed8794f85b1,739
+test/LCLC/chest-ct-scan_000132 (2)_657b7941.png,LCLC,999a6765785e1139,740
+test/LCLC/chest-ct-scan_000133_08d63fd8.png,LCLC,dd0262bd3d46c43b,741
+test/LCLC/chest-ct-scan_000143_4cd923f8.png,LCLC,9902666d1b92edd3,742
+test/LCLC/chest-ct-scan_000158_54d288cd.png,LCLC,d19a3ea56b4a3c38,743
+test/LCLC/chest-ct-scan_000172_3a28f714.png,LCLC,dc0323fc7d42d41b,744
+test/LCLC/chest-ct-scan_l2_1fe82dbe.png,LCLC,981747ea3ac5896b,745
+test/LUAD/chest-ct-scan_000000 (6)_925ddda8.png,LUAD,994e76b129cec433,746
+test/LUAD/chest-ct-scan_000015 (4)_1bb4221c.png,LUAD,d8ec2753788e86e1,747
+test/LUAD/chest-ct-scan_000015 (9)_24159ca1.png,LUAD,81e87e1729bad661,748
+test/LUAD/chest-ct-scan_000024 (6)_4750e0e1.png,LUAD,9912666d2bd079e3,749
+test/LUAD/chest-ct-scan_000033 (9)_103a9290.png,LUAD,d83b676429933479,750
+test/LUAD/chest-ct-scan_000034 (6)_6a1323ad.png,LUAD,819e5671396ad69c,751
+test/LUAD/chest-ct-scan_000035 (6)_a7ec5df3.png,LUAD,993e46f178c521e3,752
+test/LUAD/chest-ct-scan_000042 (10)_e8c1ce69.png,LUAD,9993666d3a923c8b,753
+test/LUAD/chest-ct-scan_000050 (5)_49c3c667.png,LUAD,d91b26e52c9ac16d,754
+test/LUAD/chest-ct-scan_000050 (7)_03f0143d.png,LUAD,cd1e32e9691691cb,755
+test/LUAD/chest-ct-scan_000051 (3)_2039aec9.png,LUAD,991366ed7892916b,756
+test/LUAD/chest-ct-scan_000063 (5)_4113e65d.png,LUAD,995e36a1695687a9,757
+test/LUAD/chest-ct-scan_000065 (8)_439e2749.png,LUAD,dc0f23fc79c42493,758
+test/LUAD/chest-ct-scan_000065 (9)_90cc7393.png,LUAD,d868279538de9671,759
+test/LUAD/chest-ct-scan_000074 (5)_04411b91.png,LUAD,cc5a33a57c568729,760
+test/LUAD/chest-ct-scan_000084 (2)_e1527206.png,LUAD,91692e96f17b86a4,761
+test/LUAD/chest-ct-scan_000085 (7)_87173a89.png,LUAD,991666e93e9439c3,188
+test/LUAD/chest-ct-scan_000087 (8)_1e9cef33.png,LUAD,dc13366c6bd03cc3,762
+test/LUAD/chest-ct-scan_000090 (2)_c3c15874.png,LUAD,996e6694791b856c,763
+test/LUAD/chest-ct-scan_000096 (7)_6c280899.png,LUAD,815e36a17916c6eb,764
+test/LUAD/chest-ct-scan_000097 (3)_94ff3b59.png,LUAD,d01a2e6d63d43cb3,765
+test/LUAD/chest-ct-scan_000098 (8)_70ba1ed8.png,LUAD,995e46b079d384ce,766
+test/LUAD/chest-ct-scan_000106 (10)_c744a594.png,LUAD,9892636d3f9234b9,216
+test/LUAD/chest-ct-scan_000106 (4)_4066f8a9.png,LUAD,986667d1388e457b,203
+test/LUAD/chest-ct-scan_000108 (8)_1076f726.png,LUAD,983b67c43813e56d,767
+test/LUAD/chest-ct-scan_000111 (2)_6687380a.png,LUAD,c12b3e64339a6d63,768
+test/LUAD/chest-ct-scan_000114 (5)_0a2d239d.png,LUAD,9cb463453d1e3c39,769
+test/LUAD/chest-ct-scan_000115 (8)_356f8c6f.png,LUAD,81957e5661694ed6,770
+test/LUAD/chest-ct-scan_000118 (6)_9964c04b.png,LUAD,9c1b636d33d82d91,771
+test/LUAD/chest-ct-scan_000119 (10)_52941878.png,LUAD,98be67413c9e8669,772
+test/LUAD/chest-ct-scan_000122_77a8ec38.png,LUAD,d80b27f43893e46d,178
+test/LUAD/chest-ct-scan_000123 (4)_d22f483b.png,LUAD,dc8b23643d9bd03c,773
+test/LUAD/chest-ct-scan_000124 (9)_1043d8e5.png,LUAD,c19d2ee670698735,774
+test/LUAD/chest-ct-scan_000125 (5)_9a49e332.png,LUAD,c4cc3b237c7cd2c2,226
+test/LUAD/chest-ct-scan_000125 (8)_658a4354.png,LUAD,c55a3eb5794ac624,775
+test/LUAD/chest-ct-scan_000132 (7)_5ecae3f8.png,LUAD,d1993e66607b911d,776
+test/LUAD/chest-ct-scan_000133 (2)_4e23e43c.png,LUAD,d0d92f263dbb9430,777
+test/LUAD/chest-ct-scan_000137 (4)_48722008.png,LUAD,95856e5e21f19a96,778
+test/LUAD/chest-ct-scan_000146 (6)_ba72a053.png,LUAD,899f76b1694e3161,779
+test/LUAD/chest-ct-scan_000147_001e0ff4.png,LUAD,c0c02f1bb0f4cfcb,780
+test/LUAD/chest-ct-scan_000148 (6)_2f0c673c.png,LUAD,d4c82b33347ccbc3,781
+test/LUAD/chest-ct-scan_000148_8ee7728a.png,LUAD,85f06a0f39b896e3,782
+test/LUAD/chest-ct-scan_000149 (2)_96bdd827.png,LUAD,81e17e5e21399ec5,783
+test/LUAD/chest-ct-scan_000149 (7)_66eb269c.png,LUAD,c1d937666d399264,784
+test/LUAD/chest-ct-scan_000153 (5)_0b398b45.png,LUAD,d1e16e5e313b9161,785
+test/LUAD/chest-ct-scan_000155_891a5605.png,LUAD,c6e43b4bc4b493ca,786
+test/LUAD/chest-ct-scan_000158 (2)_a23695d4.png,LUAD,91276e68799b8764,313
+test/LUAD/chest-ct-scan_000158_95d9b138.png,LUAD,d0b92f44719b986d,787
+test/LUAD/chest-ct-scan_ad15_c304c40a.png,LUAD,c17e06e17997847c,788
+test/LUAD/chest-ct-scan_ad20_00936606.png,LUAD,990746f83a897997,789
+test/LUAD/chest-ct-scan_ad9_d0b86378.png,LUAD,d97346ec7b1384a8,790
+test/LUSC/chest-ct-scan_000004 (7)_aa3774dc.png,LUSC,9832674d3ad63993,342
+test/LUSC/chest-ct-scan_000007 (4)_b163b211.png,LUSC,9952672d3b943c93,791
+test/LUSC/chest-ct-scan_000008 (3)_7573b511.png,LUSC,d93f66c239495127,792
+test/LUSC/chest-ct-scan_000015 (5)_dcfb43f0.png,LUSC,d8da67a5385295a9,793
+test/LUSC/chest-ct-scan_000028 (4)_67d43091.png,LUSC,9d5a62af2fc43033,794
+test/LUSC/chest-ct-scan_000028 (5)_a438c26c.png,LUSC,987a278578da872b,352
+test/LUSC/chest-ct-scan_000032_55f2263d.png,LUSC,d1632a3c6fc13c93,795
+test/LUSC/chest-ct-scan_000046 (6)_ef0bbad3.png,LUSC,c56a3a95b8da8665,796
+test/LUSC/chest-ct-scan_000048 (7)_20d062da.png,LUSC,9832674d3e963993,342
+test/LUSC/chest-ct-scan_000056 (5)_0e8fed4b.png,LUSC,9932676d38d2319b,342
+test/LUSC/chest-ct-scan_000056 (7)_1b471e72.png,LUSC,9932676d38d2319b,342
+test/LUSC/chest-ct-scan_000057 (7)_cf25b783.png,LUSC,987a6785394e7439,797
+test/LUSC/chest-ct-scan_000062 (7)_ef3e076e.png,LUSC,987467cd38de2139,798
+test/LUSC/chest-ct-scan_000068 (4)_da53fd15.png,LUSC,987c67a339ccb033,799
+test/LUSC/chest-ct-scan_000074 (5)_bb524dc5.png,LUSC,99b867653d863079,800
+test/LUSC/chest-ct-scan_000078 (5)_b9c4b3e7.png,LUSC,989e47693ba62c33,801
+test/LUSC/chest-ct-scan_000078_014b714c.png,LUSC,894e76b13987c66a,802
+test/LUSC/chest-ct-scan_000081 (3)_b0f22225.png,LUSC,993f66f0698125e6,803
+test/LUSC/chest-ct-scan_000083 (2)_585fd770.png,LUSC,dc0a23f47c1b90bd,804
+test/LUSC/chest-ct-scan_000089 (4)_7129e6db.png,LUSC,9d5862a73dc5303b,805
+test/LUSC/chest-ct-scan_000096 (2)_ad96d753.png,LUSC,dc4e27f17846843b,806
+test/LUSC/chest-ct-scan_000104 (2)_1990d232.png,LUSC,d1122eed6f9438c3,807
+test/LUSC/chest-ct-scan_000105 (7)_c23df0d3.png,LUSC,895a67a5395e14b9,808
+test/LUSC/chest-ct-scan_000106 (6)_6b12e71e.png,LUSC,d86a27953b87a478,809
+test/LUSC/chest-ct-scan_000111_ac168b59.png,LUSC,981a676d3a963c53,175
+test/LUSC/chest-ct-scan_000112_12d1e381.png,LUSC,dc0f23fd2cc2911b,810
+test/LUSC/chest-ct-scan_000114 (4)_fa445d62.png,LUSC,c46a43bc3cd3c66c,811
+test/LUSC/chest-ct-scan_000117 (5)_c7e92033.png,LUSC,81ad7f56703887c3,812
+test/LUSC/chest-ct-scan_000118 (3)_a3d91135.png,LUSC,d4e86b873c0e6179,813
+test/LUSC/chest-ct-scan_000119_4ad5d235.png,LUSC,981267ed3e92f883,814
+test/LUSC/chest-ct-scan_000121 (2)_0afc8f9e.png,LUSC,981a67ed789630cb,815
+test/LUSC/chest-ct-scan_000121_53964afc.png,LUSC,81cd7e163969c6c5,816
+test/LUSC/chest-ct-scan_000121_c18e65c6.png,LUSC,cd4a33b978c6c41b,817
+test/LUSC/chest-ct-scan_000122_d6eb1510.png,LUSC,91916e6f69389635,818
+test/LUSC/chest-ct-scan_000130 (4)_e9ef9bc7.png,LUSC,d8e86746389b6c2d,819
+test/LUSC/chest-ct-scan_000131 (6)_24a0f436.png,LUSC,909e63693db6446d,820
+test/LUSC/chest-ct-scan_000148 (3)_95de1191.png,LUSC,89fc564369d62c3c,821
+test/LUSC/chest-ct-scan_000159 (5)_3cbc8a5a.png,LUSC,d4cd6b137c7c06a4,445
+test/LUSC/chest-ct-scan_sq1_69de3359.png,LUSC,99986667619e8f31,822
+test/Normal/chest-ct-scan_11 (2) - Copy_4e4d502a.png,Normal,9b12656d6e963871,497
+test/Normal/chest-ct-scan_11 - Copy (3)_c459f915.png,Normal,9b12656d6e963871,497
+test/Normal/chest-ct-scan_12 - Copy (2) - Copy_d113ad28.png,Normal,9b13646d77963a21,823
+test/Normal/chest-ct-scan_18 (2) - Copy_313a0524.png,Normal,9a1245ed6f963839,497
+test/Normal/chest-ct-scan_18 - Copy (2) - Copy_154faa21.png,Normal,9a1245ed6f963839,497
+test/Normal/chest-ct-scan_18 - Copy (3)_1d48303e.png,Normal,9a1245ed6f963839,497
+test/Normal/chest-ct-scan_18 - Copy - Copy_0fe57846.png,Normal,9a1245ed6f963839,497
+test/Normal/chest-ct-scan_21_db7ad990.png,Normal,9b1344ed6e963871,497
+test/Normal/chest-ct-scan_6 (2) - Copy_6622a66d.png,Normal,91936e6c31999376,824
+test/Normal/chest-ct-scan_n8 (2) - Copy_e55e174d.png,Normal,91936e6c31999376,824
+test/Normal/chest-ct-scan_normal - Copy_1a13e6d8.png,Normal,9921663e5ad079e3,825
+test/Normal/iq-othnccd_Normal case (105)_4b2be206.png,Normal,d4c22b6f2434cfc3,522
+test/Normal/iq-othnccd_Normal case (130)_85880d1d.png,Normal,81377ee8294dd692,527
+test/Normal/iq-othnccd_Normal case (134)_624f4ca3.png,Normal,d05b2fa474d19a96,826
+test/Normal/iq-othnccd_Normal case (148)_5d4167b7.png,Normal,c4672bb034dacb8b,530
+test/Normal/iq-othnccd_Normal case (149)_c77a5b30.png,Normal,c4672bb034dacb8b,530
+test/Normal/iq-othnccd_Normal case (161)_b743b2c7.png,Normal,94165afa716dc296,533
+test/Normal/iq-othnccd_Normal case (163)_102411dd.png,Normal,d4161afa296dc696,533
+test/Normal/iq-othnccd_Normal case (177)_13f1350f.png,Normal,813e7ee0a18f9e34,719
+test/Normal/iq-othnccd_Normal case (181)_0a1e7e0b.png,Normal,813f7ee021979696,540
+test/Normal/iq-othnccd_Normal case (187)_28a09e26.png,Normal,919b6e6c613293e5,542
+test/Normal/iq-othnccd_Normal case (194)_8e4efe1c.png,Normal,911a7ee521789787,827
+test/Normal/iq-othnccd_Normal case (21)_a405c159.png,Normal,91666ee17196c798,531
+test/Normal/iq-othnccd_Normal case (212)_75be4715.png,Normal,d43f2bf0344b82cd,549
+test/Normal/iq-othnccd_Normal case (22)_0e91eade.png,Normal,91666ee17196c798,531
+test/Normal/iq-othnccd_Normal case (220)_9d7b96f6.png,Normal,d91b22e46d3b9474,551
+test/Normal/iq-othnccd_Normal case (223)_1167b66f.png,Normal,d44a2ba57d1ac6cc,828
+test/Normal/iq-othnccd_Normal case (229)_dff99a2c.png,Normal,d4520bad7d7884f1,552
+test/Normal/iq-othnccd_Normal case (23)_271fc621.png,Normal,91666ee1719ec698,531
+test/Normal/iq-othnccd_Normal case (230)_cdf42edc.png,Normal,915366ef6c1895b1,829
+test/Normal/iq-othnccd_Normal case (25)_7ce4c4c2.png,Normal,d4c02baf757c9c30,830
+test/Normal/iq-othnccd_Normal case (257)_e3773b19.png,Normal,91334eee300997d7,556
+test/Normal/iq-othnccd_Normal case (258)_1089fe54.png,Normal,91334eee300997d7,556
+test/Normal/iq-othnccd_Normal case (259)_952be1be.png,Normal,91334eee290997d6,556
+test/Normal/iq-othnccd_Normal case (260)_ab476a3d.png,Normal,91334eee380997d6,556
+test/Normal/iq-othnccd_Normal case (267)_2299ae4f.png,Normal,90334eee292dd6d4,556
+test/Normal/iq-othnccd_Normal case (281)_3e7fc3ac.png,Normal,91376e50fd8d83d0,562
+test/Normal/iq-othnccd_Normal case (282)_18631d69.png,Normal,d1232e58fdad82d1,567
+test/Normal/iq-othnccd_Normal case (287)_ad0e70f4.png,Normal,d1350a7b7d2cc2d1,563
+test/Normal/iq-othnccd_Normal case (288)_73756a69.png,Normal,d1910a7f7d2cc2d1,563
+test/Normal/iq-othnccd_Normal case (299)_59d4f76f.png,Normal,911566fa396cc5b1,569
+test/Normal/iq-othnccd_Normal case (300)_fa7126f4.png,Normal,911566fa396cc5b1,569
+test/Normal/iq-othnccd_Normal case (32)_a1c598e7.png,Normal,d4d06b8f357c4c64,572
+test/Normal/iq-othnccd_Normal case (320)_f416c8cd.png,Normal,81117ee67939d784,573
+test/Normal/iq-othnccd_Normal case (333)_473378b2.png,Normal,91332eec91cb463d,578
+test/Normal/iq-othnccd_Normal case (334)_440f758a.png,Normal,91332eec91cb463d,578
+test/Normal/iq-othnccd_Normal case (337)_69fdc2cf.png,Normal,946b2be5f0924769,580
+test/Normal/iq-othnccd_Normal case (338)_9cc0de2d.png,Normal,d46a2be5f1924669,580
+test/Normal/iq-othnccd_Normal case (348)_09874441.png,Normal,994756f86885e19e,586
+test/Normal/iq-othnccd_Normal case (350)_d1441675.png,Normal,896716f96885915f,584
+test/Normal/iq-othnccd_Normal case (378)_f79ef940.png,Normal,811e7ef961668693,589
+test/Normal/iq-othnccd_Normal case (384)_2f140350.png,Normal,811e3ef96166c693,589
+test/Normal/iq-othnccd_Normal case (387)_9733c89e.png,Normal,80774eb0b9d3c6cc,831
+test/Normal/iq-othnccd_Normal case (392)_8878d7b1.png,Normal,c0270ff43c92c6cf,592
+test/Normal/iq-othnccd_Normal case (393)_4e932355.png,Normal,c0274ff43c92c6cb,592
+test/Normal/iq-othnccd_Normal case (397)_d3ceefb1.png,Normal,c1734fa53d12c2cb,593
+test/Normal/iq-othnccd_Normal case (403)_81c7ea9c.png,Normal,95176aeaa125ce96,597
+test/Normal/iq-othnccd_Normal case (404)_dcea9537.png,Normal,95176aeaa125ce96,597
+test/Normal/iq-othnccd_Normal case (42)_7434e453.png,Normal,81371ef0698f969c,595
+test/Normal/iq-othnccd_Normal case (43)_9e429880.png,Normal,81271ef0618f969f,595
+test/Normal/iq-othnccd_Normal case (46)_a98af58f.png,Normal,91275efa69098796,598
+test/Normal/iq-othnccd_Normal case (47)_28b33af3.png,Normal,81275efa6909c796,598
+test/Normal/iq-othnccd_Normal case (51)_564272b8.png,Normal,c13e1ae16d86927b,599
+test/Normal/iq-othnccd_Normal case (58)_77bb6bba.png,Normal,81367ee161c7963a,599
+test/Normal/iq-othnccd_Normal case (68)_d2b829db.png,Normal,81135ee8212ddfd3,607
+test/Normal/iq-othnccd_Normal case (69)_aa3877af.png,Normal,81135ee8212ddfd3,607
+test/Normal/iq-othnccd_Normal case (76)_7bc5868c.png,Normal,80367ee86986d6b5,722
+test/Normal/iq-othnccd_Normal case (77)_7ff84fe4.png,Normal,813f7ee06904c6b7,832
+test/Normal/iq-othnccd_Normal case (80)_6d248ff2.png,Normal,811f7ee0694dc5b1,833
+test/Normal/iq-othnccd_Normal case (81)_e9b40bf5.png,Normal,d14b0eb5691686eb,612
+test/Normal/iq-othnccd_Normal case (92)_55b342ca.png,Normal,81365ef9690c86f5,614
+test/Normal/iq-othnccd_Normal case (98)_7167a102.png,Normal,d4902b6f3434cfc3,522

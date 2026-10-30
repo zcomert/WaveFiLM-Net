@@ -1,0 +1,61 @@
+# Class names and the mapping from image folder names to classes, per collection.
+# Image paths in folds/*/fold*.json are relative to <data_root>/<collection>/ and their parent folder is the key below.
+collections:
+  chest-ct-scan:
+    classes:
+    - LUAD
+    - LCLC
+    - LUSC
+    - Normal
+    class_folder_map:
+      adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib: LUAD
+      adenocarcinoma: LUAD
+      large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa: LCLC
+      large.cell.carcinoma: LCLC
+      squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa: LUSC
+      squamous.cell.carcinoma: LUSC
+      normal: Normal
+  iq-othnccd:
+    classes:
+    - Benign
+    - Malignant
+    - Normal
+    class_folder_map:
+      Benign cases: Benign
+      Malignant cases: Malignant
+      Normal cases: Normal
+  kaggle-ct:
+    classes:
+    - LUAD
+    - LUSC
+    - Normal
+    class_folder_map:
+      adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib: LUAD
+      adenocarcinoma: LUAD
+      squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa: LUSC
+      squamous.cell.carcinoma: LUSC
+      normal: Normal
+  lung-cancer:
+    classes:
+    - LUAD
+    - LCLC
+    - LUSC
+    - Benign
+    - Normal
+    class_folder_map:
+      adenocarcinoma: LUAD
+      large cell carcinoma: LCLC
+      squamous cell carcinoma: LUSC
+      Benign cases: Benign
+      Normal cases: Normal
+  harmonized-dataset:
+    classes:
+    - LCLC
+    - LUAD
+    - LUSC
+    - Normal
+    class_folder_map:
+      LCLC: LCLC
+      LUAD: LUAD
+      LUSC: LUSC
+      Normal: Normal

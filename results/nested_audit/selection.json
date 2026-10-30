@@ -1,0 +1,4463 @@
+{
+ "outer1": {
+  "stages": [
+   {
+    "stage": "backbone",
+    "selected": "LP_densenet-169",
+    "candidates": [
+     {
+      "id": "LP_vgg-16",
+      "backbone": "vgg-16",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6704169623383018,
+      "seed_scores": [
+       0.6806479430218391,
+       0.6699863737798248,
+       0.6606165702132414
+      ],
+      "trainable_params": 2052,
+      "configuration": "lp",
+      "run_ids": [
+       "8a1026f0c5c7d00bd9f352a5",
+       "5a2ae918bb840e0e464bca76",
+       "eb5c882728c8d1de3e9c55ec",
+       "53a7e29842939b3c5e55d665",
+       "3d77a225aa563e1fce741bed",
+       "70b902db55084c7c11c0eea2",
+       "34968904dfc7e50883db6e59",
+       "4ecb4fdfc005dfde0fb8af8f",
+       "3fda46ace1bb9095583abd51"
+      ]
+     },
+     {
+      "id": "LP_vgg-19",
+      "backbone": "vgg-19",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6224020504438661,
+      "seed_scores": [
+       0.6522850959334278,
+       0.5998160535314594,
+       0.615105001866711
+      ],
+      "trainable_params": 2052,
+      "configuration": "lp",
+      "run_ids": [
+       "31771ef5f91c9622185acb6d",
+       "d7330bc426940ec3c2e5108f",
+       "07077fe81029413eaf8a36a0",
+       "951d44ca97adbb9608e17274",
+       "21a2757f9fe46bd0bc9a7383",
+       "9e7f333d680dc6249e4a0e3b",
+       "d3a7209547a8014c5ef61895",
+       "fa569fbc8f306af4f6429f04",
+       "c2201ebcb30a68af07128ec3"
+      ]
+     },
+     {
+      "id": "LP_resnet-101",
+      "backbone": "resnet-101",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6952246741026292,
+      "seed_scores": [
+       0.7228212653171022,
+       0.7118743987695849,
+       0.6509783582212006
+      ],
+      "trainable_params": 8196,
+      "configuration": "lp",
+      "run_ids": [
+       "98f576c85bd363d18a0dfef1",
+       "baddc8761052cf90e025c702",
+       "4b45c528906cf9fa1db1d61a",
+       "b52a6e47e2e50659b5fa89c0",
+       "296a47bfd77f84364f8dba35",
+       "efcefb1becfbe688b15c344d",
+       "546b5d0f919e66b2609f1573",
+       "84b4a676de304fb4f2f064fc",
+       "a0c9a28cb220a671005822e5"
+      ]
+     },
+     {
+      "id": "LP_densenet-169",
+      "backbone": "densenet-169",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7578570856460062,
+      "seed_scores": [
+       0.7514386986956834,
+       0.7652018956172693,
+       0.7569306626250658
+      ],
+      "trainable_params": 6660,
+      "configuration": "lp",
+      "run_ids": [
+       "d3fbfe745f2c23bdd62094f4",
+       "edaaba94b41772c786106a02",
+       "5c9fea3d622c179845a3dcfd",
+       "43f8744e1aa3e464e3004f63",
+       "0c4993419399113712860da3",
+       "0dbc186bf224167981f5ae53",
+       "810f1c46b10399ee7c95fcde",
+       "b002e19478c733285457cbde",
+       "752b22126a652c66bf17232e"
+      ]
+     },
+     {
+      "id": "LP_densenet-201",
+      "backbone": "densenet-201",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7367415727038261,
+      "seed_scores": [
+       0.7424274010024251,
+       0.7265815778114293,
+       0.741215739297624
+      ],
+      "trainable_params": 7684,
+      "configuration": "lp",
+      "run_ids": [
+       "2ebd61c34d3113b82e0e4117",
+       "7003d932de60a72bcdc45389",
+       "5738f438ba18ec116047afc2",
+       "fda4dac21f47f04c8620df84",
+       "49a0350bca7ea7d8823c5718",
+       "f8cf03dfd84e07a4c420c65d",
+       "f0240da14d123c059ff87148",
+       "dd4add683750c01ae04c2d7e",
+       "94b7f52da0d638628504639c"
+      ]
+     },
+     {
+      "id": "LP_mobilenet",
+      "backbone": "mobilenet",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6903932251499656,
+      "seed_scores": [
+       0.7128170143459855,
+       0.7051470751470751,
+       0.653215585956836
+      ],
+      "trainable_params": 5124,
+      "configuration": "lp",
+      "run_ids": [
+       "de76a3662bf1b9f63c481602",
+       "3ab5170b16739ee6c278bf30",
+       "6f7108156e5db16a726d817f",
+       "fdcf80f3b5a48bfe0afa8908",
+       "78eaa5ac36b0cc5fa30224ab",
+       "c54a37ae47dc74c074b4e15d",
+       "539e743893bdea2930fd0009",
+       "77311df9c196597ef01e2896",
+       "8fbd87231c9cb16fb80784ea"
+      ]
+     },
+     {
+      "id": "LP_inception-v3",
+      "backbone": "inception-v3",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6915523263173027,
+      "seed_scores": [
+       0.7073744366742061,
+       0.6805970245050995,
+       0.6866855177726021
+      ],
+      "trainable_params": 8196,
+      "configuration": "lp",
+      "run_ids": [
+       "aa524455b6a6b8c71c35e8e8",
+       "d552539b0c46d80cadbe0d48",
+       "0ad0f4d48406ef69c93ea99e",
+       "1ed90d8b18c06b2c1a812694",
+       "0c07433666f5d175bcc1162b",
+       "90fc8a793414e1c7ace7d55a",
+       "5dfcfbd03321b1f07fa54c5e",
+       "41b53d3ad23ca15dfbd00fab",
+       "89e256df9294eabb5319110c"
+      ]
+     },
+     {
+      "id": "LP_efficient-b7",
+      "backbone": "efficient-b7",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7258673443766664,
+      "seed_scores": [
+       0.7319620168244072,
+       0.7352851226768509,
+       0.7103548936287415
+      ],
+      "trainable_params": 10244,
+      "configuration": "lp",
+      "run_ids": [
+       "69ae2666c48dabbc1cd7bc3b",
+       "5c0e08ea61ed23c6b6d710a0",
+       "36792fdd0a0c6f56a69f3903",
+       "4a34eac25b1541b75a12778c",
+       "52ec71f1b264a82360b1d6c8",
+       "6907ec1da854f7e760c93ecf",
+       "692aa4bc0d24823233540922",
+       "f44c8790f83a26b19c348686",
+       "11a43fca99dd5ebbd2fd4640"
+      ]
+     },
+     {
+      "id": "LP_convnext-small",
+      "backbone": "convnext-small",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6502107834420018,
+      "seed_scores": [
+       0.6683968036892187,
+       0.628590325719185,
+       0.6536452209176018
+      ],
+      "trainable_params": 3076,
+      "configuration": "lp",
+      "run_ids": [
+       "3bd91125bfbd976b8f3d9a27",
+       "fc56a82fd492f5c99a818ee3",
+       "a37fa3a403f9df82cb7bae16",
+       "a0d05609b6cd0169c0094127",
+       "147c1785a2fee6bde937d3f8",
+       "be9ab8d3399a56267e6d8694",
+       "65ce6fe36fded426bfde4c0c",
+       "93e01ee3eb8830c8d3414d3c",
+       "7007c5ef67a1c8ca3214218c"
+      ]
+     },
+     {
+      "id": "LP_convnext-base",
+      "backbone": "convnext-base",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6681959609198657,
+      "seed_scores": [
+       0.6427407427995517,
+       0.6881617901444865,
+       0.6736853498155587
+      ],
+      "trainable_params": 4100,
+      "configuration": "lp",
+      "run_ids": [
+       "f07a6e021bb7685c536b39b9",
+       "7c7d3a63c5aa36c5abc505a2",
+       "d0042b3a8f80693c76049547",
+       "a13080bb6a663cc9a9c67d14",
+       "54773d56f903e05a6b1a4851",
+       "11e52b644ea7e01889f999dc",
+       "0ebd7499f285a9e041bfdcae",
+       "b25f5ae3d41fe6b52a713558",
+       "97275c6ca39b8faa5ffed3ac"
+      ]
+     },
+     {
+      "id": "LP_convnext-large",
+      "backbone": "convnext-large",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7127017079737478,
+      "seed_scores": [
+       0.6903198595496997,
+       0.726484516822662,
+       0.7213007475488817
+      ],
+      "trainable_params": 6148,
+      "configuration": "lp",
+      "run_ids": [
+       "46e7a553b26a838a220350f0",
+       "3ed50db8bc00aa27693a1844",
+       "208213bc9e9247e20160e0fd",
+       "e2846f216d76c6df9342b6c8",
+       "89008e3d8e201d8fab93726d",
+       "4f7693f514e0dc607a341ac5",
+       "ed9b96428d5ead6577842ff4",
+       "fde72b6ef77d399d702bc5a9",
+       "44c11c3cb023e01da23cd196"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "prior",
+    "selected": "retain_reference",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7578570856460062,
+      "seed_scores": [
+       0.7514386986956834,
+       0.7652018956172693,
+       0.7569306626250658
+      ],
+      "trainable_params": 6660,
+      "configuration": "lp",
+      "run_ids": [
+       "d3fbfe745f2c23bdd62094f4",
+       "edaaba94b41772c786106a02",
+       "5c9fea3d622c179845a3dcfd",
+       "43f8744e1aa3e464e3004f63",
+       "0c4993419399113712860da3",
+       "0dbc186bf224167981f5ae53",
+       "810f1c46b10399ee7c95fcde",
+       "b002e19478c733285457cbde",
+       "752b22126a652c66bf17232e"
+      ]
+     },
+     {
+      "id": "binary_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "binary"
+      },
+      "mean_inner_macro_f1": 0.7330718729759905,
+      "seed_scores": [
+       0.7178833153412628,
+       0.7472540140426698,
+       0.7340782895440392
+      ],
+      "trainable_params": 6660,
+      "configuration": "binary_prior",
+      "run_ids": [
+       "b6cc0290a7a7ced84969ab25",
+       "7226207e6b7319a851e19b20",
+       "72fc1bc24b4efed0a404207c",
+       "8b157e25a81035f48c6ca9af",
+       "d13cae5f756b9ab56cb5880e",
+       "7eef65e969be7e5095eadc18",
+       "679fa3dbbfa41216a4013500",
+       "55bf0de3e68a5b8f8c18dff8",
+       "d9e1d58b277cbb15deb66f0a"
+      ]
+     },
+     {
+      "id": "soft_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "soft"
+      },
+      "mean_inner_macro_f1": 0.7256930001362059,
+      "seed_scores": [
+       0.7335615896331402,
+       0.7092289216783665,
+       0.734288489097111
+      ],
+      "trainable_params": 6660,
+      "configuration": "soft_prior",
+      "run_ids": [
+       "c951ab8f31711f65f6bebfa5",
+       "1f0cade4610d4fd70666f35f",
+       "e7d1d23884492ab03b70cc64",
+       "26823a0b1fbced77af33bd76",
+       "06b383417991f7cc91c42331",
+       "6b2360f6d60826224e2b215c",
+       "ea6024591effc8fa485e5295",
+       "e4dd0883a142c670d17bd2fe",
+       "ab1bcf25da9af1e8d3dd8662"
+      ]
+     },
+     {
+      "id": "residual_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "residual"
+      },
+      "mean_inner_macro_f1": 0.7506812546364552,
+      "seed_scores": [
+       0.74386417864754,
+       0.7578429644472893,
+       0.7503366208145364
+      ],
+      "trainable_params": 6661,
+      "configuration": "hsp",
+      "run_ids": [
+       "2b370efc88e9c53fb0275630",
+       "5080f6b74891d21583ab8422",
+       "c1e99d954763e558b0a3f014",
+       "e7bbbe78478340b67da7685f",
+       "e9e4bd798415be3d9c3ad00b",
+       "378445598e25d177c96177e0",
+       "b322d4443531c918b8332692",
+       "184c34f266bfae10ad3f3166",
+       "8819f36df37a6a5bcc6d6b32"
+      ]
+     },
+     {
+      "id": "prior_film",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film"
+      },
+      "mean_inner_macro_f1": 0.7519032384129289,
+      "seed_scores": [
+       0.7448157494557825,
+       0.7542429672167021,
+       0.7566509985663024
+      ],
+      "trainable_params": 116548,
+      "configuration": "prior_film",
+      "run_ids": [
+       "d2e65c0a4705714ea9a07e1f",
+       "61f0bf3c406c74bdf463ba6f",
+       "300f2fb147bc2ca478f902cd",
+       "f7f6195a6c3f973513f025c6",
+       "dc5abdd74870a321f3b56065",
+       "fdecc39af66225c1c1fb4ed0",
+       "3528115f5a3822bba90a8985",
+       "4aa986bb4cb19ef37ab78fd5",
+       "a34f3def6aa55d7fd2c50621"
+      ]
+     },
+     {
+      "id": "blob_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "blob_residual"
+      },
+      "mean_inner_macro_f1": 0.7536598185166393,
+      "seed_scores": [
+       0.7506135586376517,
+       0.7661451349861205,
+       0.7442207619261461
+      ],
+      "trainable_params": 6661,
+      "configuration": "blob_prior",
+      "run_ids": [
+       "f56a241d08c2b9b7552967a7",
+       "cdc022570319a43a8ce57ed8",
+       "13fa04cd3c80693d7aab1777",
+       "0692458b82f470879a6a474f",
+       "b76455facfeaf727377e384a",
+       "ec402d03fd6d7ff00802e5d4",
+       "b68d09682d316f89bf6e0db2",
+       "98a13d8a471354c2126fa56f",
+       "0d586139cf0462183d036080"
+      ]
+     },
+     {
+      "id": "ridge_blob_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual"
+      },
+      "mean_inner_macro_f1": 0.7532603565650747,
+      "seed_scores": [
+       0.7494383287449569,
+       0.761374799822959,
+       0.7489679411273081
+      ],
+      "trainable_params": 6662,
+      "configuration": "ridge_blob_prior",
+      "run_ids": [
+       "237e6c55c80cd4b24ca04d0e",
+       "39dc5ef22a165bce373b3809",
+       "cc827be526536c14fde341ad",
+       "67b0628142430a582cfc9381",
+       "2a5978f9129cb70a3386edb5",
+       "235a12b3a9778fd210039028",
+       "ad16ff57f3e337d1f0c8f5a9",
+       "53f5297108506328dd35539e",
+       "171ee4283efb17e265e79aa9"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "subband",
+    "selected": "learned_haar",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7578570856460062,
+      "seed_scores": [
+       0.7514386986956834,
+       0.7652018956172693,
+       0.7569306626250658
+      ],
+      "trainable_params": 6660,
+      "configuration": "lp",
+      "run_ids": [
+       "d3fbfe745f2c23bdd62094f4",
+       "edaaba94b41772c786106a02",
+       "5c9fea3d622c179845a3dcfd",
+       "43f8744e1aa3e464e3004f63",
+       "0c4993419399113712860da3",
+       "0dbc186bf224167981f5ae53",
+       "810f1c46b10399ee7c95fcde",
+       "b002e19478c733285457cbde",
+       "752b22126a652c66bf17232e"
+      ]
+     },
+     {
+      "id": "pooling_bands",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "pooling_bands"
+      },
+      "mean_inner_macro_f1": 0.7586778769172623,
+      "seed_scores": [
+       0.7537331932812444,
+       0.7520344319383365,
+       0.7702660055322055
+      ],
+      "trainable_params": 6660,
+      "configuration": "subband=pooling_bands",
+      "run_ids": [
+       "8d06768f93c9dc5edb4a5820",
+       "847ee0e6a7eeb0fa9b7c8b01",
+       "49b40458ed683123934c6fe3",
+       "cb2cb4607d349e18282234fa",
+       "ea69961dad00651cdd81db55",
+       "92921a57aaf705110a8d1643",
+       "0de5f2b144090f1eb73b2af9",
+       "523646dd101ecb7c98d0fa22",
+       "f3327986948e2c01a1f1b5fa"
+      ]
+     },
+     {
+      "id": "fixed_haar",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "fixed_haar"
+      },
+      "mean_inner_macro_f1": 0.7560809540457193,
+      "seed_scores": [
+       0.7493134465682063,
+       0.7591247317376615,
+       0.75980468383129
+      ],
+      "trainable_params": 6660,
+      "configuration": "subband=fixed_haar",
+      "run_ids": [
+       "c554ae94483e50aefce9afae",
+       "bfd5e86c6f2685d053775d72",
+       "f8b025eb3e2e93569b154c54",
+       "2bc51d0448a2773ffbea08a3",
+       "3f6af69555e5fdbf851bfa00",
+       "1fabfa70a6d942e9c070afd4",
+       "b2402080648ff03e59097cb3",
+       "abb755aeff593d0bcb1aeea2",
+       "5eb74f51620d54dd4502232f"
+      ]
+     },
+     {
+      "id": "learned_haar",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr"
+      },
+      "mean_inner_macro_f1": 0.8020510515117657,
+      "seed_scores": [
+       0.810390314278984,
+       0.7985977158676094,
+       0.7971651243887037
+      ],
+      "trainable_params": 5564420,
+      "configuration": "subband=dhsr",
+      "run_ids": [
+       "8468fb45403356532f1e55f2",
+       "cbe8362fb17c4e4e02f5cb15",
+       "70d3196f83f926e0ef1f3259",
+       "59683f93f30152123f3ca3ee",
+       "e1ccc51d4b6f0b76c29ebd84",
+       "5d00a1193cc288df7c0b2bbf",
+       "857cd135a8f905e6f879afef",
+       "65c6a6c8fedb755425d7056a",
+       "a62cf9f1e2baffbc57db031b"
+      ]
+     },
+     {
+      "id": "learned_pooling",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "learned_pooling"
+      },
+      "mean_inner_macro_f1": 0.7650453256713782,
+      "seed_scores": [
+       0.7701531287996926,
+       0.778844169246646,
+       0.7461386789677958
+      ],
+      "trainable_params": 23300,
+      "configuration": "subband=learned_pooling",
+      "run_ids": [
+       "2e128e537bbce402f3bc0b38",
+       "c54cdabb525591e4092b9cc9",
+       "ec3f97541fb542d0ccaca590",
+       "cab4fd8fe456040c7a82586a",
+       "35a06bbb143c0e2ad785c792",
+       "f015532eb6b048901c8e368e",
+       "4e112990073ae94ca7c32ee2",
+       "cf412e89d571318b1af3e3e8",
+       "43092c2b87465bcb7067c59d"
+      ]
+     },
+     {
+      "id": "no_subband",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "no_subband"
+      },
+      "mean_inner_macro_f1": 0.7606704680730325,
+      "seed_scores": [
+       0.7587867539706109,
+       0.7567862617821439,
+       0.7664383884663425
+      ],
+      "trainable_params": 5564420,
+      "configuration": "subband=no_subband",
+      "run_ids": [
+       "cfe1b6934e9a9159855bcd1c",
+       "767739e7845ab90c3afd829d",
+       "fe4be999d87fda550eefb556",
+       "63516b48d13931d8a1ca7e8f",
+       "fb771aa5a8c773fc7288b30d",
+       "7e3cfcfa2db7a7cbed5a63fd",
+       "597e55c67b304eab51f5e222",
+       "a1309e599cf02052042e6136",
+       "050a67dc0af5dd7a6e2d0137"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "fusion",
+    "selected": "spatial_film",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr"
+      },
+      "mean_inner_macro_f1": 0.8020510515117657,
+      "seed_scores": [
+       0.810390314278984,
+       0.7985977158676094,
+       0.7971651243887037
+      ],
+      "trainable_params": 5564420,
+      "configuration": "subband=dhsr",
+      "run_ids": [
+       "8468fb45403356532f1e55f2",
+       "cbe8362fb17c4e4e02f5cb15",
+       "70d3196f83f926e0ef1f3259",
+       "59683f93f30152123f3ca3ee",
+       "e1ccc51d4b6f0b76c29ebd84",
+       "5d00a1193cc288df7c0b2bbf",
+       "857cd135a8f905e6f879afef",
+       "65c6a6c8fedb755425d7056a",
+       "a62cf9f1e2baffbc57db031b"
+      ]
+     },
+     {
+      "id": "softmax_gate",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr",
+       "fusion": "softmax_gate"
+      },
+      "mean_inner_macro_f1": 0.7617586350997954,
+      "seed_scores": [
+       0.7784885015115628,
+       0.74575212734765,
+       0.7610352764401732
+      ],
+      "trainable_params": 16644996,
+      "configuration": "subband=dhsr+fusion=softmax_gate",
+      "run_ids": [
+       "be170a739e1468627ef01a40",
+       "04e0a34caaca0af1d827840b",
+       "20f105a9fab7cb112937c97d",
+       "2138ab9607455389a6e1ba24",
+       "17ea171649f01aa818f461e7",
+       "f59b89f1437e6891a80ee610",
+       "1b58a4392ffdeae94769edfa",
+       "963014cb0097afc2a16ea08c",
+       "c1c67ae80316f4e9d62f510d"
+      ]
+     },
+     {
+      "id": "sigmoid_gate",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr",
+       "fusion": "sigmoid_gate"
+      },
+      "mean_inner_macro_f1": 0.7973679687308248,
+      "seed_scores": [
+       0.80634845417818,
+       0.780343041786959,
+       0.8054124102273357
+      ],
+      "trainable_params": 16644996,
+      "configuration": "subband=dhsr+fusion=sigmoid_gate",
+      "run_ids": [
+       "09075f376f3f24f4eb525c7e",
+       "13e78b5553605102d989a2cc",
+       "2574fbb8dfed41ea88f2562e",
+       "cbfe4777a9cd24fceae308fd",
+       "1df3b0c18bed8e38deb7da01",
+       "4497e336ea0f0066e14bc7e5",
+       "ef08d788ca9519bd3e997968",
+       "00e08741d8a75180e3bb6322",
+       "b32e832979c948e1c70d88bd"
+      ]
+     },
+     {
+      "id": "scalar_gate",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr",
+       "fusion": "scalar_gate"
+      },
+      "mean_inner_macro_f1": 0.7671581151026442,
+      "seed_scores": [
+       0.7750218424834711,
+       0.765423484052175,
+       0.7610290187722866
+      ],
+      "trainable_params": 11107206,
+      "configuration": "subband=dhsr+fusion=scalar_gate",
+      "run_ids": [
+       "9bcbec0c8463d3f6697e1de2",
+       "28298147ef34b4a7ad8e6b39",
+       "71633e96adcaa49add01c754",
+       "628a98473d22f579909028fd",
+       "0a663d7ca4ae50451618ca0c",
+       "3e5fd63918c5a07b6e629388",
+       "b862244477cb261c39cf4e00",
+       "873fdd33aea27da63153760c",
+       "806dbbccf9815c7a16bdd105"
+      ]
+     },
+     {
+      "id": "spatial_two_way",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr",
+       "fusion": "two_way"
+      },
+      "mean_inner_macro_f1": 0.7996188172396383,
+      "seed_scores": [
+       0.8014883967588389,
+       0.7784137189349408,
+       0.8189543360251353
+      ],
+      "trainable_params": 5567750,
+      "configuration": "subband=dhsr+fusion=two_way",
+      "run_ids": [
+       "09408714fa6c25141b2910ad",
+       "6ddbebaa4ab32234f16aa689",
+       "b970d8c514cb44b7af9a7bf9",
+       "70720181c9391a2b466cb8a0",
+       "1f732d1ce402cb30163b44f9",
+       "41b2e20e0ef8e0a946e08571",
+       "de0b6b7f1ca903b08312a24e",
+       "ba781c7cae108518592670fb",
+       "337b44d7db65020ecf81c87a"
+      ]
+     },
+     {
+      "id": "spatial_film",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr",
+       "fusion": "sff"
+      },
+      "mean_inner_macro_f1": 0.8095055514845697,
+      "seed_scores": [
+       0.7966778648137098,
+       0.8305881206027537,
+       0.8012506690372454
+      ],
+      "trainable_params": 11105540,
+      "configuration": "wavefilm_net_without_hsp",
+      "run_ids": [
+       "8886b57f655ec32d829a2cc8",
+       "702020bfb4abb4c894d8bcd5",
+       "1acca21124c3a4c3e8526fb7",
+       "89b3337af718c4d12fbf2fd7",
+       "f94646180e46c9b4dd8640ed",
+       "20129db261fed9d8f31361b1",
+       "ad1c3ef6b85e7ef710dc0d35",
+       "ecd19fff048d97192ba73238",
+       "e4866da9c49d812a59e75e25"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "head",
+    "selected": "separate_prior_stream",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr",
+       "fusion": "sff"
+      },
+      "mean_inner_macro_f1": 0.8095055514845697,
+      "seed_scores": [
+       0.7966778648137098,
+       0.8305881206027537,
+       0.8012506690372454
+      ],
+      "trainable_params": 11105540,
+      "configuration": "wavefilm_net_without_hsp",
+      "run_ids": [
+       "8886b57f655ec32d829a2cc8",
+       "702020bfb4abb4c894d8bcd5",
+       "1acca21124c3a4c3e8526fb7",
+       "89b3337af718c4d12fbf2fd7",
+       "f94646180e46c9b4dd8640ed",
+       "20129db261fed9d8f31361b1",
+       "ad1c3ef6b85e7ef710dc0d35",
+       "ecd19fff048d97192ba73238",
+       "e4866da9c49d812a59e75e25"
+      ]
+     },
+     {
+      "id": "context_pool",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr",
+       "fusion": "sff",
+       "pooling": "context"
+      },
+      "mean_inner_macro_f1": 0.7079815300748494,
+      "seed_scores": [
+       0.7112847578606594,
+       0.6905379797593076,
+       0.7221218526045814
+      ],
+      "trainable_params": 11107205,
+      "configuration": "subband=dhsr+fusion=sff+pooling=context",
+      "run_ids": [
+       "d90ddd711825ff3d606cc336",
+       "7b3bf3fedf0e585ce53a9247",
+       "90fc31d1fe49a4b0ed696913",
+       "5d3d9e9ba73866f915abedad",
+       "418766a7bda345a905e3e76e",
+       "83f3600aca3721e2ab244473",
+       "1ed9990b917aa8080ea89352",
+       "2e6117008277ed94537d1e5d",
+       "ab8a8ef5cd603dc7242b0fe9"
+      ]
+     },
+     {
+      "id": "separate_prior_stream",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr",
+       "fusion": "sff",
+       "prior_stream": true
+      },
+      "mean_inner_macro_f1": 0.8406230782453278,
+      "seed_scores": [
+       0.8527053891764389,
+       0.8468878651368626,
+       0.8222759804226816
+      ],
+      "trainable_params": 11130153,
+      "configuration": "subband=dhsr+fusion=sff+prior_stream=True",
+      "run_ids": [
+       "79c087475164510bdfa768d1",
+       "05cdd1d57ce5a7848125fa03",
+       "2121cca1249d7273101dcd2a",
+       "7518ca7744ed4f183d40b292",
+       "40db52e94e5a35fe2904c33b",
+       "4955d19d346fc88632909ef4",
+       "13c2a4cc499f3996a01fb482",
+       "9de15d8d7275fe4cf481bff4",
+       "ee8f34d0aa7a7893445144f4"
+      ]
+     }
+    ]
+   }
+  ],
+  "selected_backbone": "densenet-169",
+  "selected_spec": {
+   "subband": "dhsr",
+   "fusion": "sff",
+   "prior_stream": true
+  }
+ },
+ "outer2": {
+  "stages": [
+   {
+    "stage": "backbone",
+    "selected": "LP_densenet-169",
+    "candidates": [
+     {
+      "id": "LP_vgg-16",
+      "backbone": "vgg-16",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6717265757863607,
+      "seed_scores": [
+       0.703034346674101,
+       0.6693929654574118,
+       0.6427524152275697
+      ],
+      "trainable_params": 2052,
+      "configuration": "lp",
+      "run_ids": [
+       "0756f38ea2099d44574eb490",
+       "14413db1496a436dafd94e11",
+       "02cb4b058afab4860668c1ff",
+       "20d9975fc9d20d07ed97c60b",
+       "a213636fcc3aedb9783e47cf",
+       "c7bc97f2b859767daabf73c1",
+       "493a8c501b1a574432f01551",
+       "8c10c99b6965639d0c0ee082",
+       "7e6835b715303027c5617211"
+      ]
+     },
+     {
+      "id": "LP_vgg-19",
+      "backbone": "vgg-19",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6384026010166942,
+      "seed_scores": [
+       0.6267255783721275,
+       0.6498693813844413,
+       0.6386128432935139
+      ],
+      "trainable_params": 2052,
+      "configuration": "lp",
+      "run_ids": [
+       "94acc099d4a51cfed7d7deaa",
+       "de37f22440ec27ddd1089dec",
+       "85bb6022110240dfc01acae9",
+       "8762f710ba899b19a026980f",
+       "98db21c078c8d700a1c9a772",
+       "c7e53b506bd2bb86128fee3c",
+       "9672bde36cf51da05ad2a362",
+       "33549703c2f72fcf41766ef5",
+       "ff87976af75c799ec41a6572"
+      ]
+     },
+     {
+      "id": "LP_resnet-101",
+      "backbone": "resnet-101",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6948255635561841,
+      "seed_scores": [
+       0.7030022929097646,
+       0.6914933160020871,
+       0.6899810817567003
+      ],
+      "trainable_params": 8196,
+      "configuration": "lp",
+      "run_ids": [
+       "9ff76e4c7c55af24c12bc0e9",
+       "437a7b9cd3f03925b6acd601",
+       "98ea6ff7e81d4fee26713094",
+       "c3476a8a173fbe1f0ca98390",
+       "1f2c53b1baebaf16a7e59270",
+       "120fec0f4d0fb12f444de655",
+       "9185e0be5120525c8a853487",
+       "648bb819d3149dc1dbd9b471",
+       "3f53f086549aaa0d1dc1b880"
+      ]
+     },
+     {
+      "id": "LP_densenet-169",
+      "backbone": "densenet-169",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7266825378032751,
+      "seed_scores": [
+       0.7329194338779745,
+       0.7113601381237332,
+       0.7357680414081175
+      ],
+      "trainable_params": 6660,
+      "configuration": "lp",
+      "run_ids": [
+       "83dcaf43bc894236299d51d6",
+       "584a3b6918884ffe64095cdc",
+       "af62c15723a53f82e73b7353",
+       "bed9da5aac1d3969328402ce",
+       "3aa7228e7775fc25b5b1f39b",
+       "98c5fa3e26036fb53e9335dd",
+       "31d20b30f573a1825b302189",
+       "ee39bb0996f5415a232a87df",
+       "a23ac564d1ee93359afcdb9f"
+      ]
+     },
+     {
+      "id": "LP_densenet-201",
+      "backbone": "densenet-201",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7237333229277428,
+      "seed_scores": [
+       0.7223133227530817,
+       0.7020372111982995,
+       0.7468494348318471
+      ],
+      "trainable_params": 7684,
+      "configuration": "lp",
+      "run_ids": [
+       "f6f922c266ac4171f7c8f023",
+       "0cb9b1b2b36864aa1156a083",
+       "c2ca73f29664e4f61a759714",
+       "271f5d459e3b254a55835568",
+       "5bef0a327661746735d4ea5f",
+       "e625cff41762978dc5ca8621",
+       "f8e6334d602ec61a51f1a6e4",
+       "5cec222447639610fa4a8eea",
+       "cb6a1c4ad08090329263003f"
+      ]
+     },
+     {
+      "id": "LP_mobilenet",
+      "backbone": "mobilenet",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7196339509418808,
+      "seed_scores": [
+       0.728383698492967,
+       0.7127338193166892,
+       0.7177843350159858
+      ],
+      "trainable_params": 5124,
+      "configuration": "lp",
+      "run_ids": [
+       "025aade74df277701bdcb64c",
+       "e77e866bdf462b31ad17913e",
+       "3f08f1220f00165e017aec4a",
+       "265d05f4873c42deb0c8f036",
+       "3d3af5d062ba0676eedac37d",
+       "77cb29be6ff9379ca573cbc3",
+       "0f6747d79217bd0fec9f3c46",
+       "f7f943995855c26508e1d132",
+       "52b847d8e4ceb04bf18118ac"
+      ]
+     },
+     {
+      "id": "LP_inception-v3",
+      "backbone": "inception-v3",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7004504651606278,
+      "seed_scores": [
+       0.7121950517945685,
+       0.6855396117633795,
+       0.7036167319239354
+      ],
+      "trainable_params": 8196,
+      "configuration": "lp",
+      "run_ids": [
+       "84af9c8bed0238888ef6e36c",
+       "ef9c75e2e135ab0b169920d8",
+       "15639ce7d718bcf5385261fe",
+       "80d6aa4b28edda21a2767423",
+       "4ea4844c02535c8b51e0eb06",
+       "af6c7cf0456f901aa4412781",
+       "aebf5f2a9452f0dd1a029d78",
+       "de2a7f4cada0556051ed19cf",
+       "426701cd5369f8c207649d19"
+      ]
+     },
+     {
+      "id": "LP_efficient-b7",
+      "backbone": "efficient-b7",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7234765948013147,
+      "seed_scores": [
+       0.7316727174348091,
+       0.7238484202610103,
+       0.7149086467081248
+      ],
+      "trainable_params": 10244,
+      "configuration": "lp",
+      "run_ids": [
+       "dd2814c230c095c7e82e1031",
+       "d10fe2b897bed09f23b02e20",
+       "6b077d144c894ba81cf23646",
+       "a172aa0df6c31c8651250147",
+       "e5cc76c5d2f0994bbd9bd54e",
+       "0381659b011528c9aa039777",
+       "e223991602ac47d2ac487c8d",
+       "e9d75fa50f7b66d27d3f87fd",
+       "68a2dd0b83de880fae618429"
+      ]
+     },
+     {
+      "id": "LP_convnext-small",
+      "backbone": "convnext-small",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6658711764130317,
+      "seed_scores": [
+       0.6676276717633243,
+       0.675237613599039,
+       0.6547482438767319
+      ],
+      "trainable_params": 3076,
+      "configuration": "lp",
+      "run_ids": [
+       "e9182763d180e84f53450fee",
+       "e2f62e3d30a086bd072fb55f",
+       "a1edcf70e9a5484e64424c9e",
+       "714ac02495d436e9788ccd2d",
+       "6c47bb3519f46a1342f7417e",
+       "8d4eaca759a8c21d5ae7eb20",
+       "fa857d292a660a2cffdc0e9d",
+       "f8943f9f1c588f16bdb5a90d",
+       "680dc236ad056f0910dbc748"
+      ]
+     },
+     {
+      "id": "LP_convnext-base",
+      "backbone": "convnext-base",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6977212564368184,
+      "seed_scores": [
+       0.7039947454207526,
+       0.7098258273004552,
+       0.6793431965892472
+      ],
+      "trainable_params": 4100,
+      "configuration": "lp",
+      "run_ids": [
+       "bdbc1e1d90cf86aae0b703b3",
+       "ead2dfed3e5ac3fd1ab10dae",
+       "a071378860822711071454fc",
+       "eafdcdd362d3c2109867d410",
+       "0a5b549052e98619f41640ea",
+       "5f20651a9e41d66506f56ecb",
+       "2c0a1c945554b911d766ec8b",
+       "83d618c59f90b0c763b6e04c",
+       "e1698310230ad1e07dde8387"
+      ]
+     },
+     {
+      "id": "LP_convnext-large",
+      "backbone": "convnext-large",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7101028985310204,
+      "seed_scores": [
+       0.7270981174073532,
+       0.7433658288684275,
+       0.6598447493172805
+      ],
+      "trainable_params": 6148,
+      "configuration": "lp",
+      "run_ids": [
+       "a2aea6e915303e64462cce96",
+       "89e6fdab52818a79e8cd49d2",
+       "36772759c428761c668a9770",
+       "dcb693d0d37bc56dda636a5d",
+       "b69231d72dc98fcd2ebd518b",
+       "b056733f3e8983707d6d68d7",
+       "a1cd05fa74eec484651dbd93",
+       "59fab37ea398a095088eba7c",
+       "3959f94f89da6479d6d3e120"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "prior",
+    "selected": "prior_film",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7266825378032751,
+      "seed_scores": [
+       0.7329194338779745,
+       0.7113601381237332,
+       0.7357680414081175
+      ],
+      "trainable_params": 6660,
+      "configuration": "lp",
+      "run_ids": [
+       "83dcaf43bc894236299d51d6",
+       "584a3b6918884ffe64095cdc",
+       "af62c15723a53f82e73b7353",
+       "bed9da5aac1d3969328402ce",
+       "3aa7228e7775fc25b5b1f39b",
+       "98c5fa3e26036fb53e9335dd",
+       "31d20b30f573a1825b302189",
+       "ee39bb0996f5415a232a87df",
+       "a23ac564d1ee93359afcdb9f"
+      ]
+     },
+     {
+      "id": "binary_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "binary"
+      },
+      "mean_inner_macro_f1": 0.6935366183142097,
+      "seed_scores": [
+       0.6738849016002796,
+       0.7078086257091907,
+       0.6989163276331589
+      ],
+      "trainable_params": 6660,
+      "configuration": "binary_prior",
+      "run_ids": [
+       "70e1d3ffb9e3f26903c7f253",
+       "e2e370a9512e0e844ff26fe8",
+       "a890c3ac7dca6ec439c8c106",
+       "ae5ef51474b8f35e3a4ea405",
+       "9184766123ff91245c3949c2",
+       "c570996b9d28c2490b4fc04f",
+       "afa96047ef3c55fdc2e76ba1",
+       "78211383182d30376f903178",
+       "8395a586f773999081574426"
+      ]
+     },
+     {
+      "id": "soft_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "soft"
+      },
+      "mean_inner_macro_f1": 0.6828192806207194,
+      "seed_scores": [
+       0.6525222136517448,
+       0.7030960339964767,
+       0.6928395942139367
+      ],
+      "trainable_params": 6660,
+      "configuration": "soft_prior",
+      "run_ids": [
+       "cdb6b2b7bb1fe4b5494fe084",
+       "d8d9688cbdde5ac2f1537ff7",
+       "e60b8b7c617a56f4bb58b1ef",
+       "e418f0989a4fad54e5aee9b5",
+       "b76edd05667a272b09c3822b",
+       "154c356af1b07ab2d741e895",
+       "242c126e3704e60b60b5af21",
+       "c93f856974a4090c8218bf44",
+       "e08404401534603c27dda9d4"
+      ]
+     },
+     {
+      "id": "residual_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "residual"
+      },
+      "mean_inner_macro_f1": 0.7239616674755261,
+      "seed_scores": [
+       0.7348178905714717,
+       0.7052163480560776,
+       0.731850763799029
+      ],
+      "trainable_params": 6661,
+      "configuration": "hsp",
+      "run_ids": [
+       "c3339f1900cbdfa134cba50f",
+       "62541fb5a1eb7d1aa4cb531e",
+       "b89ae2a22c08dbc51bc9224a",
+       "782256ac3e9b322ce5a34b3c",
+       "c20870b632c25fe643551aa3",
+       "bb57b8316980f53f24a3bab7",
+       "76fe663143777622fb9f6f77",
+       "5c4de85b3ff0ddffd05e0c45",
+       "71475d34daa02a2fe69ae7f5"
+      ]
+     },
+     {
+      "id": "prior_film",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film"
+      },
+      "mean_inner_macro_f1": 0.7400844507022818,
+      "seed_scores": [
+       0.7445286958660456,
+       0.7343203010294675,
+       0.7414043552113321
+      ],
+      "trainable_params": 116548,
+      "configuration": "prior_film",
+      "run_ids": [
+       "29312e67f3820bc55149d2d7",
+       "3b60aaec3890d2b703eb2ea7",
+       "6e89c55037e12ab00be1fc91",
+       "2515db1e09a700b72d05e0d1",
+       "2e09e6f2422edf125aae0da5",
+       "d922212510c26bef02b25651",
+       "00f4b688e63448d2c6cb165e",
+       "d8aa9a763cfb3be0041c685b",
+       "db2d6738fedcf432988caebe"
+      ]
+     },
+     {
+      "id": "blob_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "blob_residual"
+      },
+      "mean_inner_macro_f1": 0.7307982671684252,
+      "seed_scores": [
+       0.7300310474356182,
+       0.7379261593899871,
+       0.7244375946796702
+      ],
+      "trainable_params": 6661,
+      "configuration": "blob_prior",
+      "run_ids": [
+       "5dab735a30904a880848379e",
+       "33bb53984261d2fb48cf85d7",
+       "d932ff98a432593fb52347ab",
+       "d6bef648348bbaf32837d84f",
+       "e541a5ce4e576cb56d3a64ce",
+       "44b00a080f9417be7a5eda51",
+       "aa8115ecbac642838526c1a1",
+       "24ddfc1de5f47e5cb85c56e5",
+       "f686569ef90801be0fb1a917"
+      ]
+     },
+     {
+      "id": "ridge_blob_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual"
+      },
+      "mean_inner_macro_f1": 0.725671614989345,
+      "seed_scores": [
+       0.7280549146029585,
+       0.720758764606417,
+       0.7282011657586595
+      ],
+      "trainable_params": 6662,
+      "configuration": "ridge_blob_prior",
+      "run_ids": [
+       "e64b16952b5a5a25dfc015a1",
+       "b4a7e9022490ec1e8cb66dcf",
+       "95138d505f3d73099ee5c8ac",
+       "2b3f11a4723af2ad00e170e5",
+       "e3ca91e0684d9e9f7a455ccb",
+       "26b3345c912f72da04da7aaf",
+       "f9e78279bcc10b3b31cbe07c",
+       "18f3af0bd8e3ea36e4de8510",
+       "891aa0796b9cd80eb9f937b4"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "subband",
+    "selected": "learned_haar",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film"
+      },
+      "mean_inner_macro_f1": 0.7400844507022818,
+      "seed_scores": [
+       0.7445286958660456,
+       0.7343203010294675,
+       0.7414043552113321
+      ],
+      "trainable_params": 116548,
+      "configuration": "prior_film",
+      "run_ids": [
+       "29312e67f3820bc55149d2d7",
+       "3b60aaec3890d2b703eb2ea7",
+       "6e89c55037e12ab00be1fc91",
+       "2515db1e09a700b72d05e0d1",
+       "2e09e6f2422edf125aae0da5",
+       "d922212510c26bef02b25651",
+       "00f4b688e63448d2c6cb165e",
+       "d8aa9a763cfb3be0041c685b",
+       "db2d6738fedcf432988caebe"
+      ]
+     },
+     {
+      "id": "pooling_bands",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "pooling_bands"
+      },
+      "mean_inner_macro_f1": 0.7311819146514783,
+      "seed_scores": [
+       0.7440272186762132,
+       0.7367205444809657,
+       0.712797980797256
+      ],
+      "trainable_params": 116548,
+      "configuration": "prior=film+subband=pooling_bands",
+      "run_ids": [
+       "cbabd8921760ffa53c7d898a",
+       "eb0cb6117829d8a34f603134",
+       "d990666bde5bc1eb4c2e9bbd",
+       "9a98da7e18daf8dc8627e328",
+       "f6a2e86f8b3bde792a430e61",
+       "e56d6f417e45e0dd9108c3eb",
+       "d0880df44d2032bcc78c6497",
+       "c71adf0c485ed25ab4d587bf",
+       "1be310b0651b8dd05f92cb69"
+      ]
+     },
+     {
+      "id": "fixed_haar",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "fixed_haar"
+      },
+      "mean_inner_macro_f1": 0.7411677332350437,
+      "seed_scores": [
+       0.7277351384314099,
+       0.7480956317681094,
+       0.7476724295056116
+      ],
+      "trainable_params": 116548,
+      "configuration": "prior=film+subband=fixed_haar",
+      "run_ids": [
+       "b43e31271ee2084ab01c3d94",
+       "97da8fa5cae81eca0986666d",
+       "b8a1ae8ad528fc7f87dbf879",
+       "234e3effe62987d605f106a6",
+       "ad6536242cf79e6fe1657577",
+       "4f0aa12e13cec59acab6887c",
+       "3f37811ec35e3575327becd7",
+       "8e14807111a529babbc2188e",
+       "4b8b2da4dc3edafb8dd02d4b"
+      ]
+     },
+     {
+      "id": "learned_haar",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr"
+      },
+      "mean_inner_macro_f1": 0.7646775479435018,
+      "seed_scores": [
+       0.7567299146870996,
+       0.7531187798956811,
+       0.7841839492477248
+      ],
+      "trainable_params": 5674308,
+      "configuration": "prior=film+subband=dhsr",
+      "run_ids": [
+       "ed057883a699f118b8fc3c7d",
+       "0a0047036b88f24069b2ba31",
+       "87445555ea0c0511378ab000",
+       "06c7c5a49c53266af422a7c8",
+       "5d2af42e09da031779b169e0",
+       "30f7ace5a14a656567b565b4",
+       "10baa67e975bff41855f7564",
+       "f389fd9fe37860025c1d9dbe",
+       "10fec34597f3b712dbadfcbd"
+      ]
+     },
+     {
+      "id": "learned_pooling",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "learned_pooling"
+      },
+      "mean_inner_macro_f1": 0.7312875473118372,
+      "seed_scores": [
+       0.7234343205493662,
+       0.7420979287913937,
+       0.7283303925947516
+      ],
+      "trainable_params": 133188,
+      "configuration": "prior=film+subband=learned_pooling",
+      "run_ids": [
+       "13f249dc04b015cd53e27dae",
+       "ab6a001d769ddf722e8c4606",
+       "cab3ef7dcb9b7db8b4101970",
+       "4b6fadb8926e95acf67ac4d8",
+       "532f279b738c71fcdead8956",
+       "2fbad6e3deccfc9f5570b818",
+       "408152a03e324df48115df99",
+       "c60357dbe73acfb686ea7e68",
+       "21114403939a088681956a2b"
+      ]
+     },
+     {
+      "id": "no_subband",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "no_subband"
+      },
+      "mean_inner_macro_f1": 0.7452966938756241,
+      "seed_scores": [
+       0.739753846334228,
+       0.7507774931188826,
+       0.7453587421737614
+      ],
+      "trainable_params": 5674308,
+      "configuration": "prior=film+subband=no_subband",
+      "run_ids": [
+       "96049c4907c949678cbf7a2e",
+       "8ebdce85f4973f5ebb0316ef",
+       "65a79c730d65128423cf06c0",
+       "3343a7881e6160a075b8b3f9",
+       "acc41be75d7e79fff3332178",
+       "71f98cb5ced9438ea5938bd4",
+       "6b552982762fb64ae722a4e3",
+       "006202e2547711c85861a53f",
+       "19a62a0e0b2982aff09372e6"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "fusion",
+    "selected": "spatial_film",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr"
+      },
+      "mean_inner_macro_f1": 0.7646775479435018,
+      "seed_scores": [
+       0.7567299146870996,
+       0.7531187798956811,
+       0.7841839492477248
+      ],
+      "trainable_params": 5674308,
+      "configuration": "prior=film+subband=dhsr",
+      "run_ids": [
+       "ed057883a699f118b8fc3c7d",
+       "0a0047036b88f24069b2ba31",
+       "87445555ea0c0511378ab000",
+       "06c7c5a49c53266af422a7c8",
+       "5d2af42e09da031779b169e0",
+       "30f7ace5a14a656567b565b4",
+       "10baa67e975bff41855f7564",
+       "f389fd9fe37860025c1d9dbe",
+       "10fec34597f3b712dbadfcbd"
+      ]
+     },
+     {
+      "id": "softmax_gate",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr",
+       "fusion": "softmax_gate"
+      },
+      "mean_inner_macro_f1": 0.7471368636200671,
+      "seed_scores": [
+       0.7465217458775042,
+       0.7284800498829327,
+       0.7664087950997643
+      ],
+      "trainable_params": 16754884,
+      "configuration": "prior=film+subband=dhsr+fusion=softmax_gate",
+      "run_ids": [
+       "cbc43377e8e8aa36afa9e194",
+       "e6efc50b0a70db996450ee0f",
+       "741947224c941eb90b85e2cf",
+       "dcbfa6cc705e573e9f147b20",
+       "7d0a03f06d00c98d1f8e4e7e",
+       "0d5caf1c88939a39d1847075",
+       "ffd7921c9dc542f77972f65e",
+       "90ee106a99745082ceaf21f9",
+       "87edfd471311d2f6d2646e5d"
+      ]
+     },
+     {
+      "id": "sigmoid_gate",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr",
+       "fusion": "sigmoid_gate"
+      },
+      "mean_inner_macro_f1": 0.805851863437035,
+      "seed_scores": [
+       0.8045210751075644,
+       0.7921444402018919,
+       0.8208900750016489
+      ],
+      "trainable_params": 16754884,
+      "configuration": "prior=film+subband=dhsr+fusion=sigmoid_gate",
+      "run_ids": [
+       "95fb7df243b70e11acca6111",
+       "c678702c03366439a6ae08fa",
+       "74f818d9757765d29e2d6150",
+       "07eedae7c804e4cdbb9e01bb",
+       "9bf8718b39731d0d988f1976",
+       "75785ce330fa27423218ce5a",
+       "3045950ef7d8efbe906839b7",
+       "11dfbd8cfe249c89237550aa",
+       "2a81802564d69dc86162c021"
+      ]
+     },
+     {
+      "id": "scalar_gate",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr",
+       "fusion": "scalar_gate"
+      },
+      "mean_inner_macro_f1": 0.7453424676056243,
+      "seed_scores": [
+       0.7218241237446706,
+       0.7464510800751626,
+       0.7677521989970395
+      ],
+      "trainable_params": 11217094,
+      "configuration": "prior=film+subband=dhsr+fusion=scalar_gate",
+      "run_ids": [
+       "d00e7879f2dc9552ca297cfa",
+       "d2708e7dc78d5a646b4146ca",
+       "7cf5a3f3f9ab285e79e9983e",
+       "e19ada8303683e72b6c0c52c",
+       "b4e553d8e837d620ee636e5c",
+       "eca94bc220dc3d2e71bfbb18",
+       "ccdb76b7232e28041838f855",
+       "21ff9d9131b9871f67a9c73f",
+       "4004d1f1f12601c0814a9ca4"
+      ]
+     },
+     {
+      "id": "spatial_two_way",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr",
+       "fusion": "two_way"
+      },
+      "mean_inner_macro_f1": 0.7930055363669467,
+      "seed_scores": [
+       0.7963617689702253,
+       0.7719991706334733,
+       0.8106556694971412
+      ],
+      "trainable_params": 5677638,
+      "configuration": "prior=film+subband=dhsr+fusion=two_way",
+      "run_ids": [
+       "7eed7d66ba066af2c28d578c",
+       "9ea62d9900891e92e21f0476",
+       "3528670ecefa07cb4b847de1",
+       "1d7ae40d74b14c1d9ddacef1",
+       "2f598fb73d77921c0c27db8a",
+       "46be7a0c78f0712bb3506ccf",
+       "c8afc873ff3832c18d97fb93",
+       "ff55f12eed082c14df53bde4",
+       "1df972369e3fc16f115dbf68"
+      ]
+     },
+     {
+      "id": "spatial_film",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr",
+       "fusion": "sff"
+      },
+      "mean_inner_macro_f1": 0.8123979113784481,
+      "seed_scores": [
+       0.8273855198411837,
+       0.8108635787495705,
+       0.7989446355445902
+      ],
+      "trainable_params": 11215428,
+      "configuration": "prior=film+subband=dhsr+fusion=sff",
+      "run_ids": [
+       "40816139f4e6d41711e7dcfc",
+       "7692f0864b5dff7e9ea6057b",
+       "e37cd579196fed75d9860601",
+       "0838ee80014d3a8097166f4d",
+       "603110039533a122ea6fc9d7",
+       "5e703f3504fe7caf5001e19e",
+       "e6475dc06072aec8b6289c3a",
+       "980275eaf1e6d786285fa86d",
+       "0cd6a8c2f9b8450c7db34e00"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "head",
+    "selected": "separate_prior_stream",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr",
+       "fusion": "sff"
+      },
+      "mean_inner_macro_f1": 0.8123979113784481,
+      "seed_scores": [
+       0.8273855198411837,
+       0.8108635787495705,
+       0.7989446355445902
+      ],
+      "trainable_params": 11215428,
+      "configuration": "prior=film+subband=dhsr+fusion=sff",
+      "run_ids": [
+       "40816139f4e6d41711e7dcfc",
+       "7692f0864b5dff7e9ea6057b",
+       "e37cd579196fed75d9860601",
+       "0838ee80014d3a8097166f4d",
+       "603110039533a122ea6fc9d7",
+       "5e703f3504fe7caf5001e19e",
+       "e6475dc06072aec8b6289c3a",
+       "980275eaf1e6d786285fa86d",
+       "0cd6a8c2f9b8450c7db34e00"
+      ]
+     },
+     {
+      "id": "context_pool",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr",
+       "fusion": "sff",
+       "pooling": "context"
+      },
+      "mean_inner_macro_f1": 0.7580052335399715,
+      "seed_scores": [
+       0.7376872412841212,
+       0.7520977537561498,
+       0.7842307055796431
+      ],
+      "trainable_params": 11217093,
+      "configuration": "prior=film+subband=dhsr+fusion=sff+pooling=context",
+      "run_ids": [
+       "703124a1f2e0b441f5a0ea65",
+       "451ad43b7f166a4235afb368",
+       "31591156d2d430d1830ed8e0",
+       "ec16a01bfcb0336d4e22e117",
+       "276d403f6c68050acf069114",
+       "326cd379ea15fe459ecf05fb",
+       "579d18d9522c5d9fdbd16f92",
+       "ca98c1756830cb0d9d4804b8",
+       "f2b3867af7554ba22097f31e"
+      ]
+     },
+     {
+      "id": "separate_prior_stream",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr",
+       "fusion": "sff",
+       "prior_stream": true
+      },
+      "mean_inner_macro_f1": 0.8286159747246878,
+      "seed_scores": [
+       0.8066463973484846,
+       0.8382273325269747,
+       0.8409741942986043
+      ],
+      "trainable_params": 11240041,
+      "configuration": "prior=film+subband=dhsr+fusion=sff+prior_stream=True",
+      "run_ids": [
+       "eb509518e9433ec2adbe9367",
+       "1a382e4fbe7ba6acdcaf4ac9",
+       "71040188ff0ae4df19937ac7",
+       "0af600da1d17b4081c5b2e4a",
+       "9d7c9b1e7aecc40893d0b6ce",
+       "1f2c2830265d9dbbdcd82767",
+       "862c78914fc127833be1adca",
+       "d6acb3a34cd1068f98493bc3",
+       "2c90b6642979a47c4d069dde"
+      ]
+     }
+    ]
+   }
+  ],
+  "selected_backbone": "densenet-169",
+  "selected_spec": {
+   "prior": "film",
+   "subband": "dhsr",
+   "fusion": "sff",
+   "prior_stream": true
+  }
+ },
+ "outer3": {
+  "stages": [
+   {
+    "stage": "backbone",
+    "selected": "LP_densenet-169",
+    "candidates": [
+     {
+      "id": "LP_vgg-16",
+      "backbone": "vgg-16",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7179892246919888,
+      "seed_scores": [
+       0.7051993707910229,
+       0.7290797678750285,
+       0.7196885354099151
+      ],
+      "trainable_params": 2052,
+      "configuration": "lp",
+      "run_ids": [
+       "5e6b887fcd14dc48b397d82a",
+       "13c5d9a6091d47deddc0d6e1",
+       "eb7f589a358f62156c7f21bc",
+       "9083f45359c92eac12619b67",
+       "4ecde559a1e430ea6a8a78fd",
+       "93c42d8a6529a423f7c427a5",
+       "135436d616425f37d45c71cc",
+       "b7b3b52267f5a4108d7f9b93",
+       "ea48a262a533e1d70d58c359"
+      ]
+     },
+     {
+      "id": "LP_vgg-19",
+      "backbone": "vgg-19",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6704070603962023,
+      "seed_scores": [
+       0.6583093962493116,
+       0.6815024066640063,
+       0.671409378275289
+      ],
+      "trainable_params": 2052,
+      "configuration": "lp",
+      "run_ids": [
+       "2166b5b0d0a6f508567ef242",
+       "681ecc66cd922a7a66c8f53a",
+       "0455be59b1dcaeefc29b1353",
+       "0a952464c519780a09f78a13",
+       "1871b6326167479bc6c4d952",
+       "c19930b9955e9ae9057a8b47",
+       "d65d3a787ef343b084369479",
+       "b8efc3da02c3fee5730720b8",
+       "fb0c7a601ac41ddf07f6726b"
+      ]
+     },
+     {
+      "id": "LP_resnet-101",
+      "backbone": "resnet-101",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6885093219392037,
+      "seed_scores": [
+       0.6722095487778941,
+       0.6934510222847082,
+       0.699867394755009
+      ],
+      "trainable_params": 8196,
+      "configuration": "lp",
+      "run_ids": [
+       "4dd300288057821e56dd9a33",
+       "c9b779c3ef70144ad093923c",
+       "e094d3f6c8924a9533ef3b0b",
+       "71f86278f3279912db5e1bab",
+       "fb81e65292523935ed8dbeb5",
+       "b161506ae551bda8f79e6624",
+       "7296c63068ab9c0389d87bcb",
+       "d10f44300be6ae4803a3e576",
+       "3db2e4f8c3d8fa0cd5aaa5ab"
+      ]
+     },
+     {
+      "id": "LP_densenet-169",
+      "backbone": "densenet-169",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7432930097618451,
+      "seed_scores": [
+       0.7509777489165415,
+       0.7473741243609523,
+       0.7315271560080414
+      ],
+      "trainable_params": 6660,
+      "configuration": "lp",
+      "run_ids": [
+       "c4d03d02833a0cee0d693d5f",
+       "076e9d9820b5cbd3f80bec2d",
+       "411033cbc95a0ac503c8ac39",
+       "096423452ba55ca85814a8f1",
+       "d1dc638387b1ffc993121049",
+       "e63e59a0385477666d157ea1",
+       "a4887262df7570a1e9306f79",
+       "386427e8aa66f1b606e3d5ed",
+       "dcb20d8e577a65cbdd0e0bca"
+      ]
+     },
+     {
+      "id": "LP_densenet-201",
+      "backbone": "densenet-201",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7409601084401891,
+      "seed_scores": [
+       0.7543821242214334,
+       0.730509134792094,
+       0.7379890663070401
+      ],
+      "trainable_params": 7684,
+      "configuration": "lp",
+      "run_ids": [
+       "42a68ad4d0dd296abd363206",
+       "a2886e5f5afc1026a6d5f5b9",
+       "547a6d91d86a8c956238de79",
+       "9f10783e07a5247148286296",
+       "7cf6b0994bd334b23df3f153",
+       "75bb61399f491e28d2d8c9b6",
+       "38eeda66dbe7c22ca21be6b2",
+       "8fe31956ffae7a1320dade56",
+       "83d7bcb5017fcdec04953903"
+      ]
+     },
+     {
+      "id": "LP_mobilenet",
+      "backbone": "mobilenet",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7061651332867537,
+      "seed_scores": [
+       0.728167061048009,
+       0.6965318336835051,
+       0.6937965051287471
+      ],
+      "trainable_params": 5124,
+      "configuration": "lp",
+      "run_ids": [
+       "50d74b1011b5a06a4fdbfd72",
+       "8c3d24f943d3dc138574c37d",
+       "28bd5a432769f8907a0becb2",
+       "731d40c83ccdf1351a705804",
+       "484c4a3e830c454132a12850",
+       "11b34f92e882634cf0ae2259",
+       "f0bb20f19f371c713e61a558",
+       "c8a1993d6e4a3b6a60b10978",
+       "4dcd1bd46ce75e143a49a225"
+      ]
+     },
+     {
+      "id": "LP_inception-v3",
+      "backbone": "inception-v3",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7344471512240291,
+      "seed_scores": [
+       0.7361850993493678,
+       0.7449250481063748,
+       0.7222313062163447
+      ],
+      "trainable_params": 8196,
+      "configuration": "lp",
+      "run_ids": [
+       "649aecd51226e60de4bd5e60",
+       "e63220e2f9fa2f534edd0d36",
+       "c2bd6a8a90e86ac11993c824",
+       "5bd4e3ad989d52c49caa3a69",
+       "b6ae2535acd04532d8c53a22",
+       "351f4dc41618d225945289c5",
+       "75830d0101cf8b4bb639f03e",
+       "cb05e54024d8201b6d8746dc",
+       "8da690532774effb339430d4"
+      ]
+     },
+     {
+      "id": "LP_efficient-b7",
+      "backbone": "efficient-b7",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7064077668428514,
+      "seed_scores": [
+       0.699523565143267,
+       0.7038540792282955,
+       0.715845656156992
+      ],
+      "trainable_params": 10244,
+      "configuration": "lp",
+      "run_ids": [
+       "8a8e4f57fb7c34aed918b6d2",
+       "2d1082cec9775bd6173854a9",
+       "c87669a1a04e698528129a14",
+       "7ba8a2c1edf739af6f93a2b9",
+       "96b675a853d7dd5f770a5f7b",
+       "9691506fb7f85f8d3446ba00",
+       "af7a24a819d9b5bb3a3916cc",
+       "16cb8d6e818d88359f21f7f4",
+       "5fe75ed29c6c32bc895340f0"
+      ]
+     },
+     {
+      "id": "LP_convnext-small",
+      "backbone": "convnext-small",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6574775952276553,
+      "seed_scores": [
+       0.6385714191227596,
+       0.6757731724942673,
+       0.658088194065939
+      ],
+      "trainable_params": 3076,
+      "configuration": "lp",
+      "run_ids": [
+       "c07de8c9e15c810fd23c2100",
+       "4aa5215a63f233df6f0bec56",
+       "2f9400058973d298dffd405a",
+       "8f86d289dfa6b4398a3ce89c",
+       "fc10f21d6cda45447ed2e622",
+       "f3cf32dd50a317e7cdc842e0",
+       "e58e2bdd4d5695cc2104af83",
+       "2facc33400080135c071125c",
+       "170bde9f4cc76dc3e07712d3"
+      ]
+     },
+     {
+      "id": "LP_convnext-base",
+      "backbone": "convnext-base",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7153606007088605,
+      "seed_scores": [
+       0.7037104103818196,
+       0.7163731422495905,
+       0.7259982494951716
+      ],
+      "trainable_params": 4100,
+      "configuration": "lp",
+      "run_ids": [
+       "20c241e15b8d2371da36034a",
+       "f7077d4be067d187972b71d3",
+       "64c12811922619da1d44e5fc",
+       "7c7890ff1317ae54b6b9a0ae",
+       "6a0858c9381aae62c535a521",
+       "0a96addd4b4194e18273992b",
+       "86a0e23364309edeca5bc1d8",
+       "622b0a8e57e409d21ff5df51",
+       "7cac2ab9c79bef8a7a931cab"
+      ]
+     },
+     {
+      "id": "LP_convnext-large",
+      "backbone": "convnext-large",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7164295931483967,
+      "seed_scores": [
+       0.6982038947376663,
+       0.7256753500124795,
+       0.7254095346950442
+      ],
+      "trainable_params": 6148,
+      "configuration": "lp",
+      "run_ids": [
+       "00cbbd83712c547ff653611b",
+       "df9215a60d0330cd34c91699",
+       "f7485b6c6fa5fdc20477c865",
+       "a31adfeefc8a361e4feb91db",
+       "3cef965309b795e17dce2a12",
+       "0bddfd1941bac9f6479f67d0",
+       "0ff67f1f14ec2bb42e0e1eea",
+       "9ce65afbc329d7c4d0e51c0f",
+       "a4fe2961f62e48a8db5270fb"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "prior",
+    "selected": "ridge_blob_prior",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7432930097618451,
+      "seed_scores": [
+       0.7509777489165415,
+       0.7473741243609523,
+       0.7315271560080414
+      ],
+      "trainable_params": 6660,
+      "configuration": "lp",
+      "run_ids": [
+       "c4d03d02833a0cee0d693d5f",
+       "076e9d9820b5cbd3f80bec2d",
+       "411033cbc95a0ac503c8ac39",
+       "096423452ba55ca85814a8f1",
+       "d1dc638387b1ffc993121049",
+       "e63e59a0385477666d157ea1",
+       "a4887262df7570a1e9306f79",
+       "386427e8aa66f1b606e3d5ed",
+       "dcb20d8e577a65cbdd0e0bca"
+      ]
+     },
+     {
+      "id": "binary_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "binary"
+      },
+      "mean_inner_macro_f1": 0.7346239129269782,
+      "seed_scores": [
+       0.7427926513117791,
+       0.7353087018621823,
+       0.725770385606973
+      ],
+      "trainable_params": 6660,
+      "configuration": "binary_prior",
+      "run_ids": [
+       "b456ffaf33605f815ef6f54b",
+       "28d72600bce201aa887a32cf",
+       "45272b8211024015e7898c6f",
+       "b7f4978b8043e82172b9acfa",
+       "c4b1b8ca8c1c5616850932b5",
+       "025d7f1b418cec12218a4de7",
+       "3b0040e03e4d8ced3bcd52a6",
+       "0dfe0e85656a151e8b12653f",
+       "9e9726412334dc1132ffa95b"
+      ]
+     },
+     {
+      "id": "soft_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "soft"
+      },
+      "mean_inner_macro_f1": 0.713732579005625,
+      "seed_scores": [
+       0.7025873227202443,
+       0.7149266326501806,
+       0.7236837816464503
+      ],
+      "trainable_params": 6660,
+      "configuration": "soft_prior",
+      "run_ids": [
+       "f39e6e932ee5a577c8c0c710",
+       "315e9ceff6fce8386cdde98c",
+       "c2f2dfeb27657282ab22e52f",
+       "b775cea6e082d74b83f3bb14",
+       "44d8f9e8a02a07d53ec950ea",
+       "0116ab0a01c7daa270d908e5",
+       "98dd3433393827a9700c6900",
+       "d2b7272055868bb80d7af585",
+       "11f57dd3a08aadccc3856b85"
+      ]
+     },
+     {
+      "id": "residual_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "residual"
+      },
+      "mean_inner_macro_f1": 0.741410639257072,
+      "seed_scores": [
+       0.7429509418298671,
+       0.7505766786879055,
+       0.7307042972534434
+      ],
+      "trainable_params": 6661,
+      "configuration": "hsp",
+      "run_ids": [
+       "c08f120bc117a49a27683a4b",
+       "2bf81d01d7615c63555b4891",
+       "09f9fcb8d132a4fff98b5129",
+       "154e7dd7e60384eecc101387",
+       "9b2a7d9ee9de43015a9f933d",
+       "c818253445f0159e832846d1",
+       "a0e3dcb42427531a8e160590",
+       "b21d0edf22a8f94759a616da",
+       "d4517b4f5bec0da86d4a2ced"
+      ]
+     },
+     {
+      "id": "prior_film",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film"
+      },
+      "mean_inner_macro_f1": 0.7391058529170934,
+      "seed_scores": [
+       0.7377361953706386,
+       0.751215301845116,
+       0.7283660615355261
+      ],
+      "trainable_params": 116548,
+      "configuration": "prior_film",
+      "run_ids": [
+       "bce89cf4e18bb23c9b018669",
+       "984aa1c91e024c57a194133f",
+       "674df5858ab93f9763cea934",
+       "dcfd5e35ae4e5e5a752da205",
+       "1beb0100ba22e2fce1c5545c",
+       "d28bc3c017ca1b5ee3afa2d4",
+       "deaca81f03b1179ada9b31c3",
+       "4a9a393a332ffe7fe1e3070c",
+       "9833aa38d55bebe6e754f79b"
+      ]
+     },
+     {
+      "id": "blob_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "blob_residual"
+      },
+      "mean_inner_macro_f1": 0.7469094173697068,
+      "seed_scores": [
+       0.7535531471951846,
+       0.762387376252186,
+       0.7247877286617498
+      ],
+      "trainable_params": 6661,
+      "configuration": "blob_prior",
+      "run_ids": [
+       "9ecef1f611c05fae478ea343",
+       "91819b4de69b5626b42491c3",
+       "3368ae8ded846f0b15447956",
+       "7a34c647f677078c0a663ca2",
+       "7dffad9b0ac57b58a6ec9a1c",
+       "131e46aba492ad60c534a4d8",
+       "b41ca3a8dc7a71d413310bc6",
+       "b9d9c23dca5c1a6b561188a2",
+       "6c1e681f481d6c2168c4aec5"
+      ]
+     },
+     {
+      "id": "ridge_blob_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual"
+      },
+      "mean_inner_macro_f1": 0.7470936715392534,
+      "seed_scores": [
+       0.7539000557832638,
+       0.7557987445899855,
+       0.7315822142445108
+      ],
+      "trainable_params": 6662,
+      "configuration": "ridge_blob_prior",
+      "run_ids": [
+       "38e96213caf0864854b9ab25",
+       "6c0f4cb3638687869301fdc4",
+       "fd2d97993a4f9fed70cc96e6",
+       "5d3d41e90e37b1cb3c8034a5",
+       "9ad6b76cfc9be125c2f786bd",
+       "fc487bf2c4b5ccfa6ef9b820",
+       "025fabd0ace6c2346c4d4f77",
+       "b50299598d20242ce5a1d7a7",
+       "44658765d64c8f0761890dc9"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "subband",
+    "selected": "learned_haar",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual"
+      },
+      "mean_inner_macro_f1": 0.7470936715392534,
+      "seed_scores": [
+       0.7539000557832638,
+       0.7557987445899855,
+       0.7315822142445108
+      ],
+      "trainable_params": 6662,
+      "configuration": "ridge_blob_prior",
+      "run_ids": [
+       "38e96213caf0864854b9ab25",
+       "6c0f4cb3638687869301fdc4",
+       "fd2d97993a4f9fed70cc96e6",
+       "5d3d41e90e37b1cb3c8034a5",
+       "9ad6b76cfc9be125c2f786bd",
+       "fc487bf2c4b5ccfa6ef9b820",
+       "025fabd0ace6c2346c4d4f77",
+       "b50299598d20242ce5a1d7a7",
+       "44658765d64c8f0761890dc9"
+      ]
+     },
+     {
+      "id": "pooling_bands",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual",
+       "subband": "pooling_bands"
+      },
+      "mean_inner_macro_f1": 0.7491450502407911,
+      "seed_scores": [
+       0.7395053355037078,
+       0.7540900138000698,
+       0.7538398014185962
+      ],
+      "trainable_params": 6662,
+      "configuration": "prior=ridge_blob_residual+subband=pooling_bands",
+      "run_ids": [
+       "575e87bf91a3ae70f022b953",
+       "6f521f222d3084009c0a2232",
+       "7782c0e4965c529c150f6084",
+       "787e5be1ddc10fa99e5114bd",
+       "d605a6ace31119ee5a6d5705",
+       "77932e9c99000f37ede445d8",
+       "d0d36cc56ba7244e47186a9e",
+       "984bb525bde93aef5d2a34bd",
+       "8e964dd40e7cccc95be84c68"
+      ]
+     },
+     {
+      "id": "fixed_haar",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual",
+       "subband": "fixed_haar"
+      },
+      "mean_inner_macro_f1": 0.7406696415133851,
+      "seed_scores": [
+       0.7493593627409038,
+       0.7431991793851198,
+       0.7294503824141316
+      ],
+      "trainable_params": 6662,
+      "configuration": "prior=ridge_blob_residual+subband=fixed_haar",
+      "run_ids": [
+       "b4875699aa75f463dbb49204",
+       "cd296d521ff8ef80f715a59a",
+       "14d51cc97827240b3bab1989",
+       "c40ff782b573b2b7a3380619",
+       "2cb3683b570159b9671ea291",
+       "d39a32ef33a0a0d8c70b7cff",
+       "8f98652ee9905aa2307e4279",
+       "4d1a1907141b6a6e5ebfaa18",
+       "bbcc87caf5040095e3a865f5"
+      ]
+     },
+     {
+      "id": "learned_haar",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual",
+       "subband": "dhsr"
+      },
+      "mean_inner_macro_f1": 0.7788062908661381,
+      "seed_scores": [
+       0.782951563137769,
+       0.7551572149221584,
+       0.7983100945384864
+      ],
+      "trainable_params": 5564422,
+      "configuration": "prior=ridge_blob_residual+subband=dhsr",
+      "run_ids": [
+       "0667c25d7b0b47ef4b30786b",
+       "66a8de8ec964cbe50773e608",
+       "0dd2c6ab3c1212fb1d2e1dda",
+       "e6740602eec05697a69ccc4e",
+       "4079df163d9b2461d6ec10fc",
+       "659cecbad1372d38abfd11aa",
+       "b5bbf915131bbc403c4cf096",
+       "ecb79920a0f1e05aedd1ef99",
+       "df0604d196576f74ccd5758c"
+      ]
+     },
+     {
+      "id": "learned_pooling",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual",
+       "subband": "learned_pooling"
+      },
+      "mean_inner_macro_f1": 0.747086851404724,
+      "seed_scores": [
+       0.7309290249538155,
+       0.7511249082424583,
+       0.7592066210178982
+      ],
+      "trainable_params": 23302,
+      "configuration": "prior=ridge_blob_residual+subband=learned_pooling",
+      "run_ids": [
+       "7f455c39bb58a8ed44a138c8",
+       "e0b151a35029538cc63fcdba",
+       "f4a25881ead7f64f6957fdc4",
+       "5a6661c99129c43378201d4b",
+       "f04ed2e183fdfec73913a09a",
+       "fa3b0eb480f0630a46ec0abe",
+       "75b6944eb9126b6e334f43af",
+       "a885954850ab4261e1ea6e74",
+       "3b9f843ac95c5b00d286ce97"
+      ]
+     },
+     {
+      "id": "no_subband",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual",
+       "subband": "no_subband"
+      },
+      "mean_inner_macro_f1": 0.7644401817447455,
+      "seed_scores": [
+       0.7712476395394737,
+       0.7567637423658367,
+       0.7653091633289263
+      ],
+      "trainable_params": 5564422,
+      "configuration": "prior=ridge_blob_residual+subband=no_subband",
+      "run_ids": [
+       "62d96fbe8eadf9103eb030b1",
+       "bc8ee4ecb85b876a5acdedb4",
+       "84b4eddc071b488d40484048",
+       "ef3be97b824567942988e02a",
+       "126489adf1c42f3fbb681f3c",
+       "ba6156eba402683ae6a7e816",
+       "ec37a8e836877c53dae441de",
+       "fbfec13e82cb63ed4d732387",
+       "113a6a9e0279a99c8654915a"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "fusion",
+    "selected": "spatial_film",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual",
+       "subband": "dhsr"
+      },
+      "mean_inner_macro_f1": 0.7788062908661381,
+      "seed_scores": [
+       0.782951563137769,
+       0.7551572149221584,
+       0.7983100945384864
+      ],
+      "trainable_params": 5564422,
+      "configuration": "prior=ridge_blob_residual+subband=dhsr",
+      "run_ids": [
+       "0667c25d7b0b47ef4b30786b",
+       "66a8de8ec964cbe50773e608",
+       "0dd2c6ab3c1212fb1d2e1dda",
+       "e6740602eec05697a69ccc4e",
+       "4079df163d9b2461d6ec10fc",
+       "659cecbad1372d38abfd11aa",
+       "b5bbf915131bbc403c4cf096",
+       "ecb79920a0f1e05aedd1ef99",
+       "df0604d196576f74ccd5758c"
+      ]
+     },
+     {
+      "id": "softmax_gate",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual",
+       "subband": "dhsr",
+       "fusion": "softmax_gate"
+      },
+      "mean_inner_macro_f1": 0.7353464332605771,
+      "seed_scores": [
+       0.7517125072825499,
+       0.736064948835897,
+       0.7182618436632848
+      ],
+      "trainable_params": 16644998,
+      "configuration": "prior=ridge_blob_residual+subband=dhsr+fusion=softmax_gate",
+      "run_ids": [
+       "2259984c228b5c98853e9436",
+       "66a3a710aeebc009b928d462",
+       "72beec98da1d94c09ff58695",
+       "32c0609a45cfe6b70bd16ab7",
+       "002aad4d699ce59da8b3c54e",
+       "81df6896fdf0cd3079ed823e",
+       "7facab03cc5db953c9d81603",
+       "2251b5da4534d18f8cde74c3",
+       "575ac0a020ee9fd67c72f2c8"
+      ]
+     },
+     {
+      "id": "sigmoid_gate",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual",
+       "subband": "dhsr",
+       "fusion": "sigmoid_gate"
+      },
+      "mean_inner_macro_f1": 0.7938731609121862,
+      "seed_scores": [
+       0.7917659764717961,
+       0.7787751817479003,
+       0.8110783245168619
+      ],
+      "trainable_params": 16644998,
+      "configuration": "prior=ridge_blob_residual+subband=dhsr+fusion=sigmoid_gate",
+      "run_ids": [
+       "403179b3626f32f34e72fd33",
+       "6a15cd4963723a771c7c58bf",
+       "549f8dde49502f9b93ebc127",
+       "1fb8674d108cb49eb20cdd36",
+       "8702039ca8cf6f3dce4a0ef5",
+       "9cf82755369f6688ddda541c",
+       "4c18406a76efe756be30017d",
+       "863be17e0fda056b02d61c49",
+       "4cf0c156340e87bced5d95db"
+      ]
+     },
+     {
+      "id": "scalar_gate",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual",
+       "subband": "dhsr",
+       "fusion": "scalar_gate"
+      },
+      "mean_inner_macro_f1": 0.7646435146365723,
+      "seed_scores": [
+       0.7634216196277117,
+       0.7681860089428498,
+       0.7623229153391555
+      ],
+      "trainable_params": 11107208,
+      "configuration": "prior=ridge_blob_residual+subband=dhsr+fusion=scalar_gate",
+      "run_ids": [
+       "e1187ab4592522fb9ff2bb27",
+       "2128a0c7efbed0235c18b289",
+       "cebc6b809b99fca89f4661a3",
+       "7c74a5c8ab2bfb58946f21dd",
+       "c4505d2d6c83d820a5c467c1",
+       "a93348cdbe8cb79a79356ea0",
+       "2e18b157dd1ce6d1b7ba6e8d",
+       "9e42fa165f86a852c5f6c7be",
+       "7896e87c31782e12ffa3ca9e"
+      ]
+     },
+     {
+      "id": "spatial_two_way",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual",
+       "subband": "dhsr",
+       "fusion": "two_way"
+      },
+      "mean_inner_macro_f1": 0.8055314146701885,
+      "seed_scores": [
+       0.824400581446977,
+       0.7900342427187618,
+       0.8021594198448263
+      ],
+      "trainable_params": 5567752,
+      "configuration": "prior=ridge_blob_residual+subband=dhsr+fusion=two_way",
+      "run_ids": [
+       "d946f2294225785087f50b76",
+       "ed016adff2b01768f7cda434",
+       "639f468de5495180d0f98b6f",
+       "418cec9761a3106974646f26",
+       "9b5c1a7c78662a9d683585da",
+       "31332c9b7078a5b8c96db90a",
+       "a17118002b344b8848d24052",
+       "1f29687973bbb34e1ec5d100",
+       "f624121b7fb67de19102191c"
+      ]
+     },
+     {
+      "id": "spatial_film",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual",
+       "subband": "dhsr",
+       "fusion": "sff"
+      },
+      "mean_inner_macro_f1": 0.8169084469300719,
+      "seed_scores": [
+       0.7880432638316922,
+       0.8303373672974101,
+       0.8323447096611132
+      ],
+      "trainable_params": 11105542,
+      "configuration": "prior=ridge_blob_residual+subband=dhsr+fusion=sff",
+      "run_ids": [
+       "cc69265ada77a13dcb6b83df",
+       "cdb925b116c1eda949c5bd3b",
+       "c4dc04a4bda73f5c9f501812",
+       "256ad6ed70e420e2ef9e8d1e",
+       "d1763c390629b1a717d9b380",
+       "487a0a5684f8e8c08b45f4cb",
+       "1a9339b2ec97b312a0005ee1",
+       "64089e8bd1f709be218fad1b",
+       "2c6c5073baf0c0e515d3e2b7"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "head",
+    "selected": "separate_prior_stream",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual",
+       "subband": "dhsr",
+       "fusion": "sff"
+      },
+      "mean_inner_macro_f1": 0.8169084469300719,
+      "seed_scores": [
+       0.7880432638316922,
+       0.8303373672974101,
+       0.8323447096611132
+      ],
+      "trainable_params": 11105542,
+      "configuration": "prior=ridge_blob_residual+subband=dhsr+fusion=sff",
+      "run_ids": [
+       "cc69265ada77a13dcb6b83df",
+       "cdb925b116c1eda949c5bd3b",
+       "c4dc04a4bda73f5c9f501812",
+       "256ad6ed70e420e2ef9e8d1e",
+       "d1763c390629b1a717d9b380",
+       "487a0a5684f8e8c08b45f4cb",
+       "1a9339b2ec97b312a0005ee1",
+       "64089e8bd1f709be218fad1b",
+       "2c6c5073baf0c0e515d3e2b7"
+      ]
+     },
+     {
+      "id": "context_pool",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual",
+       "subband": "dhsr",
+       "fusion": "sff",
+       "pooling": "context"
+      },
+      "mean_inner_macro_f1": 0.7519782781383418,
+      "seed_scores": [
+       0.7642366280443038,
+       0.7478911716110296,
+       0.7438070347596918
+      ],
+      "trainable_params": 11107207,
+      "configuration": "prior=ridge_blob_residual+subband=dhsr+fusion=sff+pooling=context",
+      "run_ids": [
+       "5e2ee74f9ea49d8dcdf5e859",
+       "6361bbd7e0a0c5919bfac800",
+       "867ab26a611dee7d14bfb8f2",
+       "798e88652b9f82b1681cc54c",
+       "8165be120d575b90de6bb052",
+       "393ca977ddf272e1dd182168",
+       "fe79f75dc9e1a74dfb98404a",
+       "ac003838806e7a24e60da594",
+       "018730ee5d46dac4623ddf4f"
+      ]
+     },
+     {
+      "id": "separate_prior_stream",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual",
+       "subband": "dhsr",
+       "fusion": "sff",
+       "prior_stream": true
+      },
+      "mean_inner_macro_f1": 0.8318215472622833,
+      "seed_scores": [
+       0.8102508208494111,
+       0.842262920819342,
+       0.842950900118097
+      ],
+      "trainable_params": 11130155,
+      "configuration": "prior=ridge_blob_residual+subband=dhsr+fusion=sff+prior_stream=True",
+      "run_ids": [
+       "8688f04e5daea885015c6d90",
+       "5811d12e3df1b467dfe5728d",
+       "a26f942a38b42c9719a01a41",
+       "414e9d10e42e8546e9c6e595",
+       "8a0a2b9cdb536f41bf76d6dc",
+       "756bf0de82cce3a8353cb326",
+       "d422fbfa667d5ad9b0d6f7e6",
+       "2a5872fa591fff950e6d421d",
+       "f43715c886261b0a2c61a710"
+      ]
+     }
+    ]
+   }
+  ],
+  "selected_backbone": "densenet-169",
+  "selected_spec": {
+   "prior": "ridge_blob_residual",
+   "subband": "dhsr",
+   "fusion": "sff",
+   "prior_stream": true
+  }
+ },
+ "outer4": {
+  "stages": [
+   {
+    "stage": "backbone",
+    "selected": "LP_densenet-169",
+    "candidates": [
+     {
+      "id": "LP_vgg-16",
+      "backbone": "vgg-16",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6624585216621618,
+      "seed_scores": [
+       0.6745366827959278,
+       0.6686636045300501,
+       0.6441752776605074
+      ],
+      "trainable_params": 2052,
+      "configuration": "lp",
+      "run_ids": [
+       "1c626686f55f81905b1fb9e8",
+       "f6de566468a15c686496d321",
+       "3842fe920c48e07438f34250",
+       "8c15fa650f396fd49ffc2b04",
+       "f7917b098cb67c3a13b0081d",
+       "65dd286468140974fc9d8e23",
+       "1b373037aa49add1bf23047a",
+       "ad21044bc1971c3a9f3b2c70",
+       "427c8efbab6bf2c861442faf"
+      ]
+     },
+     {
+      "id": "LP_vgg-19",
+      "backbone": "vgg-19",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6431514437611526,
+      "seed_scores": [
+       0.6531209987303284,
+       0.6511118528958453,
+       0.6252214796572841
+      ],
+      "trainable_params": 2052,
+      "configuration": "lp",
+      "run_ids": [
+       "de0aeeb1baeaf125dd0cb81b",
+       "d44d317950accba276d9be5e",
+       "f28e58511dcf05a37e399766",
+       "c8db820b882773879f455589",
+       "4527f55dc2af9f188378c8a0",
+       "4b67cf131c2d2e5f6f758373",
+       "3232f412035e37a9383c8abe",
+       "61abe472e5a82fe36969d27a",
+       "a671c942951144fe82d70b7b"
+      ]
+     },
+     {
+      "id": "LP_resnet-101",
+      "backbone": "resnet-101",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7282649648346712,
+      "seed_scores": [
+       0.7454354636051931,
+       0.7339743136212102,
+       0.7053851172776106
+      ],
+      "trainable_params": 8196,
+      "configuration": "lp",
+      "run_ids": [
+       "1486bbdc30bb4ea8a8068f51",
+       "9e05971543e92e5bbd81fe07",
+       "e009a563cc87219d4ce9ea56",
+       "fcdf4d17fda7a99348fe5f8e",
+       "f40707a317c6f624c7800d37",
+       "04dc4ef50b0a6a623eef359f",
+       "603a867fb757f120023b0db2",
+       "d7d7b2959a4e6b69772fa69c",
+       "e1f6cfa141b573b393a66f3d"
+      ]
+     },
+     {
+      "id": "LP_densenet-169",
+      "backbone": "densenet-169",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7499965179819315,
+      "seed_scores": [
+       0.7321035549689153,
+       0.7576446268845366,
+       0.7602413720923427
+      ],
+      "trainable_params": 6660,
+      "configuration": "lp",
+      "run_ids": [
+       "dd2a56b060b65709267c94ad",
+       "cc6de564ba055d47022d75cb",
+       "50368d36c9f7e8d2b6580da8",
+       "1dbb0e7b39f065f247cdb166",
+       "6f200f8fafa24694411a854c",
+       "a8c5073ac562a2e2f6f0716a",
+       "9821c124fdc2f6ac6a51d0af",
+       "b31863759e6335d114e7e2f6",
+       "1eb7252b49afd8120543239a"
+      ]
+     },
+     {
+      "id": "LP_densenet-201",
+      "backbone": "densenet-201",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7395744209197529,
+      "seed_scores": [
+       0.7017777777777778,
+       0.7802548635180928,
+       0.7366906214633877
+      ],
+      "trainable_params": 7684,
+      "configuration": "lp",
+      "run_ids": [
+       "9ad1cc4954ff4af0f6990236",
+       "883587985a1c4767319d3e03",
+       "8719521403aab66bfd37d9c9",
+       "763b57f6b503e98a0f4e567f",
+       "c91b76da4495c3153d12aedc",
+       "89ddb9d9a10625a4481de45a",
+       "cdafe88c0dbb62ae97e421af",
+       "350712fd08bbbba775da47b0",
+       "0a1f86488f6b0da9d494d95f"
+      ]
+     },
+     {
+      "id": "LP_mobilenet",
+      "backbone": "mobilenet",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7305084381168075,
+      "seed_scores": [
+       0.738226568882124,
+       0.7511747095414529,
+       0.7021240359268455
+      ],
+      "trainable_params": 5124,
+      "configuration": "lp",
+      "run_ids": [
+       "7f299494867116342c324a00",
+       "c3bafd38282316349eb4dbcd",
+       "9401bf86d9de8a7e05da6ad6",
+       "75f6d87098e62826765f01e6",
+       "7382bf08894e3d05de4b183f",
+       "06a9dcfff631483e17864003",
+       "038b53fbd1d2a930d9bc1d76",
+       "991c72ba7a40be628a3fbc50",
+       "2a803f4cd4a11f7b210a0565"
+      ]
+     },
+     {
+      "id": "LP_inception-v3",
+      "backbone": "inception-v3",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6975233720061484,
+      "seed_scores": [
+       0.6812782718218806,
+       0.6888405533490475,
+       0.7224512908475172
+      ],
+      "trainable_params": 8196,
+      "configuration": "lp",
+      "run_ids": [
+       "c32358a01bb36cd0477c195c",
+       "a6d9efc6b8c9b81aae3ec803",
+       "df934214cda3dd278602a1bd",
+       "e4b16f15977c04fb0b2a16a2",
+       "f558ae3314201cef670455a5",
+       "9973f370d6533adada2de971",
+       "cdac9fedc180faccf1bae912",
+       "b1de9d8bd83e65f96685a102",
+       "7e43df982a76d97130ac7147"
+      ]
+     },
+     {
+      "id": "LP_efficient-b7",
+      "backbone": "efficient-b7",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7156551364653864,
+      "seed_scores": [
+       0.701707101725882,
+       0.7270046714744145,
+       0.7182536361958625
+      ],
+      "trainable_params": 10244,
+      "configuration": "lp",
+      "run_ids": [
+       "56e4b8f6036c762bdcab54e8",
+       "fbe46d98191829c463c370f4",
+       "a680608cdb80c3355e12b6b8",
+       "aef2b0f7e3e597dc34bd15e2",
+       "16231db37488141a9ca5054b",
+       "349cc98733606f18e0acbfb9",
+       "29d4bb0f72a61ab125fb7fff",
+       "0b03d0ec7a87eae90b689936",
+       "b3065a2a3df70fdbaaf6f842"
+      ]
+     },
+     {
+      "id": "LP_convnext-small",
+      "backbone": "convnext-small",
+      "spec": {},
+      "mean_inner_macro_f1": 0.628205452988203,
+      "seed_scores": [
+       0.639091714184616,
+       0.6359206643295956,
+       0.6096039804503974
+      ],
+      "trainable_params": 3076,
+      "configuration": "lp",
+      "run_ids": [
+       "d02e5cce6fd870d27f8c8e2d",
+       "bb543531b4be07bbcc9d5f55",
+       "c9232b40f59e09ad76ede3f2",
+       "e75f0508fa177a75a404afc4",
+       "7fca35f98749ec2fc61864c6",
+       "220460e306e4fbf10d561574",
+       "97361ee089c92d4672142d7f",
+       "e0b13cac79fd9ebf9b03c3a9",
+       "e39d3fbbaf989daf3c9dfa58"
+      ]
+     },
+     {
+      "id": "LP_convnext-base",
+      "backbone": "convnext-base",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6824746019192659,
+      "seed_scores": [
+       0.6588424955106592,
+       0.6760231045832668,
+       0.7125582056638717
+      ],
+      "trainable_params": 4100,
+      "configuration": "lp",
+      "run_ids": [
+       "c33c6ddbca26f9fa00b83d7c",
+       "d26b3a9131eb1084c53ee3d3",
+       "097058831242e6d42a72d898",
+       "5ea6d0da44ff59714d2afa64",
+       "2dbcd2444ea22f7991d2b5a9",
+       "95f4c41b5204da9431177b07",
+       "f14745c639eefeb3ead23ef9",
+       "9da702045b2b765d86d569d9",
+       "4de5891a8aa5d5e7aa2c0a2f"
+      ]
+     },
+     {
+      "id": "LP_convnext-large",
+      "backbone": "convnext-large",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6842416973621911,
+      "seed_scores": [
+       0.6760736834130004,
+       0.6826761511909919,
+       0.6939752574825808
+      ],
+      "trainable_params": 6148,
+      "configuration": "lp",
+      "run_ids": [
+       "d1c439b74cdd407515b5f6ae",
+       "a26a9873e82f14c2db9f4cd8",
+       "2ccf63e29091e1a237116bc4",
+       "bf4c24d24eaacaa2cf3706f9",
+       "6e3315521c11123f9234af8e",
+       "4e45e3caa875e6929cbf8142",
+       "06648c8b4a8bb183ed78f4cd",
+       "a6b7e6a62d28ccf4b5743a4a",
+       "04c46ac9914f8e09bbf217ef"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "prior",
+    "selected": "prior_film",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7499965179819315,
+      "seed_scores": [
+       0.7321035549689153,
+       0.7576446268845366,
+       0.7602413720923427
+      ],
+      "trainable_params": 6660,
+      "configuration": "lp",
+      "run_ids": [
+       "dd2a56b060b65709267c94ad",
+       "cc6de564ba055d47022d75cb",
+       "50368d36c9f7e8d2b6580da8",
+       "1dbb0e7b39f065f247cdb166",
+       "6f200f8fafa24694411a854c",
+       "a8c5073ac562a2e2f6f0716a",
+       "9821c124fdc2f6ac6a51d0af",
+       "b31863759e6335d114e7e2f6",
+       "1eb7252b49afd8120543239a"
+      ]
+     },
+     {
+      "id": "binary_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "binary"
+      },
+      "mean_inner_macro_f1": 0.7395210168172263,
+      "seed_scores": [
+       0.7383120617189409,
+       0.7420590562894015,
+       0.7381919324433361
+      ],
+      "trainable_params": 6660,
+      "configuration": "binary_prior",
+      "run_ids": [
+       "dadd3cb10ade4723a7ec3e6e",
+       "3b30f14035ef1ab1650e4e87",
+       "e3423e772f78e3045ec4cfcc",
+       "82091f4e94f8250cfba6ee05",
+       "63624aec81ebd2ea0dbc4cc8",
+       "f01a9f174ab9afef378cbccd",
+       "f497a3a2f4a06d4b3e10bfc7",
+       "1f2beb6a7bea3fd17e9ec023",
+       "db073d59a8454f71acac0ce5"
+      ]
+     },
+     {
+      "id": "soft_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "soft"
+      },
+      "mean_inner_macro_f1": 0.7282260904744535,
+      "seed_scores": [
+       0.7042348392498738,
+       0.7451059135007613,
+       0.7353375186727256
+      ],
+      "trainable_params": 6660,
+      "configuration": "soft_prior",
+      "run_ids": [
+       "723000f114ccff196ca88d4b",
+       "a375a4d8fc4e0fc1d8336294",
+       "7740aba7be248f38499d659e",
+       "44a3b405ce4efffb55b62311",
+       "91226f575e48cb579a8749f8",
+       "111a96f62df9a9cc4a3a7e0f",
+       "6af42bc5c3cc89ed4861aae4",
+       "57d1810fd388da7ed051f89d",
+       "851455ed5c564aff0a7285bb"
+      ]
+     },
+     {
+      "id": "residual_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "residual"
+      },
+      "mean_inner_macro_f1": 0.7474341166000308,
+      "seed_scores": [
+       0.7340824467114805,
+       0.7567967015882296,
+       0.7514232015003823
+      ],
+      "trainable_params": 6661,
+      "configuration": "hsp",
+      "run_ids": [
+       "7ebdd8db25fd57072ae842eb",
+       "82a6056d4417ac086daaa984",
+       "41a5b32caa320fd62a835e4c",
+       "4828b58e4a164731e609dd6a",
+       "81f0c20bdf9809968c12fd5d",
+       "cee51bba4a6767b901e0bb61",
+       "35b15b616d897ad79343443b",
+       "f4d5f3e5daaeab212d6af2f5",
+       "b13192af8ffeb2b172ffeffa"
+      ]
+     },
+     {
+      "id": "prior_film",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film"
+      },
+      "mean_inner_macro_f1": 0.7598398501115472,
+      "seed_scores": [
+       0.756682001707162,
+       0.7601820157791925,
+       0.7626555328482867
+      ],
+      "trainable_params": 116548,
+      "configuration": "prior_film",
+      "run_ids": [
+       "05e8efefe0935adaa7a18385",
+       "c78f7ea6bb07e33ae412f06b",
+       "a1250e2cab34f9b316a307f8",
+       "45962c4911378fc47f4b72bd",
+       "80abd6f98c694eb33018b015",
+       "52c96a5c52a498ab4efada82",
+       "41ff2662fdae080dcd8e9663",
+       "9aed954d08736d7e0fe65f13",
+       "6ac640dc3df8f8b822271797"
+      ]
+     },
+     {
+      "id": "blob_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "blob_residual"
+      },
+      "mean_inner_macro_f1": 0.7525075517323815,
+      "seed_scores": [
+       0.7355847656083134,
+       0.760791273320135,
+       0.761146616268696
+      ],
+      "trainable_params": 6661,
+      "configuration": "blob_prior",
+      "run_ids": [
+       "5925ce7826ff1f1c214c4094",
+       "a4b7ea189a0445e8c1338f73",
+       "9459f072c708a2ec4c382411",
+       "1f0d555fce3b0c7b2bfd67db",
+       "a26d4fc0da2ccfe1babba2c5",
+       "12da556c9e331ebceccbb8e7",
+       "87a974765492566e1ff6f990",
+       "2d348e4144e1527dd8b31206",
+       "7ec68a61d369169fd901a4c8"
+      ]
+     },
+     {
+      "id": "ridge_blob_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual"
+      },
+      "mean_inner_macro_f1": 0.7570668953921839,
+      "seed_scores": [
+       0.7351085738132488,
+       0.7713912795784622,
+       0.7647008327848404
+      ],
+      "trainable_params": 6662,
+      "configuration": "ridge_blob_prior",
+      "run_ids": [
+       "dda6f6c27da1ebf845aadc93",
+       "4677d99de68e81ee0a2b78b4",
+       "0b9228c00feb1f7e8f4e8f84",
+       "d7844bd314b0cb58d73eda6f",
+       "404e104739074a105910d365",
+       "a9db29323bedebb9b3103ea3",
+       "1f1abca027493ab5b1587240",
+       "1040527fd749e3ba82912245",
+       "c1b95402302f7b423419aa31"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "subband",
+    "selected": "learned_haar",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film"
+      },
+      "mean_inner_macro_f1": 0.7598398501115472,
+      "seed_scores": [
+       0.756682001707162,
+       0.7601820157791925,
+       0.7626555328482867
+      ],
+      "trainable_params": 116548,
+      "configuration": "prior_film",
+      "run_ids": [
+       "05e8efefe0935adaa7a18385",
+       "c78f7ea6bb07e33ae412f06b",
+       "a1250e2cab34f9b316a307f8",
+       "45962c4911378fc47f4b72bd",
+       "80abd6f98c694eb33018b015",
+       "52c96a5c52a498ab4efada82",
+       "41ff2662fdae080dcd8e9663",
+       "9aed954d08736d7e0fe65f13",
+       "6ac640dc3df8f8b822271797"
+      ]
+     },
+     {
+      "id": "pooling_bands",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "pooling_bands"
+      },
+      "mean_inner_macro_f1": 0.747954482419081,
+      "seed_scores": [
+       0.7398450521009595,
+       0.7607615783517687,
+       0.743256816804515
+      ],
+      "trainable_params": 116548,
+      "configuration": "prior=film+subband=pooling_bands",
+      "run_ids": [
+       "6ea77d14a8578ec208d36199",
+       "b5bc455288f4fcbc9090cbbb",
+       "65ca938502b42ebbaec6b89a",
+       "aecd4fa94de6adc74e07f4fb",
+       "5e711a3d32ed1461759c1322",
+       "4a52b3f2b0a2ccc1f5d9779d",
+       "c24e600d49951a8d9a40a76e",
+       "67aad467ab334c39e0869352",
+       "9c2a16ab32d710820d2ae6ca"
+      ]
+     },
+     {
+      "id": "fixed_haar",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "fixed_haar"
+      },
+      "mean_inner_macro_f1": 0.7632306988729259,
+      "seed_scores": [
+       0.7414580149788723,
+       0.7835902951036318,
+       0.7646437865362739
+      ],
+      "trainable_params": 116548,
+      "configuration": "prior=film+subband=fixed_haar",
+      "run_ids": [
+       "8516dfe87270d15dd91c5dc0",
+       "719979352eb13425760e76eb",
+       "73e9bcd23d1c2592fde63fa5",
+       "3f0fec446c3c94a7e79ef490",
+       "8be2abedf9aaac793e0eacc0",
+       "fea3f7d123b8e2e43938b8cd",
+       "2fb5eff0462e6f3609567ffc",
+       "f6d8e0045312fb5869656efd",
+       "30266c425e0c95a15b8e0a06"
+      ]
+     },
+     {
+      "id": "learned_haar",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr"
+      },
+      "mean_inner_macro_f1": 0.7855315608795127,
+      "seed_scores": [
+       0.7812127217645346,
+       0.7806357448130429,
+       0.7947462160609609
+      ],
+      "trainable_params": 5674308,
+      "configuration": "prior=film+subband=dhsr",
+      "run_ids": [
+       "67518b6cbc0d0e12d3d07736",
+       "a9159abdc01b18b6c4e1571c",
+       "dd18bbff8d86181738498a3c",
+       "b4dab0021587d2bac47e8785",
+       "48b1e5c660d322ca7b34175c",
+       "5046d7da36ad6b28289e04ea",
+       "17a1b3c5d81a5a8718b7003b",
+       "c79a37bba6f23eb5e0a2b907",
+       "85115fea822dc0ad6ae2da33"
+      ]
+     },
+     {
+      "id": "learned_pooling",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "learned_pooling"
+      },
+      "mean_inner_macro_f1": 0.7370504242472574,
+      "seed_scores": [
+       0.7193852286860707,
+       0.7406113710648691,
+       0.7511546729908323
+      ],
+      "trainable_params": 133188,
+      "configuration": "prior=film+subband=learned_pooling",
+      "run_ids": [
+       "e4052dd43c3cb830bc67bc86",
+       "134dbbd8eeb44ee81072f9d1",
+       "88261666fa90de6642b28eae",
+       "7ddc5c76a6c9ee409b103405",
+       "79de8a572e3a4c6e33117064",
+       "916391c77c606faa70820a65",
+       "445e2b5194a28f70dbcc6161",
+       "e965bd04cc66ef73044f1a75",
+       "b50ca66b9aa617f18e9d1d82"
+      ]
+     },
+     {
+      "id": "no_subband",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "no_subband"
+      },
+      "mean_inner_macro_f1": 0.751096456598809,
+      "seed_scores": [
+       0.7449889591147385,
+       0.7447526733487153,
+       0.7635477373329729
+      ],
+      "trainable_params": 5674308,
+      "configuration": "prior=film+subband=no_subband",
+      "run_ids": [
+       "3548d846da9c8f0ecce6249e",
+       "218e66f05731c466250606b8",
+       "24671062a922818135179b5e",
+       "e343ba2aea7e153415936286",
+       "191e4c9b24ad92b49846cc80",
+       "b23895921dda68989c98ad62",
+       "0ea2ea02b00d7cf97e9e0739",
+       "56d15e04cf4b28d0ab4deec3",
+       "14f5cae657cd9b34965ae005"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "fusion",
+    "selected": "spatial_film",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr"
+      },
+      "mean_inner_macro_f1": 0.7855315608795127,
+      "seed_scores": [
+       0.7812127217645346,
+       0.7806357448130429,
+       0.7947462160609609
+      ],
+      "trainable_params": 5674308,
+      "configuration": "prior=film+subband=dhsr",
+      "run_ids": [
+       "67518b6cbc0d0e12d3d07736",
+       "a9159abdc01b18b6c4e1571c",
+       "dd18bbff8d86181738498a3c",
+       "b4dab0021587d2bac47e8785",
+       "48b1e5c660d322ca7b34175c",
+       "5046d7da36ad6b28289e04ea",
+       "17a1b3c5d81a5a8718b7003b",
+       "c79a37bba6f23eb5e0a2b907",
+       "85115fea822dc0ad6ae2da33"
+      ]
+     },
+     {
+      "id": "softmax_gate",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr",
+       "fusion": "softmax_gate"
+      },
+      "mean_inner_macro_f1": 0.7807338188028706,
+      "seed_scores": [
+       0.774549533693829,
+       0.7747852079299857,
+       0.7928667147847972
+      ],
+      "trainable_params": 16754884,
+      "configuration": "prior=film+subband=dhsr+fusion=softmax_gate",
+      "run_ids": [
+       "35e342d3458e3761cc70d1d3",
+       "44aea405aaf9cff1946b34d8",
+       "129977880328a61fc02a86de",
+       "7c7764d7ea2bea3c0fcf31f7",
+       "3173cfbebbabcb7116286666",
+       "ef1a17695284067ca2a95540",
+       "a2c9bfe10c84296b5a1886ae",
+       "b8ab99255adeae72e4b4ff02",
+       "1f92198efa282db9e5535b27"
+      ]
+     },
+     {
+      "id": "sigmoid_gate",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr",
+       "fusion": "sigmoid_gate"
+      },
+      "mean_inner_macro_f1": 0.792450287230828,
+      "seed_scores": [
+       0.8210189411988337,
+       0.8066094129977117,
+       0.7497225074959385
+      ],
+      "trainable_params": 16754884,
+      "configuration": "prior=film+subband=dhsr+fusion=sigmoid_gate",
+      "run_ids": [
+       "e117dbaca69598d676b1c42d",
+       "b4a75f7dc79d8113c28a1f0a",
+       "4312d5ed1306f48b7a36e531",
+       "6a3cdeba135f46c6b7bcb7fa",
+       "1868137696b8a828a300b5cf",
+       "23b026bf0417d9753f6ca980",
+       "9b5eaf55cc5a7a9e5ea90e3f",
+       "60d0c5e971695fa539642dc2",
+       "594748a8078486af8696c016"
+      ]
+     },
+     {
+      "id": "scalar_gate",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr",
+       "fusion": "scalar_gate"
+      },
+      "mean_inner_macro_f1": 0.7554420512363985,
+      "seed_scores": [
+       0.7566991535966716,
+       0.756911235256456,
+       0.7527157648560678
+      ],
+      "trainable_params": 11217094,
+      "configuration": "prior=film+subband=dhsr+fusion=scalar_gate",
+      "run_ids": [
+       "3444d53b9801db0336c175cd",
+       "33cc9ddecd99ab20fab929ca",
+       "591f970c32633da5ceb9b9c6",
+       "023f067ec8d97d9b4b7a7c6b",
+       "ab19f7126680011379284d83",
+       "0865c208fa8fe64609f5bc2e",
+       "6c08dac469957023691bc33d",
+       "d0143c9987547c13761b97a9",
+       "ca799cadf6ad309b89bae5d7"
+      ]
+     },
+     {
+      "id": "spatial_two_way",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr",
+       "fusion": "two_way"
+      },
+      "mean_inner_macro_f1": 0.8278468074065478,
+      "seed_scores": [
+       0.8374072029624898,
+       0.8256827507983845,
+       0.820450468458769
+      ],
+      "trainable_params": 5677638,
+      "configuration": "prior=film+subband=dhsr+fusion=two_way",
+      "run_ids": [
+       "5f0431504655941b08e7b2a8",
+       "c09918e76d03e2c0f5bb1780",
+       "49b93e26ab27b72095167d1e",
+       "87f6d50058c74ec681c591a0",
+       "d0167af90c906496b648b774",
+       "cf8b8bd0c362164ce15a419f",
+       "c917d1e3027fcb66c37c34f1",
+       "8b5a696838277cac05a24ed6",
+       "6dc3b8587411b5cb233b69d3"
+      ]
+     },
+     {
+      "id": "spatial_film",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr",
+       "fusion": "sff"
+      },
+      "mean_inner_macro_f1": 0.8331129572267425,
+      "seed_scores": [
+       0.8162936331939241,
+       0.847478985425658,
+       0.8355662530606456
+      ],
+      "trainable_params": 11215428,
+      "configuration": "prior=film+subband=dhsr+fusion=sff",
+      "run_ids": [
+       "a6784beffd2b0b33965b59ea",
+       "93f2a4e92a37adeda6f3f2ff",
+       "1f14f26fb007edddb337a0ce",
+       "1392768816a5595f094f6e69",
+       "d3bf9343b416512ec2f02133",
+       "4ea9a5a735e5629eda51957c",
+       "028042cf7c19e63ccc93d9cd",
+       "b2bacb7ff972536345e05060",
+       "4c6368d29f4065bbd103ba67"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "head",
+    "selected": "separate_prior_stream",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr",
+       "fusion": "sff"
+      },
+      "mean_inner_macro_f1": 0.8331129572267425,
+      "seed_scores": [
+       0.8162936331939241,
+       0.847478985425658,
+       0.8355662530606456
+      ],
+      "trainable_params": 11215428,
+      "configuration": "prior=film+subband=dhsr+fusion=sff",
+      "run_ids": [
+       "a6784beffd2b0b33965b59ea",
+       "93f2a4e92a37adeda6f3f2ff",
+       "1f14f26fb007edddb337a0ce",
+       "1392768816a5595f094f6e69",
+       "d3bf9343b416512ec2f02133",
+       "4ea9a5a735e5629eda51957c",
+       "028042cf7c19e63ccc93d9cd",
+       "b2bacb7ff972536345e05060",
+       "4c6368d29f4065bbd103ba67"
+      ]
+     },
+     {
+      "id": "context_pool",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr",
+       "fusion": "sff",
+       "pooling": "context"
+      },
+      "mean_inner_macro_f1": 0.7710653236092305,
+      "seed_scores": [
+       0.7578146618140068,
+       0.7721907411897082,
+       0.7831905678239768
+      ],
+      "trainable_params": 11217093,
+      "configuration": "prior=film+subband=dhsr+fusion=sff+pooling=context",
+      "run_ids": [
+       "a42c457b1a5396d37e48fcb1",
+       "c99b48c88dd1e6e1719f12da",
+       "442417748064b52f2b5f87f8",
+       "7cb2a18ea405609fbe78c256",
+       "e1536f381513b400a3078eff",
+       "1103fdf771a4b7670e9d2f69",
+       "67e1b5b2a192f017064b7b65",
+       "037c2bd436d062f281c51bff",
+       "a6fe334330c8689c71e11217"
+      ]
+     },
+     {
+      "id": "separate_prior_stream",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film",
+       "subband": "dhsr",
+       "fusion": "sff",
+       "prior_stream": true
+      },
+      "mean_inner_macro_f1": 0.8511010570552303,
+      "seed_scores": [
+       0.828914418220516,
+       0.8693932590478212,
+       0.854995493897354
+      ],
+      "trainable_params": 11240041,
+      "configuration": "prior=film+subband=dhsr+fusion=sff+prior_stream=True",
+      "run_ids": [
+       "b7231d9266ce0f4d352c0036",
+       "ed552c1e94f0cfccbed2eedb",
+       "fcc21317668642d174be7f02",
+       "12d3895693c87712888302ae",
+       "8a5d662f5804e5f08851bb3f",
+       "aef0e9de347479870c0aa15d",
+       "1b87e2263cdff49881a0732b",
+       "6040fd5e0934ee1d28d7b3b3",
+       "a884727db3f59c0238c9a546"
+      ]
+     }
+    ]
+   }
+  ],
+  "selected_backbone": "densenet-169",
+  "selected_spec": {
+   "prior": "film",
+   "subband": "dhsr",
+   "fusion": "sff",
+   "prior_stream": true
+  }
+ },
+ "outer5": {
+  "stages": [
+   {
+    "stage": "backbone",
+    "selected": "LP_densenet-169",
+    "candidates": [
+     {
+      "id": "LP_vgg-16",
+      "backbone": "vgg-16",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6998427288485369,
+      "seed_scores": [
+       0.6919760967334926,
+       0.7036233901257706,
+       0.7039286996863477
+      ],
+      "trainable_params": 2052,
+      "configuration": "lp",
+      "run_ids": [
+       "38daf2c3dbd0ca29c945137a",
+       "67820f923f9030ab06f3594d",
+       "3c1bdd7f7351f7518efd5461",
+       "12bd2cc605872a4087e28ef4",
+       "e4ce65b9ed9136c5ed3874b9",
+       "97ae141634633db6f5b04409",
+       "bc6c9ab35fdd15a6750ed998",
+       "655b82f122f5a6b51108abcf",
+       "135dd68e24f27e3737a232dd"
+      ]
+     },
+     {
+      "id": "LP_vgg-19",
+      "backbone": "vgg-19",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6362507188868939,
+      "seed_scores": [
+       0.6468479133893401,
+       0.6203526230747004,
+       0.6415516201966411
+      ],
+      "trainable_params": 2052,
+      "configuration": "lp",
+      "run_ids": [
+       "2e7860df6cc43ab0c59aa016",
+       "38690595c3886da3e3e11977",
+       "8285325263b58dd4e7071ab5",
+       "fd653c2727b8c09f3d3b35f2",
+       "c61545407220a1d133b2342e",
+       "23262061458938f623ad3e40",
+       "d96a851107428f8bb3e4369a",
+       "9e60e5951e5c87ff5aece1f3",
+       "156ba865b8e5607ce1219bd6"
+      ]
+     },
+     {
+      "id": "LP_resnet-101",
+      "backbone": "resnet-101",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6965940335403991,
+      "seed_scores": [
+       0.6853888538660514,
+       0.6989323835042113,
+       0.7054608632509345
+      ],
+      "trainable_params": 8196,
+      "configuration": "lp",
+      "run_ids": [
+       "f3371983319ecdcd14289447",
+       "fe7b0dbd15c14e3785b0ea1d",
+       "f96375d90546394b29f0dd69",
+       "a9114c0100196649fb2a4f2c",
+       "2b57926f13a698e80e47829d",
+       "3f6b9299d1965f8ab301e59b",
+       "7950fc03f59a365b6fae8b9f",
+       "5eca9411613a4a2c9e9a7e93",
+       "79af82789bd7423df838e1f5"
+      ]
+     },
+     {
+      "id": "LP_densenet-169",
+      "backbone": "densenet-169",
+      "spec": {},
+      "mean_inner_macro_f1": 0.75055737691993,
+      "seed_scores": [
+       0.7474627962401807,
+       0.7494213266446937,
+       0.7547880078749154
+      ],
+      "trainable_params": 6660,
+      "configuration": "lp",
+      "run_ids": [
+       "987a67d531a35cb44c0270b4",
+       "a546e8da2a3d7125a72eb9f3",
+       "927583ffa570e364adbeed73",
+       "4e0f453eb4a0f75d614a07c5",
+       "eda61df1842b35789a772106",
+       "3416fc7ebafd9219b94ff524",
+       "bf99a429bd426143eb953192",
+       "acbcd43febeec32ddf1e2fe1",
+       "cb729064ca39c91628274fb9"
+      ]
+     },
+     {
+      "id": "LP_densenet-201",
+      "backbone": "densenet-201",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7185805956049753,
+      "seed_scores": [
+       0.7147423557982274,
+       0.7262972634149611,
+       0.7147021676017371
+      ],
+      "trainable_params": 7684,
+      "configuration": "lp",
+      "run_ids": [
+       "b259ac8e8acbdbaaa024c120",
+       "e930f672e5170eb3605d1036",
+       "3dfe6c8f23d4207787ee0b28",
+       "ced063d146687d4751c983f1",
+       "75a8d7b1615c4e4508f57d10",
+       "02fdf7376701c3bce474a87c",
+       "91c2dc70492203346d2282a6",
+       "d3a86a289522336df69a1f69",
+       "b61e201d5a5ae486141eb3f9"
+      ]
+     },
+     {
+      "id": "LP_mobilenet",
+      "backbone": "mobilenet",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7283055009187405,
+      "seed_scores": [
+       0.7313871000706809,
+       0.7276770677643801,
+       0.7258523349211604
+      ],
+      "trainable_params": 5124,
+      "configuration": "lp",
+      "run_ids": [
+       "1f13059b9b3a1b2b1dba63e7",
+       "4240e7ad6767a2cec953648d",
+       "91ada68262f31261d1931a9c",
+       "038ae12082eb2a66dcd02929",
+       "d3d13fe63b814ccacb400024",
+       "d1b1770ab00dd1ca531af640",
+       "9739effa9b89c979b6c457d7",
+       "f34b2776380f029ed62744ba",
+       "252ef9d9bd273b75df298ab4"
+      ]
+     },
+     {
+      "id": "LP_inception-v3",
+      "backbone": "inception-v3",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6981486962482392,
+      "seed_scores": [
+       0.7149240576920335,
+       0.6944233947304919,
+       0.685098636322192
+      ],
+      "trainable_params": 8196,
+      "configuration": "lp",
+      "run_ids": [
+       "307cf565ab44796ae231bc6a",
+       "57ad6767a5754363484fc5b1",
+       "6a5e540fac1c6193def87900",
+       "3e5916bdfc7f4291cdcb1e4c",
+       "b2ebd77d61fdbc3aa1b71ed0",
+       "21eddafd6b794d9a0acd73ba",
+       "86d5a751445dc58159e2f386",
+       "7eb19b13a0d0b480fcfc7bd7",
+       "9d9ee8add3829117292da69b"
+      ]
+     },
+     {
+      "id": "LP_efficient-b7",
+      "backbone": "efficient-b7",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7347896630370125,
+      "seed_scores": [
+       0.7179308058898987,
+       0.7435079782927656,
+       0.7429302049283731
+      ],
+      "trainable_params": 10244,
+      "configuration": "lp",
+      "run_ids": [
+       "64187cf098b7d7feb956ea73",
+       "6c94703dc2b21706497ab602",
+       "d461a4c10b00b95283438d8f",
+       "8d932b960ecf93c6df323ec0",
+       "50c60f4fc568f51a4524a15f",
+       "c287e560355822abb4b692e1",
+       "3a54e7d061c1960f3f57deba",
+       "7c995200a517cfc57c1766b8",
+       "f0cb5ed771cbb6bc2d22866b"
+      ]
+     },
+     {
+      "id": "LP_convnext-small",
+      "backbone": "convnext-small",
+      "spec": {},
+      "mean_inner_macro_f1": 0.6752474968983848,
+      "seed_scores": [
+       0.6752987023101037,
+       0.6744181100747713,
+       0.6760256783102795
+      ],
+      "trainable_params": 3076,
+      "configuration": "lp",
+      "run_ids": [
+       "b0bd33548510ce1c0129bf3f",
+       "8b0852d18b5c550a396a03eb",
+       "976ceecd34951a6587025d6b",
+       "812d4b222429f1dd8c9703d3",
+       "6a98c7ea244030a6ff6eed7c",
+       "61c9781b77ed170577d17c2f",
+       "ce9c30b74cd6a431fc5b8586",
+       "f79493cc25ecc7b51bfa9868",
+       "17979140e53fa47a1284683d"
+      ]
+     },
+     {
+      "id": "LP_convnext-base",
+      "backbone": "convnext-base",
+      "spec": {},
+      "mean_inner_macro_f1": 0.702691246446454,
+      "seed_scores": [
+       0.6931095292018605,
+       0.7065601058036709,
+       0.7084041043338303
+      ],
+      "trainable_params": 4100,
+      "configuration": "lp",
+      "run_ids": [
+       "9564b1f668d7ac83303ea924",
+       "32db843aa5b14b90e8046cff",
+       "88549e8975f9744b3a112782",
+       "035a15b08d1f327439c1edcc",
+       "38ea2855b04d4ceeac19d978",
+       "c6c306f4d3ec9faa2f2ba30b",
+       "5661c49908416016c1ddc19d",
+       "53cf5743339b7ea7d8defb3c",
+       "7db46db290a4ed11be071667"
+      ]
+     },
+     {
+      "id": "LP_convnext-large",
+      "backbone": "convnext-large",
+      "spec": {},
+      "mean_inner_macro_f1": 0.7048199893365581,
+      "seed_scores": [
+       0.6993315324743884,
+       0.7087391657103153,
+       0.7063892698249704
+      ],
+      "trainable_params": 6148,
+      "configuration": "lp",
+      "run_ids": [
+       "0f9061bfd57abfe23918fd28",
+       "d0a0bc74b92cee9546e8348e",
+       "0b1d0ee679327f1814cac8be",
+       "386631d3d4fe6ab538532cc5",
+       "5d84c0b8857de98960e3cabd",
+       "04f1ab7b388c216e7e048651",
+       "79e0220d0029b035b7abe655",
+       "77b4134059ada0161c107030",
+       "6a431472a95e5cd888d08e91"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "prior",
+    "selected": "retain_reference",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {},
+      "mean_inner_macro_f1": 0.75055737691993,
+      "seed_scores": [
+       0.7474627962401807,
+       0.7494213266446937,
+       0.7547880078749154
+      ],
+      "trainable_params": 6660,
+      "configuration": "lp",
+      "run_ids": [
+       "987a67d531a35cb44c0270b4",
+       "a546e8da2a3d7125a72eb9f3",
+       "927583ffa570e364adbeed73",
+       "4e0f453eb4a0f75d614a07c5",
+       "eda61df1842b35789a772106",
+       "3416fc7ebafd9219b94ff524",
+       "bf99a429bd426143eb953192",
+       "acbcd43febeec32ddf1e2fe1",
+       "cb729064ca39c91628274fb9"
+      ]
+     },
+     {
+      "id": "binary_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "binary"
+      },
+      "mean_inner_macro_f1": 0.7143424133068074,
+      "seed_scores": [
+       0.7342396869921415,
+       0.7295709427184307,
+       0.6792166102098499
+      ],
+      "trainable_params": 6660,
+      "configuration": "binary_prior",
+      "run_ids": [
+       "0faf3bdcdd88df6062ba1d22",
+       "50b809989e1fe5279ea6af7a",
+       "4d5034aa0e6494ddabb19817",
+       "49279c1a07e745c7e6c7a625",
+       "1bfd152f2cd1e4b4f5b73267",
+       "25ed51ed355de627302b6370",
+       "cecfa72137330c16385980cb",
+       "83345a20251235f936d740fd",
+       "97ece86fa4d9b906e2e00e95"
+      ]
+     },
+     {
+      "id": "soft_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "soft"
+      },
+      "mean_inner_macro_f1": 0.7168286298663323,
+      "seed_scores": [
+       0.7318309756974315,
+       0.7220571756608629,
+       0.6965977382407023
+      ],
+      "trainable_params": 6660,
+      "configuration": "soft_prior",
+      "run_ids": [
+       "4a2748c78c469845673c8f71",
+       "0437a3cd6752f171a4bdd856",
+       "4a123650a7b6bae33a366c46",
+       "cbd0813d1a9626474c97aaf8",
+       "ce9db1ad010a140458d749b2",
+       "ea3355466cd59966938f317e",
+       "7f9c48e62feed485967c732b",
+       "bc68028048a4da289e167b2a",
+       "bb859d3a42533ed7124df21d"
+      ]
+     },
+     {
+      "id": "residual_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "residual"
+      },
+      "mean_inner_macro_f1": 0.7482300636739163,
+      "seed_scores": [
+       0.748091366121878,
+       0.7518446894353233,
+       0.7447541354645474
+      ],
+      "trainable_params": 6661,
+      "configuration": "hsp",
+      "run_ids": [
+       "6bc45092b9c736d8d116cf30",
+       "f9d202475ee3bd0413868b77",
+       "addc607f75b2c1a1b4ca2da4",
+       "7e86361db17b41635ad6a2e9",
+       "1c4e10e4491b0da28679314d",
+       "50c5f969390243ce3d188e3b",
+       "07218d6c411191f25207092a",
+       "3a0a1642eed907d95b1e9cb1",
+       "a2b6b473f9bd002cf087fb56"
+      ]
+     },
+     {
+      "id": "prior_film",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "film"
+      },
+      "mean_inner_macro_f1": 0.742099852227302,
+      "seed_scores": [
+       0.7294481756438971,
+       0.7375547522652295,
+       0.7592966287727796
+      ],
+      "trainable_params": 116548,
+      "configuration": "prior_film",
+      "run_ids": [
+       "f3a5aae62cf3ac8bb6b3feb2",
+       "18e606f13a7ab281a9c74dcc",
+       "3c4278b411fdce7d84b3ffcb",
+       "2a24a6a16e93e0faa5fd5571",
+       "0405f57437622ec83bf8d261",
+       "df827fe2cee804c69920d91d",
+       "7634c9e5834137a1c32099e5",
+       "3a08656ec2d15a172d229424",
+       "e4643137e6f7108790cab086"
+      ]
+     },
+     {
+      "id": "blob_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "blob_residual"
+      },
+      "mean_inner_macro_f1": 0.7439296759854296,
+      "seed_scores": [
+       0.7416923453931688,
+       0.7432337157863871,
+       0.746862966776733
+      ],
+      "trainable_params": 6661,
+      "configuration": "blob_prior",
+      "run_ids": [
+       "71c507d981bea7e023f8bf68",
+       "1df1164c44fd0fdce570da37",
+       "26789ba99105b21fda0f0ace",
+       "c34a78a8fcc6de7d4c6f1a72",
+       "eb8a327b808b16998d94d41a",
+       "ba198f383014727f30965262",
+       "56627751d9a14507dc0b4135",
+       "d0ff1373ebb0839ff78ce3cc",
+       "88866bd3ac5c673ff985f552"
+      ]
+     },
+     {
+      "id": "ridge_blob_prior",
+      "backbone": "densenet-169",
+      "spec": {
+       "prior": "ridge_blob_residual"
+      },
+      "mean_inner_macro_f1": 0.7431894523360084,
+      "seed_scores": [
+       0.7378757587480766,
+       0.7506639878525998,
+       0.7410286104073491
+      ],
+      "trainable_params": 6662,
+      "configuration": "ridge_blob_prior",
+      "run_ids": [
+       "a065162f12a4dec1560d6f7d",
+       "ce14729f566dafa99c8f3307",
+       "8d9d46e1d1244af6109c2f57",
+       "5113c3fb5c3811061913e06a",
+       "7dd3dc243a848e685ca37e93",
+       "aa7800179c1f52c1d7242d82",
+       "519830645dcab402af2604d7",
+       "63b43d45d45b7b4132d7397b",
+       "0720438e02c69485f211616d"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "subband",
+    "selected": "learned_haar",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {},
+      "mean_inner_macro_f1": 0.75055737691993,
+      "seed_scores": [
+       0.7474627962401807,
+       0.7494213266446937,
+       0.7547880078749154
+      ],
+      "trainable_params": 6660,
+      "configuration": "lp",
+      "run_ids": [
+       "987a67d531a35cb44c0270b4",
+       "a546e8da2a3d7125a72eb9f3",
+       "927583ffa570e364adbeed73",
+       "4e0f453eb4a0f75d614a07c5",
+       "eda61df1842b35789a772106",
+       "3416fc7ebafd9219b94ff524",
+       "bf99a429bd426143eb953192",
+       "acbcd43febeec32ddf1e2fe1",
+       "cb729064ca39c91628274fb9"
+      ]
+     },
+     {
+      "id": "pooling_bands",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "pooling_bands"
+      },
+      "mean_inner_macro_f1": 0.7519413891980667,
+      "seed_scores": [
+       0.734331608084624,
+       0.762907847243945,
+       0.7585847122656312
+      ],
+      "trainable_params": 6660,
+      "configuration": "subband=pooling_bands",
+      "run_ids": [
+       "785199f214ccf645df27149b",
+       "ee4f111c32a68ca4d7e0026f",
+       "d648a40c1f818ef7af3d47c7",
+       "0fafe7e2fb231e3b1a74d9c1",
+       "f00639243ef51683fbfa2f32",
+       "06bae3a8620ae9599ead442a",
+       "ff7569831cb936b5d8487e90",
+       "1577ee00a1701e6fc6c0a017",
+       "feddc737e703f8ee1cfb3e00"
+      ]
+     },
+     {
+      "id": "fixed_haar",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "fixed_haar"
+      },
+      "mean_inner_macro_f1": 0.7516763243905545,
+      "seed_scores": [
+       0.7564584170425799,
+       0.743887553698681,
+       0.7546830024304025
+      ],
+      "trainable_params": 6660,
+      "configuration": "subband=fixed_haar",
+      "run_ids": [
+       "61b0e7e6d4384d821cc79b0a",
+       "0aba4b7131b15ecf8097bc8c",
+       "a2b6e0967a5ba549ec23e3ea",
+       "98b04a0dac7c64ce230265f5",
+       "bb05f9d3c971b30a01d32b72",
+       "85fabfe733ccee5e502a107a",
+       "00d93280c4da8f270681c1c2",
+       "c70a0fcb36e1e720fd4d0c4c",
+       "01e4412482ef8adbe14fa7d4"
+      ]
+     },
+     {
+      "id": "learned_haar",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr"
+      },
+      "mean_inner_macro_f1": 0.7913914816465343,
+      "seed_scores": [
+       0.790238045014088,
+       0.7792648375587863,
+       0.8046715623667287
+      ],
+      "trainable_params": 5564420,
+      "configuration": "subband=dhsr",
+      "run_ids": [
+       "d3e05ae582dc0180b29b71f8",
+       "b95d175400ab4283e6d70c4b",
+       "2d3e300b506e9b91d806b409",
+       "241492cff922e29776a65c60",
+       "99cec7e868390dd536783704",
+       "ad5035c27e9b976d8d393e77",
+       "29d9c52b4ad124059e37bc82",
+       "10ff91189c8d16e1394f27b6",
+       "78b9cea9ddc353006d8400e2"
+      ]
+     },
+     {
+      "id": "learned_pooling",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "learned_pooling"
+      },
+      "mean_inner_macro_f1": 0.7442651161489549,
+      "seed_scores": [
+       0.7495098336774579,
+       0.7397698402441928,
+       0.7435156745252138
+      ],
+      "trainable_params": 23300,
+      "configuration": "subband=learned_pooling",
+      "run_ids": [
+       "704ba00c803c794699d07860",
+       "63d8b45fdcfaad128de1e7ff",
+       "3c43a198a3c946d2e750ed54",
+       "7f39805c061c2455ee0cdf67",
+       "92c104f5347067619cea9331",
+       "dddbc30c754cca9b22db3dbc",
+       "f7767de3db3156ee15a5ad02",
+       "01a5cba668a61c06934bb03d",
+       "3eadf36fe1d75dfea0ad1165"
+      ]
+     },
+     {
+      "id": "no_subband",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "no_subband"
+      },
+      "mean_inner_macro_f1": 0.7472909118079079,
+      "seed_scores": [
+       0.769004746510886,
+       0.7357539216592889,
+       0.7371140672535488
+      ],
+      "trainable_params": 5564420,
+      "configuration": "subband=no_subband",
+      "run_ids": [
+       "f2bfdd89f6adbe13966cd828",
+       "2ff60abdd9266607289cfa24",
+       "b3531b18f3a060a04015ff7c",
+       "84c0f43ed2e73c1f3f60740b",
+       "fc925e771f896829af5510c8",
+       "2f1cd6892f522509d20bce2a",
+       "2103bfd865fea014efaa0fec",
+       "1c6127eb157a7f0519092718",
+       "70edaaab3105020b93192a4c"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "fusion",
+    "selected": "spatial_film",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr"
+      },
+      "mean_inner_macro_f1": 0.7913914816465343,
+      "seed_scores": [
+       0.790238045014088,
+       0.7792648375587863,
+       0.8046715623667287
+      ],
+      "trainable_params": 5564420,
+      "configuration": "subband=dhsr",
+      "run_ids": [
+       "d3e05ae582dc0180b29b71f8",
+       "b95d175400ab4283e6d70c4b",
+       "2d3e300b506e9b91d806b409",
+       "241492cff922e29776a65c60",
+       "99cec7e868390dd536783704",
+       "ad5035c27e9b976d8d393e77",
+       "29d9c52b4ad124059e37bc82",
+       "10ff91189c8d16e1394f27b6",
+       "78b9cea9ddc353006d8400e2"
+      ]
+     },
+     {
+      "id": "softmax_gate",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr",
+       "fusion": "softmax_gate"
+      },
+      "mean_inner_macro_f1": 0.7816453180410012,
+      "seed_scores": [
+       0.7740441424294693,
+       0.7845124969761677,
+       0.7863793147173667
+      ],
+      "trainable_params": 16644996,
+      "configuration": "subband=dhsr+fusion=softmax_gate",
+      "run_ids": [
+       "e5f238929292857589780839",
+       "afc4420bbb28eb2035f04fcb",
+       "e24c4b63dc2b83e4cb2d5709",
+       "747edfbd156d15ed81c6f317",
+       "8fdde271b61ebcbb956055ac",
+       "c4007a51361c7a529cef595a",
+       "16ed3f175de796d4dfede9e0",
+       "7a75e92f0712b0caaebe26f7",
+       "d2183ee83a3c9d30dec51286"
+      ]
+     },
+     {
+      "id": "sigmoid_gate",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr",
+       "fusion": "sigmoid_gate"
+      },
+      "mean_inner_macro_f1": 0.7974983185359651,
+      "seed_scores": [
+       0.7689904287293816,
+       0.8108161263440232,
+       0.8126884005344905
+      ],
+      "trainable_params": 16644996,
+      "configuration": "subband=dhsr+fusion=sigmoid_gate",
+      "run_ids": [
+       "d298f64bdd13e76246b61e66",
+       "4eeff62f610832fd2ee20dd6",
+       "c0c11bbbb4cb3d4a8064f7cf",
+       "94ef79ccff7fb6443812946d",
+       "926973b511e6236ece220529",
+       "f0bface1fc752a7ce48692bd",
+       "bdca3ec009f7b69c36c2923d",
+       "95af51af9875e1929f2f3b7a",
+       "7ad630da0b6257bbb8d4e18f"
+      ]
+     },
+     {
+      "id": "scalar_gate",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr",
+       "fusion": "scalar_gate"
+      },
+      "mean_inner_macro_f1": 0.7609841794269622,
+      "seed_scores": [
+       0.7436204542346136,
+       0.7670964149571706,
+       0.7722356690891022
+      ],
+      "trainable_params": 11107206,
+      "configuration": "subband=dhsr+fusion=scalar_gate",
+      "run_ids": [
+       "9c08046fb6c1db535cf43c54",
+       "e21a03b70e6ed5fab9480583",
+       "fdebe9c9f84118b5d00d74f8",
+       "a47eb4d9710eb06b6aa8f4f5",
+       "d2d4c6280753ae945173f1ca",
+       "3d5d2065257f87dd46e6fea4",
+       "288405c4b6944daec9e03c16",
+       "51ce69224ca29ee8dd6738db",
+       "22b7dbf2549cb09d3727929b"
+      ]
+     },
+     {
+      "id": "spatial_two_way",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr",
+       "fusion": "two_way"
+      },
+      "mean_inner_macro_f1": 0.8159459883545096,
+      "seed_scores": [
+       0.8241122492543416,
+       0.817959136784569,
+       0.8057665790246183
+      ],
+      "trainable_params": 5567750,
+      "configuration": "subband=dhsr+fusion=two_way",
+      "run_ids": [
+       "e3fad88b7ebcca5577f82bc8",
+       "7ae28b6ed150bb457f9bac7f",
+       "b56b1a8b6391101d432e3949",
+       "90635928b707831421b55b7d",
+       "bee6249fdc115d3e1cdd9065",
+       "ebcd46ec3d954f4397ead218",
+       "e1f52cc39bc9c54785d2ce7a",
+       "e38c82c9b5ddb7e38cbb9e3d",
+       "247d8594dc709fc518d4fc58"
+      ]
+     },
+     {
+      "id": "spatial_film",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr",
+       "fusion": "sff"
+      },
+      "mean_inner_macro_f1": 0.8198516123947189,
+      "seed_scores": [
+       0.7956821048627649,
+       0.8449586700490967,
+       0.8189140622722954
+      ],
+      "trainable_params": 11105540,
+      "configuration": "wavefilm_net_without_hsp",
+      "run_ids": [
+       "97a990b930cdeaab58c67540",
+       "77ee7c5c5377ff0d090b685e",
+       "ab0a69e4fef885a42581a145",
+       "51a906abfef75e3f88293345",
+       "d2bb0aca2f0276d9b660bdc6",
+       "f3d8166b6c8aa798ecf8903e",
+       "87e38963266de4bdb6d6ecb9",
+       "08d4d1cbc280ed6353a99ca4",
+       "0b9840724f2f96a647022643"
+      ]
+     }
+    ]
+   },
+   {
+    "stage": "head",
+    "selected": "separate_prior_stream",
+    "candidates": [
+     {
+      "id": "retain_reference",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr",
+       "fusion": "sff"
+      },
+      "mean_inner_macro_f1": 0.8198516123947189,
+      "seed_scores": [
+       0.7956821048627649,
+       0.8449586700490967,
+       0.8189140622722954
+      ],
+      "trainable_params": 11105540,
+      "configuration": "wavefilm_net_without_hsp",
+      "run_ids": [
+       "97a990b930cdeaab58c67540",
+       "77ee7c5c5377ff0d090b685e",
+       "ab0a69e4fef885a42581a145",
+       "51a906abfef75e3f88293345",
+       "d2bb0aca2f0276d9b660bdc6",
+       "f3d8166b6c8aa798ecf8903e",
+       "87e38963266de4bdb6d6ecb9",
+       "08d4d1cbc280ed6353a99ca4",
+       "0b9840724f2f96a647022643"
+      ]
+     },
+     {
+      "id": "context_pool",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr",
+       "fusion": "sff",
+       "pooling": "context"
+      },
+      "mean_inner_macro_f1": 0.7530492793675289,
+      "seed_scores": [
+       0.7782284647570283,
+       0.7468329159875353,
+       0.7340864573580228
+      ],
+      "trainable_params": 11107205,
+      "configuration": "subband=dhsr+fusion=sff+pooling=context",
+      "run_ids": [
+       "4cbb3be5716d9f677a4106e2",
+       "4802479abec0b1fd6d0db182",
+       "53e82d4778c3d0c0e6587db8",
+       "4b7c6b3a9f58b303d55a5a7f",
+       "0f6300da11ec0e7175cad317",
+       "cd87ef549e3ceec37e1dc767",
+       "1fd069a43131abea61ee73ff",
+       "63b74a3636e26ee568c2d34a",
+       "951a918e3a6a1e66bd35a3a7"
+      ]
+     },
+     {
+      "id": "separate_prior_stream",
+      "backbone": "densenet-169",
+      "spec": {
+       "subband": "dhsr",
+       "fusion": "sff",
+       "prior_stream": true
+      },
+      "mean_inner_macro_f1": 0.8296501551260497,
+      "seed_scores": [
+       0.8457019529285954,
+       0.8283992387172141,
+       0.8148492737323395
+      ],
+      "trainable_params": 11130153,
+      "configuration": "subband=dhsr+fusion=sff+prior_stream=True",
+      "run_ids": [
+       "33d11dd15521fb7e11989a17",
+       "f0ba28bec9f83625986a8804",
+       "72de2a916daf93f1ec9ef9f0",
+       "f8bc25bce7db66fcc2873186",
+       "f57af8f8c13f9502bdcaf00b",
+       "54d925567125047502a91a88",
+       "07b69b1fa6524f16f6a85cd5",
+       "713b05397b8fd5a25f6ba49c",
+       "5e90f2dac0c272c3cf98966e"
+      ]
+     }
+    ]
+   }
+  ],
+  "selected_backbone": "densenet-169",
+  "selected_spec": {
+   "subband": "dhsr",
+   "fusion": "sff",
+   "prior_stream": true
+  }
+ }
+}

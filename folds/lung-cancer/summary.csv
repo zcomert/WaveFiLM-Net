@@ -1,0 +1,6 @@
+dataset,fold,n_train,n_valid,n_test,test_LUAD,test_LCLC,test_LUSC,test_Benign,test_Normal
+lung-cancer,1,1052,175,308,68,38,52,24,126
+lung-cancer,2,1052,175,308,67,38,52,24,127
+lung-cancer,3,1052,176,307,68,37,52,24,126
+lung-cancer,4,1053,176,306,67,37,52,24,126
+lung-cancer,5,1053,176,306,67,37,52,24,126

@@ -1,0 +1,6 @@
+dataset,fold,n_train,n_valid,n_test,test_Benign,test_Malignant,test_Normal
+iq-othnccd,1,752,125,220,24,112,84
+iq-othnccd,2,751,126,220,24,113,83
+iq-othnccd,3,753,125,219,24,112,83
+iq-othnccd,4,752,126,219,24,112,83
+iq-othnccd,5,752,126,219,24,112,83

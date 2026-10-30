@@ -1,0 +1,6 @@
+dataset,fold,n_train,n_valid,n_test,test_LCLC,test_LUAD,test_LUSC,test_Normal
+harmonized-dataset,1,858,143,251,38,67,52,94
+harmonized-dataset,2,859,143,250,38,67,51,94
+harmonized-dataset,3,859,143,250,37,67,51,95
+harmonized-dataset,4,858,144,250,37,68,51,94
+harmonized-dataset,5,858,143,251,37,68,52,94

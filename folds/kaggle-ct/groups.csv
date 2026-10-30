@@ -1,0 +1,813 @@
+relpath,label,phash,group
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000005 (3).png,LUAD,d94606bb1acc7933,0
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000005 (9).png,LUAD,d4f846414bce6c8f,1
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000008 (10).png,LUAD,c46f124c3b976c9c,2
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000009 (3).png,LUAD,9812466f2fdc2eb1,3
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000009 (7).png,LUAD,c51e12eb4b7438e3,4
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000013 (4).png,LUAD,91b2476556477a3a,5
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000013 (8).png,LUAD,d812176d6bec3e24,6
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000014 (7).png,LUAD,c11e1e696ac97b34,7
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000015 (10).png,LUAD,9807476e5e387a69,8
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000015 (4).png,LUAD,91b047653b96785b,9
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000015 (9).png,LUAD,81ea5e456a57719a,10
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000016 (9).png,LUAD,d97a43614a454bcf,11
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000017 (6).png,LUAD,d4bd42923b5b2c4e,12
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000017 (8).png,LUAD,d44f12283fe72e34,13
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000018 (5).png,LUAD,d01b1724c7cf5a4b,14
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000019 (5).png,LUAD,cd12066f1a6d3b39,15
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000020 (10).png,LUAD,d44f026c3b672ccd,16
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000020 (5).png,LUAD,d15b0e2e6f6c3831,17
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000020 (6).png,LUAD,d5ac46911b9a3c9b,18
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000021 (3).png,LUAD,9913067f0e783b65,19
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000021 (4).png,LUAD,94b343616f16395b,20
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000021 (5).png,LUAD,c1fe12c078a76e87,21
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000021 (6).png,LUAD,990617371e983b73,22
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000021 (8).png,LUAD,dc1302be5ecc3ad1,23
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000022 (10).png,LUAD,d423033d3f643cf1,24
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000022 (2).png,LUAD,d4e342e44fc67923,25
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000022 (8).png,LUAD,d40b067e5bcc6971,26
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000022 (9).png,LUAD,d47b43244f2d3d34,27
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000022.png,LUAD,d4bf43443b622ccb,28
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000023 (10).png,LUAD,991347675e563a46,29
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000023 (5).png,LUAD,c55a026d3be479d2,30
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000023 (7).png,LUAD,915a16ab3ba47971,31
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000023 (9).png,LUAD,d4f847414b466ce7,32
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000024 (10).png,LUAD,8927067e5e693a65,33
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000024 (6).png,LUAD,9912466d7e383b71,34
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000024 (7).png,LUAD,c11e16eb4b3c3966,35
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000024.png,LUAD,d12746392b6c3976,36
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000025 (6).png,LUAD,d4bd42902f522dcf,37
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000026 (10).png,LUAD,9813476f5a1c3a79,38
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000026 (3).png,LUAD,dd0a427f0f7c1b30,39
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000027 (4).png,LUAD,943243656f1e387b,40
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000027 (6).png,LUAD,d116156b7e793a30,41
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000029 (4).png,LUAD,94b342616f063d7b,20
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000029 (5).png,LUAD,c91a076f1a6e1a79,42
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000029 (9).png,LUAD,d97a47604e0d2f2d,43
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000030 (4).png,LUAD,90b247617b16787b,44
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000031 (3).png,LUAD,816e06931acf7b96,45
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000032 (8).png,LUAD,c957063a7b6c64e1,46
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000033 (9).png,LUAD,dcfb42644b864f2c,47
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000034 (6).png,LUAD,d13e46343b726c66,48
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000035 (4).png,LUAD,d4b342743b026dcf,49
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000035 (5).png,LUAD,dd1a066f3a6d3921,50
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000035 (6).png,LUAD,9926063b5e787963,51
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000035 (8).png,LUAD,c44f02bc3b996cf4,52
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000036 (6).png,LUAD,81bd56951ad36c4e,53
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000036 (7).png,LUAD,c11e16ab9bdc78c2,54
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000040 (10).png,LUAD,9892456f47c63e47,55
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000040 (3).png,LUAD,9907073a1ef93b61,19
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000040 (5).png,LUAD,c51a02e71bcf1b99,56
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000041 (2).png,LUAD,d563466c4b743b26,57
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000041 (4).png,LUAD,9cb343614f463f13,58
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000041 (7).png,LUAD,c11e16eb4b1c39e6,35
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000041 (8).png,LUAD,d40702bf1bcc6cf1,59
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000042 (10).png,LUAD,98b1456dc754dec4,60
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000044 (10).png,LUAD,8447167f3a6c6c65,61
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000044 (9).png,LUAD,c17a56654b2c2f35,62
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000046 (5).png,LUAD,cd1a026f1a6d3b74,15
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000048 (8).png,LUAD,9813177f4e3c1a69,63
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000048.png,LUAD,d46142f44fcc1bcd,64
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000049 (5).png,LUAD,d44b03243b272fb7,65
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000049 (9).png,LUAD,c1fb56244b0c2f3d,66
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000050 (3).png,LUAD,9912476f0f7c2e38,67
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000050 (5).png,LUAD,d91a02e51ac71e9f,68
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000050 (7).png,LUAD,c51e166b4e747163,69
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000050 (8).png,LUAD,8d17173a5a687971,70
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000051 (3).png,LUAD,991247ef4ecc1e94,71
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000051 (4).png,LUAD,9c32436d1f343b3a,72
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000052 (10).png,LUAD,98b0c565d7c44ec7,73
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000054 (5).png,LUAD,c91a1768c3ce1eb9,74
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000054 (6).png,LUAD,d13e0e306b363d3a,75
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000054 (7).png,LUAD,c91c16ebcf8439ca,76
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000054.png,LUAD,d47b42644b5e0b7c,77
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000055 (2).png,LUAD,d5b342644fc67c23,78
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000056 (7).png,LUAD,c90e16eb4f3c38e4,35
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000057 (2).png,LUAD,91f106c47bc47877,79
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000057.png,LUAD,d4bbc2541b746cd4,80
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000058 (4).png,LUAD,94b343651b343f3a,81
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000058 (5).png,LUAD,d45b12283ba72db5,82
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000059 (7).png,LUAD,d91e066bce9c1ec4,83
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000061.png,LUAD,d463423e4f7c3964,84
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000063 (3).png,LUAD,814e163b3a6d7a66,85
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000063 (5).png,LUAD,c95606ab3aad6d34,86
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000063 (7).png,LUAD,915e067979e46593,87
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000065 (3).png,LUAD,9907067e1e793b61,19
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000065 (8).png,LUAD,d40b023f5b6c7971,88
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000065 (9).png,LUAD,d4f847414b4e6c37,32
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000066 (10).png,LUAD,814f16693be56cd1,89
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000066 (9).png,LUAD,81f85721dac7499e,90
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000067 (10).png,LUAD,8913076e5e783b65,91
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000067.png,LUAD,d0b542547b666de2,92
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000068 (10).png,LUAD,9812476f524c7e79,93
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000068 (3).png,LUAD,9907067e0e793b65,19
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000068 (9).png,LUAD,d47a47216f243d33,94
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000069 (6).png,LUAD,d12746331a9c397b,95
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000071 (3).png,LUAD,9947073a1ef93a61,19
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000072 (10).png,LUAD,d0921065c7cf3ec7,96
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000074 (5).png,LUAD,c456062b1b2d7d67,97
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000075 (5).png,LUAD,c91206e73ace7a39,98
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000077 (6).png,LUAD,d52e42319b9c0f9b,99
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000077 (9).png,LUAD,d47a43214f457f26,100
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000078 (6).png,LUAD,9907163e5e393b61,19
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000079 (6).png,LUAD,9916476f5e383a70,101
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000080 (10).png,LUAD,d507063f1bcc7863,102
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000080 (6).png,LUAD,d42f42390f7c3971,103
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000081 (2).png,LUAD,91b346e45ac67947,104
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000083 (3).png,LUAD,9816476b477c3e31,105
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000083 (6).png,LUAD,d12e46311adc697b,106
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000084 (2).png,LUAD,91f106843bc67cb7,107
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000084 (3).png,LUAD,9907073e9ef93a21,19
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000084 (7).png,LUAD,9916476b663c33e1,108
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000084.png,LUAD,d027427d2b6c3973,109
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000085 (10).png,LUAD,d50702bf1bcc3873,102
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000085 (4).png,LUAD,90f247613e16794f,110
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000085 (7).png,LUAD,991e466b4eb43a65,111
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000086 (3).png,LUAD,994607ba1ae97965,112
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000086 (8).png,LUAD,d40382bf9bcc4cdc,113
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000087 (4).png,LUAD,94b243617f16393b,20
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000087 (8).png,LUAD,dc13126f4b7c3e24,114
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000089 (8).png,LUAD,9813576f4e6c3a70,115
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000090 (2).png,LUAD,916346ec7b4e3923,116
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000091 (3).png,LUAD,9912466f4edc1e9c,71
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000091 (7).png,LUAD,d916466bc63c33f0,117
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000091.png,LUAD,d4b343641b4e3973,118
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000092 (10).png,LUAD,d533027f4b6c3964,119
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000093 (10).png,LUAD,d563023f1bcc6c63,120
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000093 (4).png,LUAD,98b247614f963f13,121
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000093 (6).png,LUAD,dd070237cf1c3b38,122
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000095 (6).png,LUAD,d59612694f3c3b34,123
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000095.png,LUAD,d46342d50fce19cb,124
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000096 (7).png,LUAD,915e162b3ba46d71,31
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000097 (10).png,LUAD,d44f03c63bc32c76,125
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000097 (2).png,LUAD,91e116853bc76c97,126
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000097 (3).png,LUAD,d112466de36c3f31,127
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000098 (5).png,LUAD,c15e16aa3b8a6d66,128
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000098 (8).png,LUAD,815f16be1b896c71,129
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000099 (7).png,LUAD,c11e16ebce3c3a64,35
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000100 (10).png,LUAD,dc9242656bc62fc6,130
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000101 (7).png,LUAD,d50a06af3bd56c70,131
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000102 (2).png,LUAD,d46302643b657dd3,132
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000102 (3).png,LUAD,d5121e3d6b4c6b13,133
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000102 (7).png,LUAD,c11616696acc7b75,134
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000102.png,LUAD,d4b342641b4e3f33,118
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000103 (9).png,LUAD,d47a43614f4d3d26,100
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000104 (10).png,LUAD,d44b0a376f446f45,135
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000104 (4).png,LUAD,94b343614f063d7b,20
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000105 (3).png,LUAD,9812476f4e7c5e38,136
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000105 (4).png,LUAD,d0b343603b167ccf,137
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000105.png,LUAD,d43342641b6e3d73,118
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000106 (10).png,LUAD,d892426f4b463e67,138
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000106 (4).png,LUAD,907247613e3479cf,110
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000106 (8).png,LUAD,9413423f7b6c3b38,139
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000107 (9).png,LUAD,c5f847014acf6d4e,140
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000118 (4).png,LUAD,c90e166b4f3c3b64,35
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000118 (6).png,LUAD,9c12436f636c6f34,141
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000119 (10).png,LUAD,94b443615bc66cdb,142
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000119 (4).png,LUAD,c11e16eb4f3c3964,35
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000119 (5).png,LUAD,dd03023f4f3c3b70,143
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000119 (6).png,LUAD,d44a138c2e873bcf,144
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000121 (10).png,LUAD,d13e0661571c3bba,145
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000121 (9).png,LUAD,d5030a3d6b4c2bdb,146
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000121.png,LUAD,d1b542d41bc61ccf,147
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000122.png,LUAD,dc3b426d0b6c2b39,148
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad1.png,LUAD,b92506b31f947d25,149
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad10.png,LUAD,913947e51acc299f,150
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad11.png,LUAD,c1eb46c47bc36c26,151
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad12.png,LUAD,fd73c46a43cc0b61,152
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad13.png,LUAD,9977043157943bb3,153
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad14.png,LUAD,916357793a94c596,154
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad15.png,LUAD,c1fe86685b416c67,155
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad16.png,LUAD,9933543b5e3869e4,156
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad17.png,LUAD,b925063b1f747962,157
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad18.png,LUAD,f973c472c2cc1369,158
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad19.png,LUAD,fb720e81b91ee072,159
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad2.png,LUAD,fc6bc0b413c33cb1,160
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad20.png,LUAD,9967057e1e683b31,161
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad21.png,LUAD,9933543b5e3869e4,156
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad22.png,LUAD,9907077e9ec83a33,162
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad3.png,LUAD,913947e51acc299f,150
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad4.png,LUAD,8986177a1e793a69,163
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad5.png,LUAD,9a12c46f428ccfde,164
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad6.png,LUAD,81f916847ad37995,165
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad7.png,LUAD,b97796617e047922,166
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad8.png,LUAD,81e2177b3e71382d,167
+train/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/ad9.png,LUAD,c93114e61b676f45,168
+train/normal/10 (2) - Copy.png,Normal,d10757396a386dd4,169
+train/normal/10 (2).png,Normal,d10757396a386dd4,169
+train/normal/10 - Copy (2) - Copy.png,Normal,d107533b6a386dd4,169
+train/normal/10 - Copy (2).png,Normal,d107533b6a386dd4,169
+train/normal/10 - Copy (3).png,Normal,d107533b6a386dd4,169
+train/normal/10 - Copy - Copy.png,Normal,d107533b6a386dd4,169
+train/normal/10 - Copy.png,Normal,d107533b6a386dd4,169
+train/normal/10.png,Normal,d107533b6a386dd4,169
+train/normal/11 (2) - Copy.png,Normal,9b12456d47a67e92,170
+train/normal/11 (2).png,Normal,9b12456d47a67e92,170
+train/normal/11 - Copy (2) - Copy.png,Normal,9b12c56d47863e96,170
+train/normal/11 - Copy (2).png,Normal,9b12c56d47863e96,170
+train/normal/11 - Copy (3).png,Normal,9b12456d47a67e92,170
+train/normal/11 - Copy - Copy.png,Normal,9b12c56d47863e96,170
+train/normal/11 - Copy.png,Normal,9b12c56d47863e96,170
+train/normal/11.png,Normal,9b12456d47a67e92,170
+train/normal/12 (2) - Copy.png,Normal,9b13c46d439e2e96,170
+train/normal/12 (2).png,Normal,9b13c46d439e2e96,170
+train/normal/12 - Copy (2) - Copy.png,Normal,9b12846947de5e96,171
+train/normal/12 - Copy (2).png,Normal,9b12846947de5e96,171
+train/normal/12 - Copy (3).png,Normal,9b12c46d479e2e96,170
+train/normal/12 - Copy - Copy.png,Normal,9b12c46d439e3e96,170
+train/normal/12 - Copy.png,Normal,9b12c46d439e3e96,170
+train/normal/12.png,Normal,9b12c46d479e2e96,170
+train/normal/13 (2) - Copy.png,Normal,9b93e467c546d20e,172
+train/normal/13 (2).png,Normal,9b93e467c546d20e,172
+train/normal/13 - Copy (2) - Copy.png,Normal,db86a0078557877e,173
+train/normal/13 - Copy (2).png,Normal,db86a0078557877e,173
+train/normal/13 - Copy (3).png,Normal,99134467c67e536c,174
+train/normal/13 - Copy - Copy.png,Normal,99134467c66e537c,174
+train/normal/13 - Copy.png,Normal,99134467c66e537c,174
+train/normal/13.png,Normal,99134467c67e536c,174
+train/normal/16 (2) - Copy.png,Normal,d103533f6a386db4,169
+train/normal/16 (2).png,Normal,d103533f6a386db4,169
+train/normal/16 - Copy (2) - Copy.png,Normal,bd71d113523a723a,175
+train/normal/16 - Copy (2).png,Normal,bd71d113523a723a,175
+train/normal/16 - Copy (3).png,Normal,d103523f6b386db4,169
+train/normal/16 - Copy - Copy.png,Normal,d103523f6b386db4,169
+train/normal/16 - Copy.png,Normal,d103523f6b386db4,169
+train/normal/16.png,Normal,d103523f6b386db4,169
+train/normal/17 (2) - Copy.png,Normal,9892c56567d4cec6,176
+train/normal/17 (2).png,Normal,9892c56567d4cec6,176
+train/normal/17 - Copy (2) - Copy.png,Normal,9a92c463d1dcc66e,177
+train/normal/17 - Copy (2).png,Normal,9a92c463d1dcc66e,177
+train/normal/17 - Copy (3).png,Normal,9892c56567d4cec6,176
+train/normal/17 - Copy - Copy.png,Normal,9892c56567d4cec6,176
+train/normal/17 - Copy.png,Normal,9892c56567d4cec6,176
+train/normal/17.png,Normal,9892c56567d4cec6,176
+train/normal/18 (2) - Copy.png,Normal,9a12c56d47c65e96,170
+train/normal/18 (2).png,Normal,9a12c56d47c65e96,170
+train/normal/18 - Copy (2) - Copy.png,Normal,9a12c56d47c65e96,170
+train/normal/18 - Copy (2).png,Normal,9a12c56d47c65e96,170
+train/normal/18 - Copy (3).png,Normal,9a12c56d47c65e96,170
+train/normal/18 - Copy - Copy.png,Normal,9a12c56d47c65e96,170
+train/normal/18 - Copy.png,Normal,9a12c56d47c65e96,170
+train/normal/18.png,Normal,9a12c56d47c65e96,170
+train/normal/19 (2) - Copy.png,Normal,9dbbc0e443c41fb1,178
+train/normal/19 (2).png,Normal,9dbbc0e443c41fb1,178
+train/normal/19 - Copy (2) - Copy.png,Normal,9a32e467c6ce92cc,179
+train/normal/19 - Copy (2).png,Normal,9a32e467c6ce92cc,179
+train/normal/19 - Copy (3).png,Normal,9dbbc0e443c41fb1,178
+train/normal/19 - Copy - Copy.png,Normal,9dbbc0e443c41fb1,178
+train/normal/19 - Copy.png,Normal,9dbbc0e443c41fb1,178
+train/normal/19.png,Normal,9dbbc0e443c41fb1,178
+train/normal/2 (2) - Copy.png,Normal,9933466d0f923d93,180
+train/normal/2 (2).png,Normal,9933466d0f923d93,180
+train/normal/2 - Copy (2) - Copy.png,Normal,993766691ad06dc6,181
+train/normal/2 - Copy (2).png,Normal,993766691ad06dc6,181
+train/normal/2 - Copy (3).png,Normal,993766691ad06dc6,181
+train/normal/2 - Copy - Copy.png,Normal,993766691ad06dc6,181
+train/normal/2 - Copy.png,Normal,993766691ad06dc6,181
+train/normal/2.png,Normal,993766691ad06dc6,181
+train/normal/20 (2) - Copy.png,Normal,dd9ac06143cccb67,182
+train/normal/20 (2).png,Normal,dd9ac06143cccb67,182
+train/normal/20 - Copy (2) - Copy.png,Normal,dd9ac06143cccbe6,182
+train/normal/20 - Copy (2).png,Normal,dd9ac06143cccbe6,182
+train/normal/20 - Copy (3).png,Normal,dd9ac06143cccb67,182
+train/normal/20 - Copy - Copy.png,Normal,dd9ac06143cccb67,182
+train/normal/20 - Copy.png,Normal,dd9ac06143cccb67,182
+train/normal/20.png,Normal,dd9ac06143cccb67,182
+train/normal/21 - Copy (2) - Copy.png,Normal,9913446d47967e96,170
+train/normal/21 - Copy (2).png,Normal,9913446d47967e96,170
+train/normal/21 - Copy - Copy.png,Normal,9913446d47967e96,170
+train/normal/21 - Copy.png,Normal,9913446d47967e96,170
+train/normal/3 (2) - Copy.png,Normal,915a466d3fbc30b1,183
+train/normal/3 (2).png,Normal,915a466d3fbc30b1,183
+train/normal/3 - Copy (2) - Copy.png,Normal,911a466d3fbc30f1,183
+train/normal/3 - Copy (2).png,Normal,911a466d3fbc30f1,183
+train/normal/3 - Copy (3).png,Normal,915a466d3fbc30b1,183
+train/normal/3 - Copy - Copy.png,Normal,911a466d3fbc30f1,183
+train/normal/3 - Copy.png,Normal,911a466d3fbc30f1,183
+train/normal/3.png,Normal,915a466d3fbc30b1,183
+train/normal/4 (2) - Copy.png,Normal,9b13c46d47962e96,170
+train/normal/4 (2).png,Normal,9b13c46d47962e96,170
+train/normal/4 - Copy (2) - Copy.png,Normal,9b12c56d47967a86,170
+train/normal/4 - Copy (2).png,Normal,9b12c56d47967a86,170
+train/normal/4 - Copy (3).png,Normal,9b13c46d47962e96,170
+train/normal/4 - Copy - Copy.png,Normal,9b12c56d47967a86,170
+train/normal/4 - Copy.png,Normal,9b12c56d47967a86,170
+train/normal/4.png,Normal,9b13c46d47962e96,170
+train/normal/5 (2) - Copy.png,Normal,dc4e07715a8c7876,184
+train/normal/5 (2).png,Normal,dc4e07715a8c7876,184
+train/normal/5 - Copy (2) - Copy.png,Normal,dc4e07715a8c7876,184
+train/normal/5 - Copy (2).png,Normal,dc4e07715a8c7876,184
+train/normal/5 - Copy (3).png,Normal,dc4e07715a8c7876,184
+train/normal/5 - Copy - Copy.png,Normal,dc4e07715a8c7876,184
+train/normal/5 - Copy.png,Normal,dc4e07715a8c7876,184
+train/normal/5.png,Normal,dc4e07715a8c7876,184
+train/normal/6 (2) - Copy.png,Normal,91934e666d993ca6,185
+train/normal/6 (2).png,Normal,91934e666d993ca6,185
+train/normal/6 - Copy (2) - Copy.png,Normal,9993466563d4cec6,186
+train/normal/6 - Copy (2).png,Normal,9993466563d4cec6,186
+train/normal/6 - Copy (3).png,Normal,91934e666d993ca6,185
+train/normal/6 - Copy - Copy.png,Normal,9993466563d4cec6,186
+train/normal/6 - Copy.png,Normal,9993466563d4cec6,186
+train/normal/6.png,Normal,91934e666d993ca6,185
+train/normal/7 (2) - Copy.png,Normal,d13b06746f983c1b,187
+train/normal/7 (2).png,Normal,d13b06746f983c1b,187
+train/normal/7 - Copy (2) - Copy.png,Normal,9913056f579c5e92,188
+train/normal/7 - Copy (2).png,Normal,9913056f579c5e92,188
+train/normal/7 - Copy (3).png,Normal,d13b06746f983c1b,187
+train/normal/7 - Copy - Copy.png,Normal,9913056f579c5e92,188
+train/normal/7 - Copy.png,Normal,9913056f579c5e92,188
+train/normal/7.png,Normal,d13b06746f983c1b,187
+train/normal/8 (2) - Copy.png,Normal,9812c569c7cec6ae,189
+train/normal/8 (2).png,Normal,9812c569c7cec6ae,189
+train/normal/8 - Copy (2) - Copy.png,Normal,9912c569c3cec6ae,189
+train/normal/8 - Copy (2).png,Normal,9912c569c3cec6ae,189
+train/normal/8 - Copy (3).png,Normal,9812c569c7cec6ae,189
+train/normal/8 - Copy - Copy.png,Normal,9912c569c3cec6ae,189
+train/normal/8 - Copy.png,Normal,9912c569c3cec6ae,189
+train/normal/8.png,Normal,9812c569c7cec6ae,189
+train/normal/n6 (2) - Copy.jpg,Normal,993406bb7bc4ec43,190
+train/normal/n6 (2).jpg,Normal,993406bb7bc4ec43,190
+train/normal/n6 - Copy.jpg,Normal,993406bb7bc4ec43,190
+train/normal/n6.jpg,Normal,993406bb7bc4ec43,190
+train/normal/n7 (2) - Copy.png,Normal,9c43d23b9bbc2cb0,191
+train/normal/n7 (2).png,Normal,9c43d23b9bbc2cb0,191
+train/normal/n7 - Copy.png,Normal,9c43d23b9bbc2cb0,191
+train/normal/n7.png,Normal,9c43d23b9bbc2cb0,191
+train/normal/n8 (2) - Copy.jpg,Normal,91934e666d993ca6,185
+train/normal/n8 (2).jpg,Normal,91934e666d993ca6,185
+train/normal/n8 - Copy.jpg,Normal,91934e666d993ca6,185
+train/normal/n8.jpg,Normal,91934e666d993ca6,185
+train/normal/n9 (2) - Copy.jpg,Normal,d9e946c47a126d39,192
+train/normal/n9 (2).jpg,Normal,d9e946c47a126d39,192
+train/normal/n9 - Copy.jpg,Normal,d9e946c47a126d39,192
+train/normal/n9.jpg,Normal,d9e946c47a126d39,192
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000002 (4).png,LUSC,995046206fce6fc7,193
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000002 (6).png,LUSC,dca342650b662bf3,194
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000003.png,LUSC,854e06397bf86ce2,195
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000004 (4).png,LUSC,946243c44bcf6ce7,196
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000004 (5).png,LUSC,d9f142446bc668cf,197
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000004 (7).png,LUSC,997247656e6c382e,198
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000006 (4).png,LUSC,9d62422b6fcc2d65,199
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000006.png,LUSC,d55b02292f293b8f,200
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000007 (4).png,LUSC,9952456f6b2c6f30,201
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000007.png,LUSC,dd0e46995bcc6c91,202
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000008 (3).png,LUSC,d13d46b60e9e199a,203
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000009 (2).png,LUSC,946b07693bcc6ce1,204
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000010 (6).png,LUSC,d4fb46646bc22c8b,205
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000013 (6).png,LUSC,817346685a657ba7,206
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000015 (5).png,LUSC,d57a46604b666b27,207
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000015 (7).png,LUSC,d17a06293f353995,208
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000016 (3).png,LUSC,993b47b70e9c3852,209
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000017 (4).png,LUSC,90571d6a6f287335,210
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000018 (6).png,LUSC,c963466c4b2c3ba7,211
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000024 (5).png,LUSC,98b247654e466e6e,212
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000024 (7).png,LUSC,9173476d3e3c3831,213
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000027 (2).png,LUSC,d40b426d6f343db4,214
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000028 (4).png,LUSC,9d62422b4bcc6f65,199
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000028 (5).png,LUSC,d47206657b27389b,215
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000028 (7).png,LUSC,91f056c47b466c7a,216
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000029 (4).png,LUSC,9d63422b6f3c3934,217
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000030 (2).png,LUSC,9c52422d4bc66fad,218
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000030 (5).png,LUSC,99f247254e4e386e,219
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000030 (7).png,LUSC,d5f042246f4e3967,220
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000032.png,LUSC,95c3423c2b6c3fb1,221
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000033.png,LUSC,dd0e423b5bec6930,222
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000035 (5).png,LUSC,d45f0a606b4d2f65,223
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000035.png,LUSC,dd0e023b5b7c6c31,222
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000036 (4).png,LUSC,845b476c3f3c3391,224
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000037 (2).png,LUSC,9552023d4bc65fe5,225
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000038 (2).png,LUSC,9c1a436d6fb43cb0,226
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000038 (5).png,LUSC,917246297e2539b7,227
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000038 (7).png,LUSC,d57242257f243937,228
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000041 (4).png,LUSC,9d52422f6f2c6e2c,229
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000043 (3).png,LUSC,9c16437b3e6c6b30,230
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000043.png,LUSC,8906573a5e697965,231
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000044 (2).png,LUSC,905b476e4eec38a5,232
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000046 (4).png,LUSC,9d52422f6f1c6f30,233
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000046 (5).png,LUSC,d47046257b26393f,234
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000046 (6).png,LUSC,c06a46653b8f2f39,235
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000046 (7).png,LUSC,d47242647b26393f,234
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000048 (5).png,LUSC,99f047454ece6a4e,236
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000048 (7).png,LUSC,997247656e6c3827,198
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000048.png,LUSC,d5df06803e8379cc,237
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000049 (3).png,LUSC,9807457f5e387a61,8
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000050 (2).png,LUSC,9c1a436d4fac6e85,238
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000050 (6).png,LUSC,c46a46643b973d93,239
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000051 (3).png,LUSC,9516146be67c6b34,240
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000052 (4).png,LUSC,d462422d4fec6d36,241
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000053 (6).png,LUSC,c163466c3b313b97,242
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000053.png,LUSC,981647696fe43f30,243
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000054 (3).png,LUSC,81ee56117b476cc6,244
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000054.png,LUSC,d40e53796e6c2335,245
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000055 (2).png,LUSC,816a56393ace2eea,246
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000055 (3).png,LUSC,d12e46393b642df2,247
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000056 (5).png,LUSC,d97342656f643925,248
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000056 (7).png,LUSC,997246656e66392e,198
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000057 (3).png,LUSC,d42f023c2f973db0,249
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000057 (4).png,LUSC,d44b436c3b3c3b91,250
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000057 (5).png,LUSC,91f046847ace696f,251
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000057 (6).png,LUSC,dc63422f0a3c393f,252
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000057 (7).png,LUSC,ddf146204bc66967,253
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000058 (3).png,LUSC,993f46b61e183972,254
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000058 (5).png,LUSC,d97246246a4e393f,255
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000058 (7).png,LUSC,997346254e4e296f,256
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000058.png,LUSC,9812476d5f246e75,257
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000060 (2).png,LUSC,d5521a2d6bb43ce1,258
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000062 (5).png,LUSC,99f947214ec63ac6,259
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000062 (7).png,LUSC,99f147056ece294e,260
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000063 (3).png,LUSC,dc13427d3b346f30,261
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000063 (6).png,LUSC,c14746783f2d33b4,262
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000063.png,LUSC,d542123d6b3c6f54,263
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000064 (4).png,LUSC,946b436c2f2c3cb3,264
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000065 (5).png,LUSC,98b247614bc74ec7,265
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000065 (7).png,LUSC,98b247654a4e6e67,212
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000066 (2).png,LUSC,985a436d4fac4f2c,266
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000066.png,LUSC,814e861b139b5ede,267
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000067 (2).png,LUSC,946b46393b662e63,268
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000067 (3).png,LUSC,9927463f4e786964,269
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000067 (5).png,LUSC,dcb142446bc66dc7,270
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000067 (7).png,LUSC,d83242652b6e3c77,271
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000068 (4).png,LUSC,98705732db8e4b99,272
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000069 (2).png,LUSC,8156176b5e287ba5,273
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000070 (2).png,LUSC,804b57d15ece689b,274
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000070.png,LUSC,990e477b5e283965,275
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000071 (3).png,LUSC,9c16426d8fb46f58,276
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000073 (6).png,LUSC,c16b462c3bb43b95,277
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000074 (5).png,LUSC,99f142654ec62bc7,278
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000074 (6).png,LUSC,c46a46243b9f3db1,239
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000074 (7).png,LUSC,d9f142644e46396f,279
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000075.png,LUSC,d50f06083f9b6cec,280
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000077 (2).png,LUSC,81561f3a7e293365,281
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000077 (4).png,LUSC,9952466f6f4c6e24,282
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000077 (5).png,LUSC,d56a0a6d6b2c3d34,283
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000078 (5).png,LUSC,98b247694b4c6e67,212
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000078 (7).png,LUSC,99b842457bc719c7,284
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000078.png,LUSC,8d0e061b1bdb4eda,285
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000079 (5).png,LUSC,d4fb43e47c53680a,286
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000079 (7).png,LUSC,94fa16e579456493,287
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000079.png,LUSC,909647399eed4e92,288
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000081 (3).png,LUSC,9937463e6a386965,289
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000081 (6).png,LUSC,c16f46393ba493c6,290
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000081.png,LUSC,c15f06191b597cec,291
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000082 (3).png,LUSC,9817453f563c7a70,292
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000082 (4).png,LUSC,946253c46bcf6cc6,196
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000083 (2).png,LUSC,941b43654bce6e8b,293
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000083 (5).png,LUSC,81fa46657b647853,294
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000083 (6).png,LUSC,9ce2456f126c5a73,295
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000083 (7).png,LUSC,d473436439073d9b,296
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000084 (3).png,LUSC,951642696be43d73,297
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000084 (5).png,LUSC,91f156255a4e7966,298
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000084 (7).png,LUSC,997246257a4e3937,255
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000085.png,LUSC,991247e57e863897,299
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000088.png,LUSC,9812436d6f2c7f31,300
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000089 (4).png,LUSC,9d6342a24fcc6dc9,301
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000090 (6).png,LUSC,dcb2426f4a6c2b66,302
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000091 (5).png,LUSC,c4624e643b1f399d,303
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000091 (7).png,LUSC,d47b42643b0b399d,304
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000093.png,LUSC,989247694bec4f95,305
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000094 (3).png,LUSC,9816476f5e943ad2,306
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000094.png,LUSC,9917476e5e283a71,101
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000096 (2).png,LUSC,944a437b1fec2ce1,307
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000096.png,LUSC,9916477e5e283a65,101
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000099 (2).png,LUSC,946b437b1bcc2ce1,307
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000099 (3).png,LUSC,c17e46306b676e32,308
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000100 (4).png,LUSC,9966472a7fac3831,309
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000101 (3).png,LUSC,d93e42b70b182d73,310
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000103.png,LUSC,981247694bec6eb5,305
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000104 (2).png,LUSC,d156057b476c5bc4,311
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000104.png,LUSC,989a43654f866bc7,312
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000105 (5).png,LUSC,d1f042847bce694f,251
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000105 (7).png,LUSC,d57346214b4e3967,313
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000106 (3).png,LUSC,dc134225cf961fca,314
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000106 (4).png,LUSC,a94606687e8779b6,315
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000106 (5).png,LUSC,d1b21069c3ce4f6d,316
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000106 (6).png,LUSC,c943466c4f6d3366,317
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000106 (7).png,LUSC,d13a02694f6c3f74,318
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000120 (2).png,LUSC,9c5a426d4be66f84,319
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000120 (4).png,LUSC,d4f042c47bc66c5b,320
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000120 (6).png,LUSC,9d12426d6bcc6f64,321
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000121 (2).png,LUSC,985a476d5e2c78a5,322
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000121.png,LUSC,dd0e423b5b6c6c31,222
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000122 (3).png,LUSC,d42f42381b7e2c37,323
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000122.png,LUSC,9812476d7fa46c71,257
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/sq1.png,LUSC,99188e653ecf6896,324
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/sq2.png,LUSC,d91346c47a1b6d39,325
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/sq3.png,LUSC,9c3243694f8c3b73,326
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/sq4.png,LUSC,9c3243694f8c3b73,326
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/sq5.png,LUSC,99fac4adc3c4c691,327
+train/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/sq6.png,LUSC,99fac4adc3c4c691,327
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000108 (7).png,LUAD,9812456f576c3e39,328
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000108 (8).png,LUAD,dd33426d4b5c4f60,329
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000109 (3).png,LUAD,cd1a026f1b7d3934,15
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000109 (4).png,LUAD,991e46692eb43f61,330
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000109 (8).png,LUAD,9163466c5b653b66,331
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000110 (7).png,LUAD,c46f126c3bd72c98,2
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000111 (2).png,LUAD,c17b54654a2d2f3c,332
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000112 (2).png,LUAD,cd7a43694a4d7e24,333
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000112 (9).png,LUAD,9816456b5e687679,334
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000113 (3).png,LUAD,cd5a026b1b6d7970,335
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000113.png,LUAD,d02fc65d4b642b66,336
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000114 (10).png,LUAD,9cb34361c7043f75,337
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000114.png,LUAD,912346599ecc1bcf,338
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000115 (2).png,LUAD,b46b43341bd01fc7,339
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000115 (5).png,LUAD,813e56356a746d36,340
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000115 (9).png,LUAD,d51a0e69436c3b3d,341
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000115.png,LUAD,d42b467d2b642e2e,342
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000116 (3).png,LUAD,cd12026f1a6d3b6d,15
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000116 (5).png,LUAD,9912466f4e3c3379,343
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000116 (8).png,LUAD,dc3342640b7e3f31,344
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000116 (9).png,LUAD,d50a424b4beb4f2d,345
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000117 (6).png,LUAD,c51e16687fe46931,346
+valid/adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib/000117.png,LUAD,d03b4a622f3c397c,347
+valid/normal/003828_02_01_174.png,Normal,c187167d6b4ab03d,348
+valid/normal/004007_01_01_519.png,Normal,85617896a5c9db72,349
+valid/normal/004162_01_01_150.png,Normal,dc6302ad2f943cd3,350
+valid/normal/4 (2).png,Normal,9b13c46d47962e96,170
+valid/normal/4 - Copy (2).png,Normal,9b12c56d47967a86,170
+valid/normal/5.png,Normal,dc4e07715a8c7876,184
+valid/normal/6 - Copy (2) - Copy.png,Normal,9993466563d4cec6,186
+valid/normal/6 - Copy (3).png,Normal,91934e666d993ca6,185
+valid/normal/6 - Copy.png,Normal,9993466563d4cec6,186
+valid/normal/7 - Copy (2).png,Normal,9913056f579c5e92,188
+valid/normal/7 - Copy (3).png,Normal,d13b06746f983c1b,187
+valid/normal/7.png,Normal,d13b06746f983c1b,187
+valid/normal/8 - Copy (3).png,Normal,9812c569c7cec6ae,189
+valid/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000108 (3).png,LUSC,817e56397b6c6930,351
+valid/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000110 (6).png,LUSC,9962462a6f1c6f65,352
+valid/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000111.png,LUSC,9812436f4b2c6f3d,353
+valid/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000112.png,LUSC,dc03133f6e347364,354
+valid/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000114 (4).png,LUSC,d47b47647a432f09,355
+valid/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000114 (6).png,LUSC,d853146c634f2f35,356
+valid/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000115 (2).png,LUSC,dc1b426d4bec0fa4,357
+valid/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000115 (5).png,LUSC,dc63426f0b2c3b27,358
+valid/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000116 (2).png,LUSC,991b476f4f2c38a1,359
+valid/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000117 (4).png,LUSC,d4f043c66967643b,360
+valid/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000117 (6).png,LUSC,9c6243296f2c7c37,361
+valid/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000118 (4).png,LUSC,c45f10684e696f6d,362
+valid/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000118 (5).png,LUSC,d47b42646b666e83,363
+valid/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000119 (5).png,LUSC,9866456e1779332d,364
+valid/squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa/000119.png,LUSC,9c13426f8f2c4f3c,365
+test/adenocarcinoma/000108 (3).png,LUAD,d033466d3b343dd1,366
+test/adenocarcinoma/000109 (2).png,LUAD,91a14ece687b2f31,367
+test/adenocarcinoma/000109 (4).png,LUAD,c4d83bc76d396470,368
+test/adenocarcinoma/000109 (5).png,LUAD,999846c7697ec478,369
+test/adenocarcinoma/000112 (2).png,LUAD,85e15e0f69de2531,370
+test/adenocarcinoma/000113 (7).png,LUAD,c4d81b836d3b7c64,371
+test/adenocarcinoma/000114 (5).png,LUAD,94b143456fce343b,372
+test/adenocarcinoma/000114.png,LUAD,d0f00bca3d8f6c3c,373
+test/adenocarcinoma/000115 (4).png,LUAD,91925ecf64ce4969,374
+test/adenocarcinoma/000115 (8).png,LUAD,81a11ed6396b7669,375
+test/adenocarcinoma/000115.png,LUAD,d0d06fce38396734,376
+test/adenocarcinoma/000116 (5).png,LUAD,d0b16f4e3d1b3039,377
+test/adenocarcinoma/000116 (7).png,LUAD,c4d812c76f1b6c39,378
+test/adenocarcinoma/000116 (9).png,LUAD,9992066d6f9c3873,379
+test/adenocarcinoma/000117 (4).png,LUAD,84c47a1e25789eed,380
+test/adenocarcinoma/000117 (8).png,LUAD,d4ce1b922c336e2e,381
+test/adenocarcinoma/000117.png,LUAD,d0d12b42630f7e3b,382
+test/adenocarcinoma/000118 (5).png,LUAD,c1c91e96696f8c3c,383
+test/adenocarcinoma/000118 (7).png,LUAD,949a4b652fc66c6a,384
+test/adenocarcinoma/000119 (4).png,LUAD,91a17e4f61786d61,385
+test/adenocarcinoma/000119 (5).png,LUAD,c1c91e96e94fcc38,383
+test/adenocarcinoma/000119 (6).png,LUAD,81995e976a9a393a,386
+test/adenocarcinoma/000120.png,LUAD,91f14e476cce2d2c,387
+test/adenocarcinoma/000121 (6).png,LUAD,85963e9a69ca6d25,388
+test/adenocarcinoma/000121 (7).png,LUAD,d0b12e676b9a3c29,389
+test/adenocarcinoma/000121.png,LUAD,d0f12fca3d2d6434,390
+test/adenocarcinoma/000122 (4).png,LUAD,81815e5e69783ef2,391
+test/adenocarcinoma/000122.png,LUAD,d0916f462d1b6c3d,392
+test/adenocarcinoma/000123 (4).png,LUAD,dc0b03e42fcb3c33,393
+test/adenocarcinoma/000123 (6).png,LUAD,c1c45e9729397d64,394
+test/adenocarcinoma/000123 (9).png,LUAD,919b13e46e8e3c3a,395
+test/adenocarcinoma/000124 (6).png,LUAD,85a16a5e77711a8e,396
+test/adenocarcinoma/000124 (9).png,LUAD,909f1e9678ca2c79,397
+test/adenocarcinoma/000125 (2).png,LUAD,85a17a5c67731a17,398
+test/adenocarcinoma/000125 (4).png,LUAD,85856e5e67631a66,399
+test/adenocarcinoma/000125 (5).png,LUAD,c4d41b833d39fc64,371
+test/adenocarcinoma/000125 (6).png,LUAD,919a3e4d696e9c31,400
+test/adenocarcinoma/000125 (8).png,LUAD,c55e1eb079d16463,401
+test/adenocarcinoma/000126 (6).png,LUAD,919b1ee46e8e383a,395
+test/adenocarcinoma/000127 (5).png,LUAD,d19b0ec67ccc7039,402
+test/adenocarcinoma/000128 (5).png,LUAD,81c85e172979c5ed,403
+test/adenocarcinoma/000129 (5).png,LUAD,c0d91a866ddb3c3c,404
+test/adenocarcinoma/000129.png,LUAD,91e56ece391d6431,405
+test/adenocarcinoma/000130 (6).png,LUAD,81c07e17056d6f8f,406
+test/adenocarcinoma/000131 (2).png,LUAD,95a26e6f689a2999,407
+test/adenocarcinoma/000132 (2).png,LUAD,c06f2ff43093c69c,408
+test/adenocarcinoma/000132 (7).png,LUAD,d1d13f8e26ce6c28,409
+test/adenocarcinoma/000132 (8).png,LUAD,91995e077a9a393a,386
+test/adenocarcinoma/000132.png,LUAD,d0f12fc22c4f7839,410
+test/adenocarcinoma/000133 (2).png,LUAD,d0f14a062fcf3c3c,411
+test/adenocarcinoma/000133 (4).png,LUAD,91a16e4e6c3a3f31,412
+test/adenocarcinoma/000134 (2).png,LUAD,c1c15a166fce2c6d,413
+test/adenocarcinoma/000134 (9).png,LUAD,81a95e97389a7969,414
+test/adenocarcinoma/000134.png,LUAD,d0f12bda3d6d3031,415
+test/adenocarcinoma/000135 (5).png,LUAD,d11b2fe47c8c3133,416
+test/adenocarcinoma/000136 (2).png,LUAD,93137e6464cd31b3,417
+test/adenocarcinoma/000136 (8).png,LUAD,d1d90e86b979d464,418
+test/adenocarcinoma/000137 (2).png,LUAD,d06b2f66754c38b1,419
+test/adenocarcinoma/000137 (4).png,LUAD,85c56e1e65691ae5,420
+test/adenocarcinoma/000137 (8).png,LUAD,81893e96e86ece39,421
+test/adenocarcinoma/000138 (6).png,LUAD,c4dc1b832d397d64,371
+test/adenocarcinoma/000138 (9).png,LUAD,949a4b643fcb6c32,422
+test/adenocarcinoma/000139 (5).png,LUAD,916e0eb179cd6127,423
+test/adenocarcinoma/000139 (6).png,LUAD,90b16f6e3c9a31c9,424
+test/adenocarcinoma/000139 (8).png,LUAD,81915ed6696a7669,425
+test/adenocarcinoma/000139 (9).png,LUAD,855a1e9679736564,426
+test/adenocarcinoma/000139.png,LUAD,d0d52fcb3c0d6c31,427
+test/adenocarcinoma/000140.png,LUAD,d46d3f90e893d624,428
+test/adenocarcinoma/000141 (2).png,LUAD,85807a5f6e8a2d6e,429
+test/adenocarcinoma/000142.png,LUAD,d0f16b462c0b7c3d,430
+test/adenocarcinoma/000143 (5).png,LUAD,d5660ab93de46493,431
+test/adenocarcinoma/000143 (6).png,LUAD,85a17a5e75399a85,432
+test/adenocarcinoma/000144 (2).png,LUAD,85e17e5e69383c31,433
+test/adenocarcinoma/000144 (5).png,LUAD,d16e0e9179cc6533,434
+test/adenocarcinoma/000145 (9).png,LUAD,c45e1e9639d96465,435
+test/adenocarcinoma/000146 (3).png,LUAD,d1c16e4e7c794e30,436
+test/adenocarcinoma/000146 (6).png,LUAD,918916b46eda393b,437
+test/adenocarcinoma/000147.png,LUAD,d0d42fcb387d6434,438
+test/adenocarcinoma/000148 (3).png,LUAD,91a16ece681a6f69,439
+test/adenocarcinoma/000148 (6).png,LUAD,d4d44b832c3d3367,440
+test/adenocarcinoma/000148 (8).png,LUAD,84ce1f97683e1a3a,441
+test/adenocarcinoma/000148.png,LUAD,c5714e0f39dc3531,442
+test/adenocarcinoma/000149 (2).png,LUAD,81e15e57613a6e71,443
+test/adenocarcinoma/000149 (4).png,LUAD,d1c16e4e6c794e70,436
+test/adenocarcinoma/000149 (7).png,LUAD,c1d917866d3b3c38,444
+test/adenocarcinoma/000151 (5).png,LUAD,d0e16f4e7c390f30,445
+test/adenocarcinoma/000153 (5).png,LUAD,91a16e4e6d1e3c39,446
+test/adenocarcinoma/000155 (4).png,LUAD,c4d81b836d3b7c64,371
+test/adenocarcinoma/000155.png,LUAD,d2e53f0a6c31d994,447
+test/adenocarcinoma/000156 (4).png,LUAD,81ad56973a9e3938,448
+test/adenocarcinoma/000157 (5).png,LUAD,c1c91e96e96e9c31,449
+test/adenocarcinoma/000157 (6).png,LUAD,949a4b643bcb6c33,422
+test/adenocarcinoma/000158 (2).png,LUAD,91276e6c789b61a5,450
+test/adenocarcinoma/000158 (3).png,LUAD,9c534326cf4c3f34,451
+test/adenocarcinoma/000158 (5).png,LUAD,d45923e67d1b7430,452
+test/adenocarcinoma/000158 (6).png,LUAD,81c91e96ea6a9e39,453
+test/adenocarcinoma/000158.png,LUAD,d4b16b446f1a3c39,454
+test/adenocarcinoma/000160 (4).png,LUAD,919b4ee56c8e7039,455
+test/adenocarcinoma/000160 (6).png,LUAD,81b55e56696bd630,456
+test/adenocarcinoma/000161 (4).png,LUAD,c1c91e96ab6ace38,457
+test/adenocarcinoma/000161 (5).png,LUAD,919946c76e9e389a,458
+test/adenocarcinoma/000163 (3).png,LUAD,945a436d2f8e3cb1,459
+test/adenocarcinoma/000163 (7).png,LUAD,dc9b02f46fc23c38,460
+test/adenocarcinoma/000164 (5).png,LUAD,919b46657e9a3872,461
+test/adenocarcinoma/000165 (6).png,LUAD,81915e1697697be4,462
+test/adenocarcinoma/000166 (2).png,LUAD,95267ea169c96533,463
+test/adenocarcinoma/000166 (3).png,LUAD,81935e9e68da9969,464
+test/adenocarcinoma/000166 (4).png,LUAD,91e506923b2f6d6c,465
+test/adenocarcinoma/000167 (3).png,LUAD,919b5e9e69788561,466
+test/adenocarcinoma/000167 (8).png,LUAD,d49b02646bc33c6f,467
+test/adenocarcinoma/000168 (3).png,LUAD,d12f2ef07cc07127,468
+test/adenocarcinoma/000171 (5).png,LUAD,c19a3e4d696a9c71,400
+test/adenocarcinoma/000171.png,LUAD,d4f123c22f0f383d,469
+test/adenocarcinoma/000172 (3).png,LUAD,c1cc5682293b7f2d,470
+test/adenocarcinoma/000173 (5).png,LUAD,999956c76b4e9438,471
+test/adenocarcinoma/000173 (7).png,LUAD,d0876b1c3dc33c39,472
+test/adenocarcinoma/000174 (4).png,LUAD,d1915e16316b4e76,473
+test/adenocarcinoma/000176 (2).png,LUAD,91376e6c789921b5,450
+test/adenocarcinoma/000177 (4).png,LUAD,9497471c3ac76c3a,474
+test/adenocarcinoma/000177.png,LUAD,d0f42f4b3035cb9c,475
+test/normal/10 (2) - Copy.png,Normal,d10757396a386dd4,169
+test/normal/10 (2).png,Normal,d10757396a386dd4,169
+test/normal/10 - Copy (2) - Copy.png,Normal,d107533b6a386dd4,169
+test/normal/10 - Copy (2).png,Normal,d107533b6a386dd4,169
+test/normal/10 - Copy (3).png,Normal,d107533b6a386dd4,169
+test/normal/10 - Copy - Copy.png,Normal,d107533b6a386dd4,169
+test/normal/10 - Copy.png,Normal,d107533b6a386dd4,169
+test/normal/10.png,Normal,d107533b6a386dd4,169
+test/normal/11 (2) - Copy.png,Normal,9b12456d47a67e92,170
+test/normal/11 (2).png,Normal,9b12456d47a67e92,170
+test/normal/11 - Copy (2) - Copy.png,Normal,9b12c56d47863e96,170
+test/normal/11 - Copy (2).png,Normal,9b12c56d47863e96,170
+test/normal/11 - Copy (3).png,Normal,9b12456d47a67e92,170
+test/normal/11 - Copy - Copy.png,Normal,9b12c56d47863e96,170
+test/normal/11 - Copy.png,Normal,9b12c56d47863e96,170
+test/normal/11.png,Normal,9b12456d47a67e92,170
+test/normal/12 (2) - Copy.png,Normal,9b13c46d439e2e96,170
+test/normal/12 (2).png,Normal,9b13c46d439e2e96,170
+test/normal/12 - Copy (2) - Copy.png,Normal,9b12846947de5e96,171
+test/normal/12 - Copy (2).png,Normal,9b12846947de5e96,171
+test/normal/12 - Copy (3).png,Normal,9b12c46d479e2e96,170
+test/normal/12 - Copy - Copy.png,Normal,9b12c46d439e3e96,170
+test/normal/12 - Copy.png,Normal,9b12c46d439e3e96,170
+test/normal/21.png,Normal,9b1244ed47963e96,170
+test/normal/22.png,Normal,d913537e8e6d8258,476
+test/normal/23.png,Normal,99b54527429f439b,477
+test/normal/24 - Copy.png,Normal,993b0565c7d4ce92,478
+test/normal/24.png,Normal,993b0565c7d4ce92,478
+test/normal/25.png,Normal,991b452d439c2e7b,479
+test/normal/6 (2) - Copy.png,Normal,91934e666d993ca6,185
+test/normal/6 (2).png,Normal,91934e666d993ca6,185
+test/normal/6 - Copy (2) - Copy.png,Normal,9993466563d4cec6,186
+test/normal/6 - Copy (2).png,Normal,9993466563d4cec6,186
+test/normal/6 - Copy (3).png,Normal,91934e666d993ca6,185
+test/normal/6 - Copy.png,Normal,9993466563d4cec6,186
+test/normal/6.png,Normal,91934e666d993ca6,185
+test/normal/7 (2) - Copy.png,Normal,d13b06746f983c1b,187
+test/normal/7 (2).png,Normal,d13b06746f983c1b,187
+test/normal/7 - Copy (2) - Copy.png,Normal,9913056f579c5e92,188
+test/normal/7 - Copy (2).png,Normal,9913056f579c5e92,188
+test/normal/7 - Copy (3).png,Normal,d13b06746f983c1b,187
+test/normal/7 - Copy - Copy.png,Normal,9913056f579c5e92,188
+test/normal/7 - Copy.png,Normal,9913056f579c5e92,188
+test/normal/7.png,Normal,d13b06746f983c1b,187
+test/normal/8 (2) - Copy.png,Normal,9812c569c7cec6ae,189
+test/normal/8 (2).png,Normal,9812c569c7cec6ae,189
+test/normal/8 - Copy (2) - Copy.png,Normal,9912c569c3cec6ae,189
+test/normal/8 - Copy (2).png,Normal,9912c569c3cec6ae,189
+test/normal/8 - Copy (3).png,Normal,9812c569c7cec6ae,189
+test/normal/8 - Copy - Copy.png,Normal,9912c569c3cec6ae,189
+test/normal/8 - Copy.png,Normal,9912c569c3cec6ae,189
+test/normal/8.png,Normal,9812c569c7cec6ae,189
+test/normal/normal - Copy.png,Normal,99350537573e5a92,480
+test/normal/normal.png,Normal,9931463f3ada3961,481
+test/squamous.cell.carcinoma/000108 (6).png,LUSC,d1914ec6393b7a64,482
+test/squamous.cell.carcinoma/000110 (2).png,LUSC,91d96e9668ce3968,483
+test/squamous.cell.carcinoma/000111.png,LUSC,91924ecf697e3c24,484
+test/squamous.cell.carcinoma/000112.png,LUSC,819d5e57797a4c21,485
+test/squamous.cell.carcinoma/000114 (2).png,LUSC,91937e2c6fc62c34,486
+test/squamous.cell.carcinoma/000114 (3).png,LUSC,d4e04b06791b2f9d,487
+test/squamous.cell.carcinoma/000115 (4).png,LUSC,d4e343442f0b3d3b,488
+test/squamous.cell.carcinoma/000115 (5).png,LUSC,949a43c56f8f2c8e,489
+test/squamous.cell.carcinoma/000116 (5).png,LUSC,90995bc76ece2c38,490
+test/squamous.cell.carcinoma/000117 (2).png,LUSC,95e44b87696e8c6c,491
+test/squamous.cell.carcinoma/000117 (3).png,LUSC,95f05606657b0f65,492
+test/squamous.cell.carcinoma/000117 (5).png,LUSC,80a94b477c7e5378,493
+test/squamous.cell.carcinoma/000118 (3).png,LUSC,c4d21bc06ace69af,494
+test/squamous.cell.carcinoma/000118 (4).png,LUSC,81e05e45699bbd39,495
+test/squamous.cell.carcinoma/000119 (4).png,LUSC,90a347447f9a6c3b,496
+test/squamous.cell.carcinoma/000119.png,LUSC,91914ec76c3e1e69,497
+test/squamous.cell.carcinoma/000120 (2).png,LUSC,999846c76bce2c6c,498
+test/squamous.cell.carcinoma/000120 (3).png,LUSC,d4f04ac6647b4f64,499
+test/squamous.cell.carcinoma/000120 (5).png,LUSC,909a436d6f8e647c,500
+test/squamous.cell.carcinoma/000121 (5).png,LUSC,909a43c56fcf3c38,501
+test/squamous.cell.carcinoma/000121.png,LUSC,818d5e96397a9e68,502
+test/squamous.cell.carcinoma/000122 (6).png,LUSC,81b14ec63a3b5a7c,503
+test/squamous.cell.carcinoma/000122.png,LUSC,91915ecf694a9e2c,504
+test/squamous.cell.carcinoma/000124 (4).png,LUSC,d4e343442f8b6c3b,488
+test/squamous.cell.carcinoma/000124 (5).png,LUSC,94e843937b0f6c6c,505
+test/squamous.cell.carcinoma/000124.png,LUSC,819956d77a7e0c29,506
+test/squamous.cell.carcinoma/000125 (2).png,LUSC,999a466d6fc62c64,507
+test/squamous.cell.carcinoma/000125 (6).png,LUSC,d9b946963b4a3869,508
+test/squamous.cell.carcinoma/000125.png,LUSC,91997646786e3d31,509
+test/squamous.cell.carcinoma/000126 (4).png,LUSC,81e25e47691b3d39,495
+test/squamous.cell.carcinoma/000127 (2).png,LUSC,9c6146966bcf2c39,510
+test/squamous.cell.carcinoma/000127 (6).png,LUSC,91b94e963a5a7869,511
+test/squamous.cell.carcinoma/000127.png,LUSC,819d5ed6787a6921,512
+test/squamous.cell.carcinoma/000129 (2).png,LUSC,818e5eb56ace6863,513
+test/squamous.cell.carcinoma/000129 (6).png,LUSC,d1b90ec6391b5a3c,514
+test/squamous.cell.carcinoma/000130 (4).png,LUSC,d4b163443f8b6c2b,515
+test/squamous.cell.carcinoma/000131 (6).png,LUSC,949642493bd66c6f,516
+test/squamous.cell.carcinoma/000132 (4).png,LUSC,94a167463b9b2c3b,517
+test/squamous.cell.carcinoma/000133 (2).png,LUSC,999a46cd6ace2c6c,498
+test/squamous.cell.carcinoma/000133 (3).png,LUSC,99f146c622ce4e6d,518
+test/squamous.cell.carcinoma/000134 (5).png,LUSC,90e94f46393ae56c,519
+test/squamous.cell.carcinoma/000135 (4).png,LUSC,c1f34e44695b253b,520
+test/squamous.cell.carcinoma/000135.png,LUSC,85d15e1e69693ea1,521
+test/squamous.cell.carcinoma/000136 (4).png,LUSC,d0a147463f8b6c3b,522
+test/squamous.cell.carcinoma/000136 (6).png,LUSC,c5e45e16216d2eb6,523
+test/squamous.cell.carcinoma/000137 (3).png,LUSC,d4e06a0e65791b2f,524
+test/squamous.cell.carcinoma/000137.png,LUSC,d89a43c76d6b462c,525
+test/squamous.cell.carcinoma/000139 (4).png,LUSC,c0e146c46fce6c3b,526
+test/squamous.cell.carcinoma/000139 (5).png,LUSC,80a94f473d3a576c,527
+test/squamous.cell.carcinoma/000139 (6).png,LUSC,999946c63ece3839,528
+test/squamous.cell.carcinoma/000141 (2).png,LUSC,94e44b876dce4c6c,529
+test/squamous.cell.carcinoma/000141 (4).png,LUSC,c4a3636c3f932c39,530
+test/squamous.cell.carcinoma/000142 (5).png,LUSC,90a84f47393a776c,527
+test/squamous.cell.carcinoma/000142 (6).png,LUSC,d1b90ec6383b5b2c,514
+test/squamous.cell.carcinoma/000144 (5).png,LUSC,80a52f453c3e5b79,531
+test/squamous.cell.carcinoma/000145 (6).png,LUSC,d1b906d63b5a3869,508
+test/squamous.cell.carcinoma/000146 (6).png,LUSC,989647497b962c6b,532
+test/squamous.cell.carcinoma/000148 (3).png,LUSC,91b056456bcf6c2e,533
+test/squamous.cell.carcinoma/000148 (4).png,LUSC,d4a3634c3f922c9b,534
+test/squamous.cell.carcinoma/000149 (4).png,LUSC,c1f34644691b3d3b,520
+test/squamous.cell.carcinoma/000151 (6).png,LUSC,c1914ec6393b5b6c,482
+test/squamous.cell.carcinoma/000151.png,LUSC,989a47c76b6f0c2c,535
+test/squamous.cell.carcinoma/000153 (3).png,LUSC,c1901e416bcf6dae,536
+test/squamous.cell.carcinoma/000153 (4).png,LUSC,c0836b6c7b962c3b,537
+test/squamous.cell.carcinoma/000153.png,LUSC,818d06973b7ade68,538
+test/squamous.cell.carcinoma/000154 (2).png,LUSC,999a46cd6ace2c6c,498
+test/squamous.cell.carcinoma/000154 (3).png,LUSC,84c21f456a4f6d37,539
+test/squamous.cell.carcinoma/000154 (4).png,LUSC,81e146c578de6d69,540
+test/squamous.cell.carcinoma/000155 (3).png,LUSC,91f15e87614e4e69,541
+test/squamous.cell.carcinoma/000155.png,LUSC,95c77e1c686a3037,542
+test/squamous.cell.carcinoma/000156 (2).png,LUSC,91e45e9f69e82c61,543
+test/squamous.cell.carcinoma/000157 (6).png,LUSC,d1b906963b5a1e2d,544
+test/squamous.cell.carcinoma/000158 (4).png,LUSC,d4e142c46fcb2c3b,545
+test/squamous.cell.carcinoma/000158 (6).png,LUSC,919656496bc63c79,546
+test/squamous.cell.carcinoma/000159 (5).png,LUSC,94cd43923b1f6c6c,547
+test/squamous.cell.carcinoma/000160 (4).png,LUSC,d0e347443b9a6c3b,496
+test/squamous.cell.carcinoma/000162 (2).png,LUSC,81e156976ace6c69,548
+test/squamous.cell.carcinoma/000162.png,LUSC,989a47456b7f342c,549
+test/squamous.cell.carcinoma/000163 (4).png,LUSC,c4a3636c7b832c3b,530
+test/squamous.cell.carcinoma/000163 (5).png,LUSC,909a43c56fcf343c,501
+test/squamous.cell.carcinoma/000163 (6).png,LUSC,91961e596b96784b,550
+test/squamous.cell.carcinoma/000164 (5).png,LUSC,d4cd4382393bce6c,551
+test/squamous.cell.carcinoma/000166 (4).png,LUSC,c5033b7c7a892cb6,552
+test/squamous.cell.carcinoma/000167 (2).png,LUSC,94e05387685fcd6c,553
+test/squamous.cell.carcinoma/000168 (2).png,LUSC,981a466d6f962c37,554
+test/squamous.cell.carcinoma/000169 (6).png,LUSC,d1fd0606396b6e2c,555
+test/squamous.cell.carcinoma/000170 (2).png,LUSC,95644e9f69dc2471,556
+test/squamous.cell.carcinoma/000172 (6).png,LUSC,949643697bc62c6b,557
+test/squamous.cell.carcinoma/000174 (3).png,LUSC,81f21e416bcf2d36,558
+test/squamous.cell.carcinoma/000177 (3).png,LUSC,d5e05a0e65791f25,559

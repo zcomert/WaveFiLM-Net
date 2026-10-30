@@ -1,0 +1,10 @@
+# Versions of the study environment (Python 3.11.9). For CUDA 12.1 builds of PyTorch, install torch and
+# torchvision first from https://download.pytorch.org/whl/cu121 (see REPRODUCTION.md).
+torch==2.5.1
+torchvision==0.20.1
+numpy==2.4.6
+pandas==3.0.6
+pillow==12.3.0
+pyyaml==6.0.3
+scikit-learn==1.9.1
+pytest==9.1.1
