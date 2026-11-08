@@ -3,8 +3,9 @@ message: "If you use this software, please cite the associated article. Its jour
 title: "WaveFiLM-Net: Wavelet-Conditioned Spatial Feature-Wise Modulation of Frozen Features for Lung CT Image Classification"
 type: software
 license: MIT
-version: 0.2.0
-# repository-code and date-released are added when the public repository is created and tagged.
+version: 1.0.0
+repository-code: "https://github.com/zcomert/WaveFiLM-Net"
+date-released: "2026-11-08"
 keywords:
   - lung cancer
   - grouped cross-validation
